@@ -1,0 +1,9 @@
+payload:
+    # Github releases下载
+  - DOMAIN-SUFFIX,objects.githubusercontent.com
+    # wetransfer下载
+  - DOMAIN-SUFFIX,download.wetransfer.com
+    # Gofile网盘下载
+  - DOMAIN-SUFFIX,file0.gofile.io
+    # OneDrive网盘下载
+  - DOMAIN-SUFFIX,sharepoint.com

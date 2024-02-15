@@ -1,0 +1,45 @@
+payload:
+    # 机场
+  - DOMAIN-SUFFIX,niceduck.cc #好鸭
+  - DOMAIN-SUFFIX,naiunet.net #NaiU
+  - DOMAIN-SUFFIX,naiunet.com
+  - DOMAIN-SUFFIX,maikcloud.top #麦块
+  - DOMAIN-SUFFIX,maikuaiyun.com
+  - DOMAIN-SUFFIX,six-u.com
+  - DOMAIN-SUFFIX,mkco2o.site
+  - DOMAIN-SUFFIX,newyun.io #新云
+  - DOMAIN-SUFFIX,newyun.top
+  - DOMAIN-SUFFIX,skycloud.lol #天空云
+  - DOMAIN-SUFFIX,fscloud.cc #FSC
+  - DOMAIN-SUFFIX,ovofast.com #OVO
+  - DOMAIN-SUFFIX,chaojijichang.com #超级
+  - DOMAIN-SUFFIX,pqjc.site #赔钱
+  - DOMAIN-SUFFIX,tejiajichang.com #特价
+  - DOMAIN-SUFFIX,eggtartcloud.shop #蛋挞
+  - DOMAIN-SUFFIX,kaochang.pw #烤肠
+  - DOMAIN-SUFFIX,sfcloud.dev #SFC
+  - DOMAIN-SUFFIX,karleynetwork.shop #卡荔
+  - DOMAIN-SUFFIX,synn.cc #SYN
+  - DOMAIN-SUFFIX,starcloud.monster #Galaxy
+  - DOMAIN-SUFFIX,sa.maxgogo.win #MAX
+  - DOMAIN-SUFFIX,666666222.xyz #六分
+  - DOMAIN-SUFFIX,xn--57qr98d.top #冲浪云
+  - DOMAIN-SUFFIX,xn--mes358a9urctx.com #顶级
+  - DOMAIN-SUFFIX,xqc.best #XQC
+    # 订阅
+  - DOMAIN-SUFFIX,api.v1.mk #肥羊
+  - DOMAIN-SUFFIX,sub.d1.mk #肥羊备用
+  - DOMAIN-SUFFIX,sub.xeton.dev #卡荔
+  - DOMAIN-SUFFIX,id9.cc #品云
+  - DOMAIN-SUFFIX,niceduck.cloud #好鸭
+  - DOMAIN-SUFFIX,mk8866.top #麦块
+  - DOMAIN-SUFFIX,book.fucknvidia.link #新云
+  - DOMAIN-SUFFIX,owosss.com #OVO
+  - DOMAIN-SUFFIX,chaojiji.one #超级
+  - DOMAIN-SUFFIX,sooooffffast.lat #SFC
+  - DOMAIN-SUFFIX,acl.syyn.pw #SYN
+  - DOMAIN-SUFFIX,app.100861234.xyz #MAX
+  - DOMAIN-SUFFIX,starcloud.win #Galaxy
+  - DOMAIN-SUFFIX,dingyue.cloudaccess.icu #冲浪云
+  - DOMAIN-SUFFIX,dash.djjc.cfd #顶级
+  - DOMAIN-SUFFIX,088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz #特价

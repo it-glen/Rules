@@ -1,0 +1,53 @@
+payload:
+    # 小雅
+  - DOMAIN-SUFFIX,xiaoya.pro
+    # gist
+  - DOMAIN-SUFFIX,gist.githubusercontent.com
+    # metacubex
+  - DOMAIN-SUFFIX,metacubex.one
+    # docs.plusai.me
+  - DOMAIN-SUFFIX,plusai.me
+  - DOMAIN-SUFFIX,plusai.io
+    # 小说网站
+  - DOMAIN-SUFFIX,69shu.com
+  - DOMAIN-SUFFIX,69shuba.com
+  - DOMAIN-SUFFIX,69shu.io
+  - DOMAIN-KEYWORD,69shu
+    # 博客/论坛
+  - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN-SUFFIX,ffqla.net
+  - DOMAIN-SUFFIX,nodeseek.com
+    # 测速
+  - DOMAIN-SUFFIX,speedtest.net #speedtest
+  - DOMAIN-SUFFIX,speed.io
+  - DOMAIN-SUFFIX,ip125.com
+    # 软件源
+  - DOMAIN-SUFFIX,openwrt.888913.gq
+  - DOMAIN-SUFFIX,openwrt.ai
+    # 规则网址
+  - DOMAIN-SUFFIX,adrules.top #AdRules
+  - DOMAIN-SUFFIX,neodev.team #neodevhost
+    # 漏网之鱼
+  - DOMAIN-SUFFIX,apkpure.net #apkpure软件商店
+  - DOMAIN-SUFFIX,greasyfork.org #Greasy Fork
+  - DOMAIN-SUFFIX,mb3admin.com #emby官网
+  - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
+  - DOMAIN-SUFFIX,stun.voiparound.com #stun
+  - DOMAIN-SUFFIX,stun.sipgate.net
+  - IP-CIDR,103.129.252.78/32,no-resolve
+  - IP-CIDR,103.129.252.98/32,no-resolve
+  - IP-CIDR,103.129.252.99/32,no-resolve
+  - IP-CIDR,202.61.203.218/32,no-resolve #pilipili
+    # DNS
+  - DOMAIN-SUFFIX,dns.google
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,dns.quad9.net
+  - DOMAIN-SUFFIX,doh.opendns.com
+  - IP-CIDR,8.8.8.8/32,no-resolve
+  - IP-CIDR,8.8.4.4/32,no-resolve
+  - IP-CIDR,1.1.1.1/32,no-resolve
+  - IP-CIDR,1.0.0.1/32,no-resolve
+  - IP-CIDR,9.9.9.9/32,no-resolve
+  - IP-CIDR,149.112.112.112/32,no-resolve
+  - IP-CIDR,208.67.222.222/32,no-resolve
+  - IP-CIDR,208.67.220.220/32,no-resolve

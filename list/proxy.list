@@ -1,0 +1,32 @@
+# 小说
+DOMAIN-SUFFIX,69shu.com
+DOMAIN-SUFFIX,69shuba.com
+DOMAIN-SUFFIX,69shu.io
+DOMAIN-KEYWORD,69shu
+
+# 博客
+DOMAIN-SUFFIX,bulianglin.com
+
+# 机场
+DOMAIN-SUFFIX,1day.cc
+DOMAIN-SUFFIX,254254.xyz
+DOMAIN-SUFFIX,my.synn.cc
+
+# 漏网之鱼
+
+# CloudFlare
+# DOMAIN-SUFFIX,api.i-meto.com
+# DOMAIN-SUFFIX,source.fomal.cc
+# DOMAIN-SUFFIX,bitwarden.com
+# DOMAIN-SUFFIX,immersivetranslate.com
+# IP-CIDR,104.18.0.0/24,no-resolve
+# IP-CIDR,104.21.0.0/24,no-resolve
+# IP-CIDR,172.67.0.0/24,no-resolve
+
+# Github Action
+DOMAIN-SUFFIX,tmate.io
+
+# DNS
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,9.9.9.9/32,no-resolve

@@ -1,0 +1,28 @@
+# 个人博客
+DOMAIN-SUFFIX,duangks.com
+DOMAIN-SUFFIX,itglen.cn
+DOMAIN-SUFFIX,p3terx.com
+
+# 下载
+DOMAIN-SUFFIX,kaifa520.sharepoint.com
+DOMAIN-SUFFIX,mgamem.com
+DOMAIN-SUFFIX,lanzouc.com
+DOMAIN-SUFFIX,lanzous.com
+DOMAIN-SUFFIX,lanzoui.com
+
+# 机场
+DOMAIN-SUFFIX,pqjc.site
+DOMAIN-SUFFIX,gfwvip.me
+DOMAIN-SUFFIX,tejiajichang.com
+DOMAIN-SUFFIX,347567.net
+DOMAIN-SUFFIX,reborn.kaochang.ltd
+DOMAIN-SUFFIX,web.coo.wiki
+DOMAIN-SUFFIX,app.maxgogo.win
+
+# 网站
+# DOMAIN-SUFFIX,aulacn.com
+# DOMAIN-SUFFIX,360stop.org
+IP-CIDR,154.12.90.7/32,no-resolve
+
+# 可直连的国外网站
+DOMAIN-SUFFIX,dell.com

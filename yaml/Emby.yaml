@@ -1,0 +1,25 @@
+payload:
+    # Emby代理
+  - DOMAIN-SUFFIX,peachmv.me #peach_公益服
+  - IP-CIDR,193.123.232.141/32,no-resolve
+  - DOMAIN-SUFFIX,cf.jmsooo.com #卷毛鼠CF线路
+  - DOMAIN-SUFFIX,cf2.jmsooo.com
+  - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭CF线路
+  - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili
+  - DOMAIN-SUFFIX,emby.pilipiliultra.com
+  - DOMAIN-SUFFIX,push.pilipiliultra.com #pilipili推流域名
+  - DOMAIN-SUFFIX,bili.bili.rip #hxd直连线路
+  - DOMAIN-SUFFIX,cdn.bili.rip #hxd
+  - DOMAIN-SUFFIX,cf.bili.rip
+  - DOMAIN-SUFFIX,emby.bangumi.ca #Nya
+  - DOMAIN-SUFFIX,emby.kim #魔仙堡
+  - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
+  - DOMAIN-SUFFIX,nezha.airpor.top
+  - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
+  - DOMAIN-SUFFIX,embyplus.org #纸片人
+  - DOMAIN-SUFFIX,gd.9521732.xyz
+  - DOMAIN-SUFFIX,chirsemby.top
+  - IP-CIDR,89.58.18.111/32,no-resolve
+   # Jellyfin代理
+  - DOMAIN-SUFFIX,vip3.jellyfin.asia #蛋挞云x水母
+  - DOMAIN-SUFFIX,emby.eggtartcloud.shop
