@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,xn--sss604efuw.top #饭太硬
   - DOMAIN-SUFFIX,wogg.xyz #玩偶哥哥
   - DOMAIN-SUFFIX,wogg.link
+  - DOMAIN-SUFFIX,wogg.net
   - DOMAIN-SUFFIX,888484.xyz
   - DOMAIN-SUFFIX,imgffzy.com
   - DOMAIN-SUFFIX,zykpic.com
@@ -15,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,olddddd.com #泥巴
   - DOMAIN-SUFFIX,6huo.com #叨观荐影
   - DOMAIN-SUFFIX,czzy66.com #厂长
+  - DOMAIN-SUFFIX,czzy55.com
   - DOMAIN-SUFFIX,cs1369.com #九六
   - DOMAIN-SUFFIX,image8899.net #七七|南瓜
   - DOMAIN-SUFFIX,lzzyimg.com
@@ -71,7 +73,11 @@ payload:
   - DOMAIN-SUFFIX,akanhd.com
   - DOMAIN-SUFFIX,nmddd.com
   - DOMAIN-SUFFIX,himado.com
-  - DOMAIN-SUFFIX,mxplayer.j2inter.com
+  - DOMAIN-SUFFIX,svip.picffzy.com
+  - DOMAIN-SUFFIX,ttkx.live
+  - DOMAIN-SUFFIX,lmapp.org
+  - DOMAIN-SUFFIX,maofile.top
+  - DOMAIN-SUFFIX,duanju.one
   - IP-CIDR,107.151.250.35/32,no-resolve
   - IP-CIDR,193.84.249.248/32,no-resolve
   - IP-CIDR,103.108.66.196/32,no-resolve
