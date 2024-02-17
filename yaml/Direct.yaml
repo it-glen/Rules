@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,codelife.cc #itab壁纸接口
   - DOMAIN-SUFFIX,stun.xten.com #stun,webrtc
   - DOMAIN-SUFFIX,sentry-cdn.com #checkadblock.ru
+  - DOMAIN-SUFFIX,aefd.nelreports.net
   - IP-CIDR,65.143.67.88/32,no-resolve
-    # Kinh代理
-  - IP-CIDR,139.162.63.32/32,no-resolve
-  - IP-CIDR,58.144.196.61/32,no-resolve
+
