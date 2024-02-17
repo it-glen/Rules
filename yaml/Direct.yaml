@@ -6,7 +6,6 @@ payload:
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
   - DOMAIN-SUFFIX,mirror.ghproxy.com #github镜像
-  - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,jetbrains.com #jetbrains
   - DOMAIN-SUFFIX,cn.download.nvidia.com #nvidia驱动下载
   - DOMAIN-SUFFIX,gamer520.com #switch520
