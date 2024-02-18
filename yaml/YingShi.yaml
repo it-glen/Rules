@@ -78,6 +78,8 @@ payload:
   - DOMAIN-SUFFIX,lmapp.org
   - DOMAIN-SUFFIX,maofile.top
   - DOMAIN-SUFFIX,duanju.one
+  - DOMAIN-SUFFIX,xqsp.top
+  - DOMAIN-SUFFIX,fanmingming.com
   - IP-CIDR,107.151.250.35/32,no-resolve
   - IP-CIDR,193.84.249.248/32,no-resolve
   - IP-CIDR,103.108.66.196/32,no-resolve
