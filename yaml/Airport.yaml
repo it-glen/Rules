@@ -8,10 +8,10 @@ payload:
   - DOMAIN-SUFFIX,six-u.com
   - DOMAIN-SUFFIX,mkco2o.site
   - DOMAIN-SUFFIX,newyun.io #新云
-  - DOMAIN-SUFFIX,newyun.top
   - DOMAIN-SUFFIX,xyun.me
   - DOMAIN-SUFFIX,xyun.pro
   - DOMAIN-SUFFIX,xyun01.xyz
+  - DOMAIN-SUFFIX,xinyun01.cloud
   - DOMAIN-SUFFIX,skycloud.lol #天空云
   - DOMAIN-SUFFIX,fscloud.cc #FSC
   - DOMAIN-SUFFIX,ovofast.com #OVO
@@ -37,8 +37,7 @@ payload:
   - DOMAIN-SUFFIX,niceduck.cloud #好鸭
   - DOMAIN-SUFFIX,mk8866.top #麦块
   - DOMAIN-SUFFIX,kaochang.casa #烤肠
-  - DOMAIN-SUFFIX,book.fucknvidia.link #新云
-  - DOMAIN-SUFFIX,nginxxy.xyz
+  - DOMAIN-SUFFIX,nginxxy.xyz #新云
   - DOMAIN-SUFFIX,owosss.com #OVO
   - DOMAIN-SUFFIX,chaojiji.one #超级
   - DOMAIN-SUFFIX,sooooffffast.lat #SFC
