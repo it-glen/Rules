@@ -20,4 +20,16 @@ payload:
   - DOMAIN-SUFFIX,sentry-cdn.com #checkadblock.ru
   - DOMAIN-SUFFIX,aefd.nelreports.net
   - IP-CIDR,65.143.67.88/32,no-resolve
-
+    # DNS
+  - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN-SUFFIX,dns.alidns.com
+  - IP-CIDR,202.103.24.68/32,no-resolve
+  - IP-CIDR,202.114.96.1/32,no-resolve
+  - IP-CIDR,180.76.76.76/32,no-resolve
+  - IP-CIDR,223.5.5.5/32,no-resolve
+  - IP-CIDR,223.6.6.6/32,no-resolve
+  - IP-CIDR,119.29.29.29/32,no-resolve
+  - IP-CIDR,1.12.12.12/32,no-resolve
+  - IP-CIDR,120.53.53.53/32,no-resolve
+  - IP-CIDR,114.114.114.114/32,no-resolve
+  
