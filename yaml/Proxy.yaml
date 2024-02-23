@@ -34,12 +34,10 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org #Greasy Fork
   - DOMAIN-SUFFIX,mb3admin.com #emby官网
   - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
-  - DOMAIN-SUFFIX,stun.voiparound.com #stun
-  - DOMAIN-SUFFIX,stun.sipgate.net
-  - IP-CIDR,103.129.252.78/32,no-resolve
-  - IP-CIDR,103.129.252.98/32,no-resolve
-  - IP-CIDR,103.129.252.99/32,no-resolve
-  - IP-CIDR,202.61.203.218/32,no-resolve #pilipili
+  # - IP-CIDR,103.129.252.78/32,no-resolve
+  # - IP-CIDR,103.129.252.98/32,no-resolve
+  # - IP-CIDR,103.129.252.99/32,no-resolve
+  # - IP-CIDR,202.61.203.218/32,no-resolve #疑似pilipili
     # DNS
   - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,cloudflare-dns.com
