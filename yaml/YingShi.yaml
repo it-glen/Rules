@@ -24,6 +24,9 @@ payload:
   - DOMAIN-SUFFIX,112114.xyz #饭太硬直播
   - DOMAIN-SUFFIX,libvio.fun
   - DOMAIN-SUFFIX,libvio.cc
+  - DOMAIN-SUFFIX,libvio.vip
+  - DOMAIN-SUFFIX,libvio.pro
+  - DOMAIN-SUFFIX,libvio.pw
   - DOMAIN-SUFFIX,lldm.net
   - DOMAIN-SUFFIX,fanty.run.goorm.site
   - DOMAIN-SUFFIX,ysjdm.net
@@ -53,7 +56,6 @@ payload:
   - DOMAIN-SUFFIX,snzypic.com
   - DOMAIN-SUFFIX,yzzyimg.com
   - DOMAIN-SUFFIX,shuke99.com
-  - DOMAIN-SUFFIX,libvio.pro
   - DOMAIN-SUFFIX,leuse.top
   - DOMAIN-SUFFIX,generationnexxxt.com
   - DOMAIN-SUFFIX,ffzy-online6.com
@@ -95,10 +97,10 @@ payload:
   - DOMAIN-SUFFIX,freeok.me
   - DOMAIN-SUFFIX,aikanys.vip
   - DOMAIN-SUFFIX,tvyb03.com
-  - DOMAIN-SUFFIX,libvio.vip
   - DOMAIN-SUFFIX,zzdj.cc
   - DOMAIN-SUFFIX,6080yy1.com
   - DOMAIN-SUFFIX,dick.xfani.com
+  - DOMAIN-SUFFIX,aiduanju.vip
   - IP-CIDR,107.151.250.35/32,no-resolve
   - IP-CIDR,193.84.249.248/32,no-resolve
   - IP-CIDR,103.108.66.196/32,no-resolve
