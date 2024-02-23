@@ -8,6 +8,8 @@ payload:
     # docs.plusai.me
   - DOMAIN-SUFFIX,plusai.me
   - DOMAIN-SUFFIX,plusai.io
+    # vivaldi
+  - DOMAIN-SUFFIX,vivaldi.net
     # 小说网站
   - DOMAIN-SUFFIX,69shu.com
   - DOMAIN-SUFFIX,69shuba.com
