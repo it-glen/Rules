@@ -80,6 +80,26 @@ payload:
   - DOMAIN-SUFFIX,duanju.one
   - DOMAIN-SUFFIX,xqsp.top
   - DOMAIN-SUFFIX,fanmingming.com
+  - DOMAIN-SUFFIX,xn--Z7x900a.live # 肥猫
+  - DOMAIN-SUFFIX,xn--yety82d.love
+  - DOMAIN-SUFFIX,d.kstore.space
+  - DOMAIN-SUFFIX,voflix.me
+  - DOMAIN-SUFFIX,rzys.xyz
+  - DOMAIN-SUFFIX,vidhub2.cc
+  - DOMAIN-SUFFIX,316dy.com
+  - DOMAIN-SUFFIX,leshizyapi.com
+  - DOMAIN-SUFFIX,cao.xn--yetu07f.icu
+  - DOMAIN-SUFFIX,lggys.com
+  - DOMAIN-SUFFIX,fagmn.com
+  - DOMAIN-SUFFIX,ttkx.site
+  - DOMAIN-SUFFIX,freeok.me
+  - DOMAIN-SUFFIX,aikanys.vip
+  - DOMAIN-SUFFIX,tvyb03.com
+  - DOMAIN-SUFFIX,libvio.vip
+  - DOMAIN-SUFFIX,zzdj.cc
+  - DOMAIN-SUFFIX,6080yy1.com
+  - DOMAIN-SUFFIX,dick.xfani.com
   - IP-CIDR,107.151.250.35/32,no-resolve
   - IP-CIDR,193.84.249.248/32,no-resolve
   - IP-CIDR,103.108.66.196/32,no-resolve
+  - IP-CIDR,38.12.25.109/32,no-resolve
