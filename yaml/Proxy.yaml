@@ -10,9 +10,6 @@ payload:
   - DOMAIN-SUFFIX,plusai.io
     # vivaldi
   - DOMAIN-SUFFIX,vivaldi.net
-    # gog
-  - DOMAIN-SUFFIX,gog.salesmanago.com
-  - DOMAIN-SUFFIX,fast.wistia.net
     # 图床
   - DOMAIN-SUFFIX,imgtp.com
     # 小说网站
