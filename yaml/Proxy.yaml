@@ -26,6 +26,8 @@ payload:
   - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
   - DOMAIN-SUFFIX,chinaunicomglobal.com
   - DOMAIN-SUFFIX,chinamobile.com
+  - DOMAIN-SUFFIX,mbspeed.net
+  - DOMAIN-SUFFIX,speed.misaka.one
   - DOMAIN-SUFFIX,speed.io
   - DOMAIN-SUFFIX,ipleak.net #DNS泄露
   - DOMAIN-SUFFIX,ip125.com
