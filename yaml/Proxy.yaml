@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,chinaunicomglobal.com
   - DOMAIN-SUFFIX,chinamobile.com
   - DOMAIN-SUFFIX,mbspeed.net
+  - DOMAIN-SUFFIX,fdcservers.net
   - DOMAIN-SUFFIX,speed.misaka.one
   - DOMAIN-SUFFIX,speed.io
   - DOMAIN-SUFFIX,ipleak.net #DNS泄露
