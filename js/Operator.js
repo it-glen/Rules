@@ -6,6 +6,7 @@
  * 3. 请在 SubStore 中使用，具体使用：编辑->脚本操作->类型（链接）->
  * 填入本脚本链接（https://github.com/Aurora-20/PublicConfig/raw/main/SubStore/Operator.js）；
  * 
+ * Update : 2024/02/26 12:07:30
  * 修改原脚本,在最后添加低倍率节点
  * https://mirror.ghproxy.com/https://raw.githubusercontent.com/it-glen/Rules/master/js/Operator.js
  */
