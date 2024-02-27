@@ -104,6 +104,8 @@ payload:
   - DOMAIN-SUFFIX,aiduanju.vip
   - DOMAIN-SUFFIX,al.chirmyram.com
   - DOMAIN-SUFFIX,zi0.cc
+  - DOMAIN-SUFFIX,tangrenjie.tv
+  - DOMAIN-SUFFIX,thefilehosting.com
   - IP-CIDR,107.151.250.35/32,no-resolve
   - IP-CIDR,193.84.249.248/32,no-resolve
   - IP-CIDR,103.108.66.196/32,no-resolve
