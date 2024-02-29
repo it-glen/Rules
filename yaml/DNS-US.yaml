@@ -8,15 +8,19 @@ payload:
   - IP-CIDR,8.8.4.4/32,no-resolve
   - IP-CIDR,1.1.1.1/32,no-resolve #Cloudflare
   - IP-CIDR,1.0.0.1/32,no-resolve
-  - IP-CIDR,9.9.9.9/32,no-resolve #Quad9
-  - IP-CIDR,149.112.112.112/32,no-resolve
+  - IP-CIDR,199.85.126.10/32,no-resolve #Norton
+  - IP-CIDR,199.85.127.10/32,no-resolve
+  - IP-CIDR,8.26.56.26/32,no-resolve #Comodo
+  - IP-CIDR,8.20.247.20/32,no-resolve
   - IP-CIDR,208.67.222.222/32,no-resolve #Opendns
   - IP-CIDR,208.67.220.220/32,no-resolve
+  - IP-CIDR,9.9.9.9/32,no-resolve #Quad9
+  - IP-CIDR,149.112.112.112/32,no-resolve
   - IP-CIDR6,2001:4860:4860::8888/128,no-resolve #Google
   - IP-CIDR6,2001:4860:4860::8844/128,no-resolve
   - IP-CIDR6,2606:4700:4700::1111/128,no-resolve #Cloudflare
   - IP-CIDR6,2606:4700:4700::1001/128,no-resolve
-  - IP-CIDR6,2620:fe::9/128,no-resolve #Quad9
-  - IP-CIDR6,2620:fe::fe:9/128,no-resolve
   - IP-CIDR6,2620:0:ccc::2/128,no-resolve #Opendns
   - IP-CIDR6,2620:0:ccd::2/128,no-resolve
+  - IP-CIDR6,2620:fe::9/128,no-resolve #Quad9
+  - IP-CIDR6,2620:fe::fe:9/128,no-resolve
