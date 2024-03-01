@@ -12,15 +12,6 @@
  */
 
 function operator(proxies) {
-  // 添加 🎯 TG 碳酸二甲酯
-  proxies.push(
-    Object.assign({}, proxies[0], {
-      server: "traffic-in-04.811920.xyz",
-      port: 54001,
-      name: "🎯 TG 碳酸二甲酯",
-    })
-  );
-  
   // 添加 🇭🇰 HK 丁香酰氧胺 0.01x
   proxies.push(
     Object.assign({}, proxies[0], {
