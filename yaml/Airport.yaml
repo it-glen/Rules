@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,xn--57qr98d.top #冲浪云
   - DOMAIN-SUFFIX,xn--mes358a9urctx.com #顶级
   - DOMAIN-SUFFIX,xqc.best #XQC
+  - DOMAIN-SUFFIX,sycamorecloud.net #梧桐云
     # 订阅
   - DOMAIN-SUFFIX,api.v1.mk #肥羊
   - DOMAIN-SUFFIX,sub.d1.mk #肥羊备用
@@ -50,3 +51,4 @@ payload:
   - DOMAIN-SUFFIX,neko-warp.nloli.xyz #warp
   - DOMAIN-SUFFIX,fku-ppg.co.uk #泡泡狗
   - DOMAIN-SUFFIX,088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz #特价
+  - DOMAIN-SUFFIX,sycasublink.autos #梧桐云
