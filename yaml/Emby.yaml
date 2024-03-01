@@ -7,10 +7,10 @@ payload:
   - DOMAIN-SUFFIX,cf2.jmsooo.com
   - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭CF线路
   - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili
-  - DOMAIN-SUFFIX,emby.pilipiliultra.com
-  - DOMAIN-SUFFIX,push.pilipiliultra.com #pilipili推流域名
-  - DOMAIN-SUFFIX,bili.bili.rip #hxd直连线路
-  - DOMAIN-SUFFIX,cdn.bili.rip #hxd
+  - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
+  - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili推流域名
+  - DOMAIN-SUFFIX,bili.bili.rip #hxd线路
+  - DOMAIN-SUFFIX,cdn.bili.rip
   - DOMAIN-SUFFIX,cf.bili.rip
   - DOMAIN-SUFFIX,emby.bangumi.ca #Nya
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
