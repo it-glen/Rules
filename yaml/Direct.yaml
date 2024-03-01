@@ -15,7 +15,6 @@ payload:
     # 机场直连
   # - DOMAIN-SUFFIX,user.niceduck.cc #好鸭
   # - DOMAIN-SUFFIX,niceduck.cloud #好鸭
-  - DOMAIN-SUFFIX,go.synn.cc #SYN
   - DOMAIN-SUFFIX,my.synn.cc #SYN
     # 漏网之鱼
   - DOMAIN-SUFFIX,agit.ai #代码托管和算力资源平台
