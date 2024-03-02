@@ -8,6 +8,8 @@ payload:
     # docs.plusai.me
   - DOMAIN-SUFFIX,plusai.me
   - DOMAIN-SUFFIX,plusai.io
+    # 太空人店铺
+  - DOMAIN-SUFFIX,tkremby.shop
     # vivaldi
   - DOMAIN-SUFFIX,vivaldi.net
     # 图床
