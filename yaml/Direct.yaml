@@ -21,8 +21,9 @@ payload:
   - DOMAIN-SUFFIX,toponad.com #TopOn 广告平台数据监测网站
   - DOMAIN-SUFFIX,codelife.cc #itab壁纸接口
   - DOMAIN-SUFFIX,mxplayer.j2inter.com #mxplayer
-  # - DOMAIN-SUFFIX,stun.xten.com #stun,webrtc
   - DOMAIN-SUFFIX,sentry-cdn.com #checkadblock.ru
+  - DOMAIN-SUFFIX,api.keygen.sh #finalshell
+  - IP-CIDR,139.91.8.72/32,no-resolve
   - DOMAIN-SUFFIX,aefd.nelreports.net
   - IP-CIDR,65.143.67.88/32,no-resolve
   - IP-CIDR,64.233.189.109/32,no-resolve
