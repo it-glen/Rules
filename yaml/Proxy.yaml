@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,fdcservers.net
   - DOMAIN-SUFFIX,speed.misaka.one
   - DOMAIN-SUFFIX,hgconair.hgc.com.hk
+  - DOMAIN-SUFFIX,kurlec.co.za
   - DOMAIN-SUFFIX,speed.io
   - DOMAIN-SUFFIX,ipleak.net #DNS泄露
   - DOMAIN-SUFFIX,ip125.com
