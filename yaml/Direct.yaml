@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,mirror.ghproxy.com #github镜像
   - DOMAIN-SUFFIX,jetbrains.com #jetbrains
   - DOMAIN-SUFFIX,navicat.com #Navicat
-  - DOMAIN-SUFFIX,cn.download.nvidia.com #nvidia驱动下载
+  - DOMAIN-SUFFIX,download.nvidia.com #nvidia驱动下载
   - DOMAIN-SUFFIX,gamer520.com #switch520
     # 机场直连
   # - DOMAIN-SUFFIX,user.niceduck.cc #好鸭
