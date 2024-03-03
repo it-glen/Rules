@@ -24,16 +24,6 @@ payload:
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,nodeseek.com
     # 测速
-  - DOMAIN-SUFFIX,speedtest.net #speedtest
-  - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
-  - DOMAIN-SUFFIX,chinaunicomglobal.com
-  - DOMAIN-SUFFIX,chinamobile.com
-  - DOMAIN-SUFFIX,mbspeed.net
-  - DOMAIN-SUFFIX,fdcservers.net
-  - DOMAIN-SUFFIX,speed.misaka.one
-  - DOMAIN-SUFFIX,hgconair.hgc.com.hk
-  - DOMAIN-SUFFIX,kurlec.co.za
-  - DOMAIN-SUFFIX,speed.io
   - DOMAIN-SUFFIX,ipleak.net #DNS泄露
   - DOMAIN-SUFFIX,ip125.com
     # 软件源
