@@ -7,3 +7,15 @@ payload:
   - DOMAIN-SUFFIX,file0.gofile.io
     # OneDrive网盘下载
   - DOMAIN-SUFFIX,sharepoint.com
+    #speedtest
+  - DOMAIN-SUFFIX,speed.io
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
+  - DOMAIN-SUFFIX,chinaunicomglobal.com
+  - DOMAIN-SUFFIX,chinamobile.com
+  - DOMAIN-SUFFIX,mbspeed.net
+  - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN-SUFFIX,speed.misaka.one
+  - DOMAIN-SUFFIX,hgconair.hgc.com.hk
+  - DOMAIN-SUFFIX,kurlec.co.za
+  
