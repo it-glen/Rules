@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,file0.gofile.io
     # OneDrive网盘下载
   - DOMAIN-SUFFIX,sharepoint.com
+    # Ubuntu镜像下载
+  - DOMAIN-SUFFIX,releases.ubuntu.com
     #speedtest
   - DOMAIN-SUFFIX,speed.io
   - DOMAIN-SUFFIX,speedtest.net
