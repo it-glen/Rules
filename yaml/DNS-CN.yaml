@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,doh.pub #腾讯DNSPod
   - DOMAIN-SUFFIX,dns.alidns.com #阿里
   - DOMAIN-SUFFIX,dns.360.cn #360
-  - DOMAIN-SUFFIX,doh.apad.pro #EasyMosdns
+  # - DOMAIN-SUFFIX,doh.apad.pro #EasyMosdns
   - IP-CIDR,222.85.85.85/32,no-resolve #河南电信
   - IP-CIDR,222.88.88.88/32,no-resolve
   - IP-CIDR,202.103.24.68/32,no-resolve #湖北电信
