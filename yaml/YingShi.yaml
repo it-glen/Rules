@@ -116,6 +116,11 @@ payload:
   - DOMAIN-SUFFIX,tvfan.xx00o.cf
   - DOMAIN-SUFFIX,tangrenjie.tv
   - DOMAIN-SUFFIX,thefilehosting.com
+  - DOMAIN-SUFFIX,bot.impian.eu
+  - DOMAIN-SUFFIX,weixine,link
+  - DOMAIN-SUFFIX,czzy77.com
+  - DOMAIN-SUFFIX,koyeb.app
+  - DOMAIN-SUFFIX,zxzja.com
   - IP-CIDR,107.151.250.35/32,no-resolve
   - IP-CIDR,193.84.249.248/32,no-resolve
   - IP-CIDR,103.108.66.196/32,no-resolve
