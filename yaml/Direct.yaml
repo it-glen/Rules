@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,mxplayer.j2inter.com #mxplayer
   - DOMAIN-SUFFIX,sentry-cdn.com #checkadblock.ru
   - DOMAIN-SUFFIX,api.keygen.sh #finalshell
+  - DOMAIN-SUFFIX,imsyy.top #lige.fit
   - IP-CIDR,139.91.8.72/32,no-resolve
   - DOMAIN-SUFFIX,aefd.nelreports.net
   - IP-CIDR,65.143.67.88/32,no-resolve
