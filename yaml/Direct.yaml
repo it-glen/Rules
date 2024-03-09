@@ -30,5 +30,5 @@ payload:
   - DOMAIN-SUFFIX,aefd.nelreports.net
   - IP-CIDR,65.143.67.88/32,no-resolve
   - IP-CIDR,64.233.189.109/32,no-resolve
-  - IP-CIDR,192.99.59.139/32,no-resolve
+  - IP-CIDR,192.99.59.139/32,no-resolve #verysync中继
   - IP-CIDR,203.76.137.77/32,no-resolve
