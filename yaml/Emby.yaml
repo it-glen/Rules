@@ -2,7 +2,6 @@ payload:
     # Emby代理
   - DOMAIN-SUFFIX,peachmv.me #peach_公益服
   - DOMAIN-SUFFIX,embymv.tk
-  - IP-CIDR,193.123.232.141/32,no-resolve
   - DOMAIN-SUFFIX,cf.jmsooo.com #卷毛鼠CF线路
   - DOMAIN-SUFFIX,cf2.jmsooo.com
   - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭CF线路
