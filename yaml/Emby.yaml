@@ -1,5 +1,6 @@
 payload:
     # Emby代理
+  - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
   - DOMAIN-SUFFIX,peachmv.me #peach_公益服
   - DOMAIN-SUFFIX,embymv.tk
   - DOMAIN-SUFFIX,cf.jmsooo.com #卷毛鼠CF线路
