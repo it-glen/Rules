@@ -1,8 +1,10 @@
 payload:
     # 小雅
   # - DOMAIN-SUFFIX,xiaoya.pro
+    # Jetbrains
+  - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net
     # gist
-  - DOMAIN-SUFFIX,gist.githubusercontent.com
+  # - DOMAIN-SUFFIX,gist.githubusercontent.com
     # metacubex
   - DOMAIN-SUFFIX,metacubex.one
     # docs.plusai.me
