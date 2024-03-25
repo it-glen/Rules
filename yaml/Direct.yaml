@@ -17,6 +17,7 @@ payload:
   # - DOMAIN-SUFFIX,niceduck.cloud #好鸭
   - DOMAIN-SUFFIX,my.synn.cc #SYN
   - DOMAIN-SUFFIX,sycasublink.autos #梧桐云
+  - DOMAIN-SUFFIX,portal.karleynetwork.shop #卡荔
     # 漏网之鱼
   - DOMAIN-SUFFIX,agit.ai #代码托管和算力资源平台
   - DOMAIN-SUFFIX,toponad.com #TopOn 广告平台数据监测网站
