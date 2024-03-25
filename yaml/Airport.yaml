@@ -23,7 +23,7 @@ payload:
   - DOMAIN-SUFFIX,eggtartcloud.biz
   - DOMAIN-SUFFIX,kaochang.pw #烤肠
   - DOMAIN-SUFFIX,sfcloud.dev #SFC
-  # - DOMAIN-SUFFIX,karleynetwork.shop #卡荔
+  - DOMAIN-SUFFIX,karleynetwork.shop #卡荔
   - DOMAIN-SUFFIX,synn.cc #SYN
   - DOMAIN-SUFFIX,starcloud.monster #Galaxy
   - DOMAIN-SUFFIX,sa.maxgogo.win #MAX
