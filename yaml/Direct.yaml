@@ -18,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,my.synn.cc #SYN
   - DOMAIN-SUFFIX,sycasublink.autos #梧桐云
   - DOMAIN-SUFFIX,portal.karleynetwork.shop #卡荔
+    # Emby直连
+  - IP-CIDR,141.147.166.107/32,no-resolve #Peach推流
     # 漏网之鱼
   - DOMAIN-SUFFIX,agit.ai #代码托管和算力资源平台
   - DOMAIN-SUFFIX,toponad.com #TopOn 广告平台数据监测网站
