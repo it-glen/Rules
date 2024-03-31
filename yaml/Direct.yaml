@@ -14,7 +14,6 @@ payload:
   - DOMAIN-SUFFIX,gamer520.com #switch520
     # 机场直连
   - DOMAIN-SUFFIX,my.synn.cc #SYN
-  - DOMAIN-SUFFIX,sycasublink.autos #梧桐云
     # Emby直连
   # - IP-CIDR,141.147.166.107/32,no-resolve #Peach推流
   - DOMAIN-SUFFIX,peachmv.me #Peach_公益服
