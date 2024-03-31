@@ -25,12 +25,9 @@ payload:
   - DOMAIN-SUFFIX,sfcloud.dev #SFC
   - DOMAIN-SUFFIX,karleynetwork.shop #卡荔
   - DOMAIN-SUFFIX,synn.cc #SYN
-  - DOMAIN-SUFFIX,starcloud.monster #Galaxy
-  - DOMAIN-SUFFIX,sa.maxgogo.win #MAX
   - DOMAIN-SUFFIX,666666222.xyz #六分
   - DOMAIN-SUFFIX,xn--mes358a9urctx.com #顶级
   - DOMAIN-SUFFIX,xqc.best #XQC
-  - DOMAIN-SUFFIX,sycamorecloud.com #梧桐云
     # 订阅
   - DOMAIN-SUFFIX,api.v1.mk #肥羊
   - DOMAIN-SUFFIX,sub.d1.mk #肥羊备用
@@ -45,9 +42,6 @@ payload:
   - DOMAIN-SUFFIX,api.zzzzzl.me #超级
   - DOMAIN-SUFFIX,sooooffffast.lat #SFC
   - DOMAIN-SUFFIX,acl.syyn.pw #SYN
-  - DOMAIN-SUFFIX,app.100861234.xyz #MAX
-  - DOMAIN-SUFFIX,starcloud.win #Galaxy
   - DOMAIN-SUFFIX,dash.djjc.cfd #顶级
   - DOMAIN-SUFFIX,neko-warp.nloli.xyz #warp
-  - DOMAIN-SUFFIX,fku-ppg.co.uk #泡泡狗
   - DOMAIN-SUFFIX,088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz #特价
