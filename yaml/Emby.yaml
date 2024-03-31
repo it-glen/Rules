@@ -2,7 +2,7 @@ payload:
     # Emby代理
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
   - DOMAIN-SUFFIX,embymv.tk #Peach_公益服
-  - DOMAIN-SUFFIX,peachmv.me
+  # - DOMAIN-SUFFIX,peachmv.me #Peach_公益服
   - IP-CIDR,141.147.166.107/32,no-resolve #Peach推流
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
   - DOMAIN-SUFFIX,cf.imetyou.top #paul_电报服
@@ -18,7 +18,8 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,gd.9521732.xyz
   - IP-CIDR,89.58.18.111/32,no-resolve
-  - DOMAIN-SUFFIX,tkremby.xyz #太空人
+  - DOMAIN-SUFFIX,emby.tkremby.xyz #太空人CF线路
+  # - DOMAIN-SUFFIX,tkremby.xyz #太空人直连线路
   - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
   - DOMAIN-SUFFIX,nezha.airpor.top
   - DOMAIN-SUFFIX,emby.bangumi.ca #Nya
