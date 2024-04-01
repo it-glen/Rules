@@ -1,6 +1,6 @@
 payload:
     # 小雅
-  - DOMAIN-SUFFIX,xiaoya.pro
+  # - DOMAIN-SUFFIX,xiaoya.pro
     # 个人博客
   - DOMAIN-SUFFIX,duangks.com
   - DOMAIN-SUFFIX,itglen.cn
