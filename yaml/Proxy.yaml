@@ -1,6 +1,7 @@
 payload:
     # 小雅
   - DOMAIN-SUFFIX,xiaoya.pro
+  - DOMAIN-SUFFIX,xiaoyahelper.ddsrem.com
     # Jetbrains
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net
     # gist
