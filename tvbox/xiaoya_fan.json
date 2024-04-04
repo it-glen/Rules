@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711870890757/fan.txt;md5;800d19942365f5754f20c532cffd2242",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -129,16 +129,6 @@
             "type": 3,
             "api": "csp_Ddrk",
             "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "新星",
-            "name": "💥新星┃App",
-            "type": 1,
-            "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-            "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -814,7 +804,7 @@
         {
             "name": "多线ITV",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
             "playerType": 1
         },
         {
