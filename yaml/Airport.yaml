@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,synn.cc #SYN
   - DOMAIN-SUFFIX,666666222.xyz #六分
   - DOMAIN-SUFFIX,xn--mes358a9urctx.com #顶级
+  - DOMAIN-SUFFIX,aladingnet.com #Aladdin
   - DOMAIN-SUFFIX,xqc.best #XQC
     # 订阅
   - DOMAIN-SUFFIX,api.v1.mk #肥羊
@@ -43,5 +44,6 @@ payload:
   - DOMAIN-SUFFIX,sooooffffast.lat #SFC
   - DOMAIN-SUFFIX,acl.syyn.pw #SYN
   - DOMAIN-SUFFIX,dash.djjc.cfd #顶级
+  - DOMAIN-SUFFIX,music.easygourl.xyz #Aladdin
   - DOMAIN-SUFFIX,neko-warp.nloli.xyz #warp
   - DOMAIN-SUFFIX,088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz #特价
