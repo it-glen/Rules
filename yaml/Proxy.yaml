@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,ipleak.net #DNS泄露
   - DOMAIN-SUFFIX,ip125.com
   - DOMAIN-SUFFIX,speed.io
-  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speedtest.net #Speedtest
   - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
   - DOMAIN-SUFFIX,chinaunicomglobal.com
   - DOMAIN-SUFFIX,chinamobile.com
@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,speed.misaka.one
   - DOMAIN-SUFFIX,hgconair.hgc.com.hk
   - DOMAIN-SUFFIX,kurlec.co.za
+  - DOMAIN-SUFFIX,m1speedtest1.m1net.com.sg
     # 软件源
   - DOMAIN-SUFFIX,openwrt.888913.gq
   - DOMAIN-SUFFIX,openwrt.ai
