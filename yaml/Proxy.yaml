@@ -11,8 +11,6 @@ payload:
     # docs.plusai.me
   - DOMAIN-SUFFIX,plusai.me
   - DOMAIN-SUFFIX,plusai.io
-    # 太空人店铺
-  - DOMAIN-SUFFIX,tkremby.shop
     # vivaldi
   - DOMAIN-SUFFIX,vivaldi.net
     # 图床
@@ -47,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,adrules.top #AdRules
   - DOMAIN-SUFFIX,neodev.team #neodevhost
     # 漏网之鱼
+  - DOMAIN-SUFFIX,liadm.com #Liveintent
   - DOMAIN-SUFFIX,apkpure.net #apkpure软件商店
   - DOMAIN-SUFFIX,greasyfork.org #Greasy Fork
   - DOMAIN-SUFFIX,mb3admin.com #emby官网
