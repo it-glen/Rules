@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,cabospeed.com
   - DOMAIN-SUFFIX,speedtest.windstream.net
   - DOMAIN-SUFFIX,dallas.tx.speedtest.frontier.com
+  - DOMAIN-SUFFIX,speedtest10.vqbn.com
     # 软件源
   - DOMAIN-SUFFIX,openwrt.888913.gq
   - DOMAIN-SUFFIX,openwrt.ai
