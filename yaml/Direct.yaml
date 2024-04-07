@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,duangks.com
   - DOMAIN-SUFFIX,itglen.cn
   - DOMAIN-SUFFIX,p3terx.com
+    # netdata
+  - DOMAIN-SUFFIX,app.netdata.cloud
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
   - DOMAIN-SUFFIX,mirror.ghproxy.com #github镜像
