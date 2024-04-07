@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,kurlec.co.za
   - DOMAIN-SUFFIX,m1speedtest1.m1net.com.sg
   - DOMAIN-SUFFIX,cabospeed.com
+  - DOMAIN-SUFFIX,speedtest.windstream.net
   - DOMAIN-SUFFIX,dallas.tx.speedtest.frontier.com
     # 软件源
   - DOMAIN-SUFFIX,openwrt.888913.gq
