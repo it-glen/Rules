@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,speedtest10.vqbn.com
   - DOMAIN-SUFFIX,speedtest05.orion.net.id
   - DOMAIN-SUFFIX,speedtest.globalxtreme.net
+  - DOMAIN-SUFFIX,speedtest.three.com.hk
     # 软件源
   - DOMAIN-SUFFIX,openwrt.888913.gq
   - DOMAIN-SUFFIX,openwrt.ai
