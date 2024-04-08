@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,xqc.best #XQC
     # 订阅
   - DOMAIN-SUFFIX,api.v1.mk #肥羊
+  - DOMAIN-SUFFIX,apiurl.v1.mk
   - DOMAIN-SUFFIX,sub.d1.mk #肥羊备用
   - DOMAIN-SUFFIX,sub.xeton.dev #卡荔
   - DOMAIN-SUFFIX,id9.cc #品云
