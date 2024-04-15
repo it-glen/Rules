@@ -16,7 +16,7 @@ payload:
   - DOMAIN-SUFFIX,gamer520.com #switch520
     # 机场直连
   - DOMAIN-SUFFIX,niceduck.cc #好鸭
-  - DOMAIN-SUFFIX,niceduck.cloud #好鸭
+  # - DOMAIN-SUFFIX,niceduck.cloud #好鸭
   - DOMAIN-SUFFIX,my.synn.cc #SYN
     # Emby直连
   # - IP-CIDR,141.147.166.107/32,no-resolve #Peach推流
