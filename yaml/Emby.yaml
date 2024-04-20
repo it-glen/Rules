@@ -2,29 +2,29 @@ payload:
     # Emby代理
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
   - DOMAIN-SUFFIX,embymv.tk #Peach_公益服
-  # - DOMAIN-SUFFIX,peachmv.me #Peach_公益服
+  - DOMAIN-SUFFIX,peachmv.me
   - IP-CIDR,141.147.166.107/32,no-resolve #Peach推流
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
   - DOMAIN-SUFFIX,vi.niceduck.lol
   - DOMAIN-SUFFIX,cf.imetyou.top #paul_电报服
   - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
-  - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠CF线路
-  - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭CF线路
-  - DOMAIN-SUFFIX,bili.bili.rip #hxd线路
-  - DOMAIN-SUFFIX,cdn.bili.rip
-  - DOMAIN-SUFFIX,cf.bili.rip
-  - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili
+  - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
+  - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭 CF线路
+  - DOMAIN-SUFFIX,bili.bili.rip #HXD 主线路
+  - DOMAIN-SUFFIX,cdn.bili.rip #HXD 备用线路
+  - DOMAIN-SUFFIX,cf.bili.rip #HXD CF线路
+  - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili 主线路
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
-  - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili推流域名
+  - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili 推流域名
   - DOMAIN-SUFFIX,embyplus.org #纸片人
-  - DOMAIN-SUFFIX,gd.9521732.xyz
-  - DOMAIN-SUFFIX,chirsemby.top
+  - DOMAIN-SUFFIX,gd.9521732.xyz #纸片人 CF推流域名
+  - DOMAIN-SUFFIX,chirsemby.top #纸片人 RA2推流域名
   - IP-CIDR,89.58.18.111/32,no-resolve
   - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
-  - DOMAIN-SUFFIX,nezha.airpor.top
+  - DOMAIN-SUFFIX,nezha.airpor.top #白浪兔探针
   - DOMAIN-SUFFIX,emby.bangumi.ca #Nya
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
    # Jellyfin代理
-  - DOMAIN-SUFFIX,vip3.jellyfin.asia #蛋挞云x水母
-  - DOMAIN-SUFFIX,emby.eggtartcloud.shop
+  - DOMAIN-SUFFIX,vip3.jellyfin.asia #水母
+  - DOMAIN-SUFFIX,emby.eggtartcloud.shop #蛋挞云x水母
   
