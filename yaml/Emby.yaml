@@ -17,9 +17,8 @@ payload:
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili推流域名
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,gd.9521732.xyz
+  - DOMAIN-SUFFIX,chirsemby.top
   - IP-CIDR,89.58.18.111/32,no-resolve
-  - DOMAIN-SUFFIX,emby.tkremby.xyz #太空人CF线路
-  # - DOMAIN-SUFFIX,tkremby.xyz #太空人直连线路
   - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
   - DOMAIN-SUFFIX,nezha.airpor.top
   - DOMAIN-SUFFIX,emby.bangumi.ca #Nya
