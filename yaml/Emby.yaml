@@ -5,6 +5,7 @@ payload:
   # - DOMAIN-SUFFIX,peachmv.me #Peach_公益服
   - IP-CIDR,141.147.166.107/32,no-resolve #Peach推流
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
+  - DOMAIN-SUFFIX,vi.niceduck.lol
   - DOMAIN-SUFFIX,cf.imetyou.top #paul_电报服
   - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠CF线路
