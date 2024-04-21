@@ -3,10 +3,10 @@ payload:
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
   - DOMAIN-SUFFIX,embymv.tk #Peach_公益服
   - DOMAIN-SUFFIX,peachmv.me
-  - IP-CIDR,141.147.166.107/32,no-resolve #Peach推流
+  - IP-CIDR,141.147.166.107/32,no-resolve #Peach 推流IP
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
-  - DOMAIN-SUFFIX,vi.niceduck.lol
-  - DOMAIN-SUFFIX,cf.imetyou.top #paul_电报服
+  - DOMAIN-SUFFIX,vi.niceduck.lol #垃圾影音 推流域名
+  - DOMAIN-SUFFIX,cf.imetyou.top #Paul_电报服
   - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
   - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭 CF线路
@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,gd.9521732.xyz #纸片人 CF推流域名
   - DOMAIN-SUFFIX,chirsemby.top #纸片人 RA2推流域名
-  - IP-CIDR,89.58.18.111/32,no-resolve
+  - IP-CIDR,89.58.18.111/32,no-resolve #纸片人IP
   - DOMAIN-SUFFIX,emby-us-v4.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
   - DOMAIN-SUFFIX,nezha.airpor.top #白浪兔探针
