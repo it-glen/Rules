@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,gd.9521732.xyz #纸片人 CF推流域名
   - DOMAIN-SUFFIX,chirsemby.top #纸片人 RA2推流域名
   - IP-CIDR,89.58.18.111/32,no-resolve
+  - DOMAIN-SUFFIX,emby-us-v4.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
   - DOMAIN-SUFFIX,nezha.airpor.top #白浪兔探针
   - DOMAIN-SUFFIX,emby.bangumi.ca #Nya
