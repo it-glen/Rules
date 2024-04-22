@@ -1,18 +1,11 @@
 payload:
     # 机场
-  - DOMAIN-SUFFIX,niceduck.cc #好鸭
-  - DOMAIN-SUFFIX,naiunet.net #NaiU
-  - DOMAIN-SUFFIX,naiunet.com
-  - DOMAIN-SUFFIX,maikcloud.top #麦块
-  - DOMAIN-SUFFIX,maikuaiyun.com
-  - DOMAIN-SUFFIX,six-u.com
+  # - DOMAIN-SUFFIX,niceduck.cc #好鸭
+  - DOMAIN-SUFFIX,maikuaiyun.com #麦块
   - DOMAIN-SUFFIX,mkco2o.site
   - DOMAIN-SUFFIX,newyun.io #新云
   - DOMAIN-SUFFIX,xyun.me
-  - DOMAIN-SUFFIX,xyun.pro
-  - DOMAIN-SUFFIX,xyun01.xyz
   - DOMAIN-SUFFIX,newyun1autoa.xyz
-  - DOMAIN-SUFFIX,xinyun01.cloud
   - DOMAIN-SUFFIX,skycloud.life #天空云
   - DOMAIN-SUFFIX,jindoucloud.xyz #筋斗云
   - DOMAIN-SUFFIX,fscloud.cc #FSC
@@ -31,17 +24,15 @@ payload:
   - DOMAIN-SUFFIX,aladingnet.com #Aladdin
   - DOMAIN-SUFFIX,xqc.best #XQC
     # 订阅
-  - DOMAIN-SUFFIX,api.v1.mk #肥羊
-  - DOMAIN-SUFFIX,apiurl.v1.mk
+  - DOMAIN-SUFFIX,apiurl.v1.mk #肥羊
   - DOMAIN-SUFFIX,sub.d1.mk #肥羊备用
-  - DOMAIN-SUFFIX,sub.xeton.dev #卡荔
+  - DOMAIN-SUFFIX,sub.xeton.dev #ACL4
   - DOMAIN-SUFFIX,id9.cc #品云
-  - DOMAIN-SUFFIX,niceduck.cloud #好鸭
-  - DOMAIN-SUFFIX,mk8866.top #麦块
+  # - DOMAIN-SUFFIX,niceduck.cloud #好鸭
   - DOMAIN-SUFFIX,subone.xcg-gw.com #麦块
   - DOMAIN-SUFFIX,kaochang.xyz #烤肠
   - DOMAIN-SUFFIX,nginxxy.xyz #新云
-  - DOMAIN-SUFFIX,jiacdnd123456789.com #FSC
+  - DOMAIN-SUFFIX,gInL111E1171.fsc.fscloud.cc #FSC
   - DOMAIN-SUFFIX,ovo.dingyue.cdn.ovosss.com #OVO
   - DOMAIN-SUFFIX,api.zzzzzl.me #超级
   - DOMAIN-SUFFIX,sooooffffast.lat #SFC
