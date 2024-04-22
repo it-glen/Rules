@@ -4,8 +4,6 @@ payload:
   - DOMAIN-SUFFIX,xiaoyahelper.ddsrem.com
     # Jetbrains
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net
-    # gist
-  # - DOMAIN-SUFFIX,gist.githubusercontent.com
     # metacubex
   - DOMAIN-SUFFIX,metacubex.one
     # docs.plusai.me
@@ -16,10 +14,9 @@ payload:
     # 图床
   - DOMAIN-SUFFIX,imgtp.com
     # 小说网站
-  - DOMAIN-SUFFIX,69shu.com
-  - DOMAIN-SUFFIX,69shuba.com
-  - DOMAIN-SUFFIX,69shu.io
   - DOMAIN-KEYWORD,69shu
+  - DOMAIN-KEYWORD,69shuba
+  - DOMAIN-KEYWORD,69book
     # 博客/论坛
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,ffqla.net
