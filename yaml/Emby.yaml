@@ -2,7 +2,7 @@ payload:
     # Emby代理
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
   - DOMAIN-SUFFIX,embymv.tk #Peach_公益服
-  - DOMAIN-SUFFIX,peachmv.me
+  # - DOMAIN-SUFFIX,peachmv.me
   - IP-CIDR,141.147.166.107/32,no-resolve #Peach 推流IP
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
   - DOMAIN-SUFFIX,vi.niceduck.lol #垃圾影音 推流域名
