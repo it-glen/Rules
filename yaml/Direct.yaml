@@ -21,7 +21,6 @@ payload:
     # Emby直连
   # - IP-CIDR,141.147.166.107/32,no-resolve #Peach推流
   - DOMAIN-SUFFIX,peachmv.me #Peach_公益服
-  - DOMAIN,tkremby.xyz #太空人直连线路
     # 漏网之鱼
   - IP-CIDR,5.5.5.5/32,no-resolve #finalshell
   - DOMAIN-SUFFIX,agit.ai #代码托管和算力资源平台
