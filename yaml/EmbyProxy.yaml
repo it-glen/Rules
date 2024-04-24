@@ -1,0 +1,6 @@
+payload:
+    # Emby代理
+  - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
+  - IP-CIDR,89.58.18.111/32,no-resolve #纸片人IP
+  - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
+  - DOMAIN-SUFFIX,emby.kim #魔仙堡
