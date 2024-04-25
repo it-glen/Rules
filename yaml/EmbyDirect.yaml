@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,peachmv.me #Peach_公益服
   - DOMAIN-SUFFIX,embymv.tk
   - IP-CIDR,141.147.166.107/32,no-resolve #Peach 推流IP
+  - DOMAIN-SUFFIX,cc.coemn.com #CC公益
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
   - DOMAIN-SUFFIX,vi.niceduck.lol #垃圾影音 推流域名
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
