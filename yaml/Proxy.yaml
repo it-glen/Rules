@@ -51,6 +51,8 @@ payload:
     # 漏网之鱼
   - DOMAIN-SUFFIX,liadm.com #Liveintent
   - DOMAIN-SUFFIX,apkpure.net #apkpure软件商店
+  - DOMAIN-SUFFIX,sponsor.ajay.app #YouTube Vanced
+  - DOMAIN-SUFFIX,api.revanced.app
   - DOMAIN-SUFFIX,greasyfork.org #Greasy Fork
   - DOMAIN-SUFFIX,mb3admin.com #emby官网
   - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
