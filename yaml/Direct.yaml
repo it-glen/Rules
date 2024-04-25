@@ -18,9 +18,8 @@ payload:
   - DOMAIN-SUFFIX,niceduck.cc #好鸭
   - DOMAIN-SUFFIX,niceduck.cloud #好鸭
   - DOMAIN-SUFFIX,my.synn.cc #SYN
-    # Emby直连
-  # - DOMAIN-SUFFIX,embymv.tk #Peach_公益服
-  # - IP-CIDR,141.147.166.107/32,no-resolve #Peach 推流IP
+    # 小说
+  - DOMAIN-SUFFIX,deqixs.com
     # 漏网之鱼
   - IP-CIDR,5.5.5.5/32,no-resolve #finalshell
   - DOMAIN-SUFFIX,agit.ai #代码托管和算力资源平台
