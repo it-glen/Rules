@@ -20,6 +20,10 @@ payload:
   - DOMAIN-SUFFIX,go.synn.cc #SYN
     # 小说
   - DOMAIN-SUFFIX,deqixs.com
+    # 测试网站
+  - DOMAIN-SUFFIX,ip125.com
+  - DOMAIN-SUFFIX,ipip.net
+  - DOMAIN-SUFFIX,ip138.com
     # 漏网之鱼
   - IP-CIDR,5.5.5.5/32,no-resolve #finalshell
   - DOMAIN-SUFFIX,agit.ai #代码托管和算力资源平台
