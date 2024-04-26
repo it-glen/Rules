@@ -23,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,nodeseek.com
     # 测速
   - DOMAIN-SUFFIX,ipleak.net #DNS泄露
-  - DOMAIN-SUFFIX,ip125.com
   - DOMAIN-SUFFIX,speed.io
   - DOMAIN-SUFFIX,speedtest.net #Speedtest
   - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
