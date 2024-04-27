@@ -13,9 +13,11 @@ payload:
   - DOMAIN-SUFFIX,cdn.bili.rip #HXD 备用线路
   - DOMAIN-SUFFIX,cf.bili.rip #HXD CF线路
   - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili 主线路
+  - IP-CIDR,38.46.221.145
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili 推流域名
   - DOMAIN-SUFFIX,cf.imetyou.top #Paul_电报服
+  - IP-CIDR,172.67.221.252
   - DOMAIN-SUFFIX,emby-us-v4.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
   - DOMAIN-SUFFIX,nezha.airpor.top #白浪兔探针
