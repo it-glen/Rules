@@ -7,5 +7,5 @@ payload:
   - IP-CIDR,89.58.18.111/32,no-resolve #纸片人IP
   - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
   - DOMAIN-SUFFIX,cf.imetyou.top #Paul_电报服
-  - IP-CIDR,172.67.221.252/32,no-resolve
+  - IP-CIDR,172.67.221.252/32,no-resolve #Paul_电报服IP
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
