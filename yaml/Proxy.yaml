@@ -55,6 +55,3 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org #Greasy Fork
   - DOMAIN-SUFFIX,mb3admin.com #emby官网
   - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
-  # - IP-CIDR,141.14.27.100/32,no-resolve
-  # - IP-CIDR,141.175.187.93/32,no-resolve
-  - IP-CIDR,72.137.117.56/32,no-resolve
