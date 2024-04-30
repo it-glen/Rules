@@ -16,7 +16,6 @@ payload:
   - IP-CIDR,38.46.221.145/32,no-resolve #pilipili 主线路IP
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili 推流域名
-  - DOMAIN-SUFFIX,emby-us-v4.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
   - DOMAIN-SUFFIX,nezha.airpor.top #白浪兔探针
   - DOMAIN-SUFFIX,emby.bangumi.ca #Nya
