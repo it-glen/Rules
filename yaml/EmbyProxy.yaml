@@ -1,6 +1,6 @@
 payload:
     # Emby代理
-  - DOMAIN-SUFFIX,pub1.emby.wtf #大妹子
+  - DOMAIN-SUFFIX,pub1.emby.wtf #大妹
   - DOMAIN-SUFFIX,pub2.emby.wtf #二妹
   - DOMAIN-SUFFIX,pub3.emby.wtf #三妹
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
@@ -11,4 +11,5 @@ payload:
   - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
   - DOMAIN-SUFFIX,cf.imetyou.top #Paul_电报服
   - IP-CIDR,172.67.221.252/32,no-resolve #Paul_电报服IP
+  - DOMAIN-SUFFIX,emby-us-v4.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
