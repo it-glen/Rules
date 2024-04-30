@@ -1,5 +1,8 @@
 payload:
     # Emby代理
+  - DOMAIN-SUFFIX,pub1.emby.wtf #大妹子
+  - DOMAIN-SUFFIX,pub2.emby.wtf #二妹
+  - DOMAIN-SUFFIX,pub3.emby.wtf #三妹
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,gd.9521732.xyz #纸片人 CF推流域名
