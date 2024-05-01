@@ -1,4 +1,7 @@
 payload:
+    # DNS泄露
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,ip125.com
     # 国外DNS
   - DOMAIN-SUFFIX,dns.google #Google
   - DOMAIN-SUFFIX,cloudflare-dns.com #Cloudflare
