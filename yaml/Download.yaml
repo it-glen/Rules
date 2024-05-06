@@ -6,6 +6,7 @@ payload:
     # Gofile网盘下载
   - DOMAIN-SUFFIX,file0.gofile.io
     # OneDrive网盘下载
+  - DOMAIN-SUFFIX,kaifa520.sharepoint.com
   - DOMAIN-SUFFIX,sharepoint.com
     # Ubuntu镜像下载
   - DOMAIN-SUFFIX,releases.ubuntu.com
