@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,app.netdata.cloud
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
+  - DOMAIN-SUFFIX,starward.scighost.com #starward
   - DOMAIN-SUFFIX,mirror.ghproxy.com #github镜像
   # - DOMAIN-SUFFIX,jetbrains.com #jetbrains
   - DOMAIN-SUFFIX,navicat.com #Navicat
