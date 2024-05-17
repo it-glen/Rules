@@ -9,6 +9,8 @@ payload:
     # docs.plusai.me
   - DOMAIN-SUFFIX,plusai.me
   - DOMAIN-SUFFIX,plusai.io
+    # Hookvip
+  - DOMAIN-SUFFIX,hookvip.top
     # vivaldi
   - DOMAIN-SUFFIX,vivaldi.net
     # 图床
