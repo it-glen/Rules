@@ -1,6 +1,6 @@
 payload:
     # Emby代理
-  - DOMAIN-SUFFIX,embymv.tk #Peach 主线路
+  # - DOMAIN-SUFFIX,embymv.tk #Peach 主线路
   - DOMAIN-SUFFIX,pub1.emby.wtf #大妹
   - DOMAIN-SUFFIX,pub2.emby.wtf #二妹
   - DOMAIN-SUFFIX,pub3.emby.wtf #三妹
