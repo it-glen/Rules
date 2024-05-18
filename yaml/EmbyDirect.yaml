@@ -1,8 +1,8 @@
 payload:
     # Emby直连
-  # - DOMAIN-SUFFIX,embymv.tk #Peach 主线路
+  - DOMAIN-SUFFIX,embymv.tk #Peach 主线路
   - DOMAIN-SUFFIX,peachmv.me #Peach 备用线路
-  # - IP-CIDR,193.123.232.141/32,no-resolve #Peach 推流IP
+  - IP-CIDR,193.123.232.141/32,no-resolve #Peach 推流IP
   - DOMAIN-SUFFIX,cc.coemn.com #CC公益
   - DOMAIN-SUFFIX,dl.carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
