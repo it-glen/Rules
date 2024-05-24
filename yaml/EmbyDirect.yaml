@@ -2,7 +2,8 @@ payload:
     # Emby直连
   - DOMAIN-SUFFIX,embymv.tk #Peach 主线路
   - DOMAIN-SUFFIX,peachmv.me #Peach 备用线路
-  - IP-CIDR,193.123.232.141/32,no-resolve #Peach 推流IP
+  - IP-CIDR,193.123.232.141/32,no-resolve #Peach 线路IP
+  - DOMAIN-SUFFIX,pub1.emby.wtf #大妹
   - DOMAIN-SUFFIX,cc.coemn.com #CC公益
   - DOMAIN-SUFFIX,dl.carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
@@ -16,6 +17,7 @@ payload:
   - IP-CIDR,38.46.221.145/32,no-resolve #pilipili 主线路IP
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili 推流域名
+  - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
   - DOMAIN-SUFFIX,emby.airpor.top #白浪兔
   - DOMAIN-SUFFIX,nezha.airpor.top #白浪兔探针
   - DOMAIN-SUFFIX,emby.bangumi.ca #Nya
