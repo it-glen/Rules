@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "接口全面更新！top改com",
+            "name": "🌕【豆瓣推荐】",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
