@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,peachmv.me #Peach 备用线路
   - IP-CIDR,193.123.232.141/32,no-resolve #Peach 线路IP
   - DOMAIN-SUFFIX,pub1.emby.wtf #大妹
+  - DOMAIN-SUFFIX,pub2.emby.wtf #二妹
+  - DOMAIN-SUFFIX,pub3.emby.wtf #三妹
   - DOMAIN-SUFFIX,cc.coemn.com #CC公益
   - DOMAIN-SUFFIX,dl.carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
