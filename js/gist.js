@@ -51,14 +51,14 @@ async function operator(proxies = [], targetPlatform, context) {
   const new_url = raw_url?.replace(/\/raw\/[^/]*\/(.*)/, '/raw/$1')
 
   $.info(`已上传至 ${new_url}`)
-  if (isSurge) {
-    $notification.post(`🌍 Sub-Store`, 'Gist', `点击复制 ${new_url}`, {
-      action: 'clipboard',
-      text: new_url,
-    })
-  } else {
-    $.notify('🌍 Sub-Store', `Gist: ${new_url}`)
-  }
+#  if (isSurge) {
+#    $notification.post(`🌍 Sub-Store`, 'Gist', `点击复制 ${new_url}`, {
+#      action: 'clipboard',
+#      text: new_url,
+#    })
+#  } else {
+#    $.notify('🌍 Sub-Store', `Gist: ${new_url}`)
+#  }
 
   return proxies
 }
