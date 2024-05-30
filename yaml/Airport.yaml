@@ -28,9 +28,7 @@ payload:
   - DOMAIN-SUFFIX,sub.xeton.dev #ACL4
   - DOMAIN-SUFFIX,id9.cc #品云
   # - DOMAIN-SUFFIX,niceduck.cloud #好鸭
-  - DOMAIN-SUFFIX,subone.xcg-gw.com #麦块
   - DOMAIN-SUFFIX,mk8866.top
-  - DOMAIN-SUFFIX,kaochang.cheap #烤肠
   - DOMAIN-SUFFIX,nginxxy.xyz #新云
   - DOMAIN-SUFFIX,ovo.dingyue.cdn.ovosss.com #OVO
   - DOMAIN-SUFFIX,api.zzzzzl.me #超级
