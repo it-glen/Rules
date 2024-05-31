@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716742624054/fan.txt;md5;31e6192040d63714d063d5a5aba287a9",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716971833099/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -19,7 +19,143 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://xiaoya.host:5678/tvbox/json/alist.json;200;video"
+            "ext": [
+                {
+                    "name": "丫仙女",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/",
+                    "showAll": false,
+                    "search": true,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                },
+                {
+                    "name": "每日更新",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/每日更新",
+                    "showAll": false,
+                    "search": false,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                },
+                {
+                    "name": "电影",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/电影",
+                    "showAll": false,
+                    "search": false,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                },
+                {
+                    "name": "电视剧",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/电视剧",
+                    "showAll": false,
+                    "search": false,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                },
+                {
+                    "name": "综艺",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/综艺",
+                    "showAll": false,
+                    "search": false,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                },
+                {
+                    "name": "纪录片",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/纪录片",
+                    "showAll": false,
+                    "search": false,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                },
+                {
+                    "name": "动漫",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/动漫",
+                    "showAll": false,
+                    "search": false,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                },
+                {
+                    "name": "儿童",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/动漫/儿童",
+                    "showAll": false,
+                    "search": false,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                },
+                {
+                    "name": "阿里云盘",
+                    "server": "http://10.0.0.1:5678/",
+                    "startPage": "/📀我的阿里云盘/备份盘",
+                    "showAll": false,
+                    "search": false,
+                    "params": {
+                        "/abc": {
+                            "password": "123"
+                        },
+                        "/abc/abc": {
+                            "password": "123"
+                        }
+                    }
+                }
+            ]
         },
         {
             "key": "玩偶",
@@ -141,6 +277,17 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
+            "key": "贱贱",
+            "name": "🐭贱贱┃P2P",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+        },
+        {
             "key": "小点",
             "name": "💥小点┃多线",
             "type": 3,
@@ -172,17 +319,6 @@
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
-            "key": "贱贱",
-            "name": "🐭贱贱┃P2P",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-        },
-        {
             "key": "南瓜",
             "name": "🎃南瓜┃多线",
             "type": 3,
@@ -192,17 +328,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "毛驴",
-            "name": "🍓毛驴┃多线",
-            "type": 3,
-            "api": "csp_MLYS",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "比特",
@@ -245,6 +370,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
+        },
+        {
+            "key": "毛驴",
+            "name": "🍓毛驴┃多线",
+            "type": 3,
+            "api": "csp_MLYS",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "新6V",
