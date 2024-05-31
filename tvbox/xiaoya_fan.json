@@ -139,21 +139,6 @@
                             "password": "123"
                         }
                     }
-                },
-                {
-                    "name": "📀我的阿里云盘",
-                    "server": "http://xiaoya.host:5678/",
-                    "startPage": "/📀我的阿里云盘",
-                    "showAll": true,
-                    "search": false,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
                 }
             ]
         },
