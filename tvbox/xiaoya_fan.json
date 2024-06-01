@@ -1,6 +1,6 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716971833099/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717247209327/fan.txt;md5;a452c971528decfec70d8c83d4918d85",
+    "wallpaper": "https://深色壁纸.饭.eu.org/",
     "sites": [
         {
             "key": "豆豆",
@@ -24,121 +24,52 @@
                     "name": "丫仙女",
                     "server": "http://xiaoya.host:5678/",
                     "startPage": "/",
-                    "showAll": false,
-                    "search": true,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
+                    "search": true
                 },
                 {
                     "name": "每日更新",
                     "server": "http://xiaoya.host:5678/",
-                    "startPage": "/每日更新",
-                    "showAll": false,
-                    "search": false,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
+                    "startPage": "/每日更新"
                 },
                 {
                     "name": "电影",
                     "server": "http://xiaoya.host:5678/",
-                    "startPage": "/电影",
-                    "showAll": false,
-                    "search": false,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
+                    "startPage": "/电影"
                 },
                 {
                     "name": "电视剧",
                     "server": "http://xiaoya.host:5678/",
-                    "startPage": "/电视剧",
-                    "showAll": false,
-                    "search": false,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
+                    "startPage": "/电视剧"
+                },
+                {
+                    "name": "短剧",
+                    "server": "http://xiaoya.host:5678/",
+                    "startPage": "/每日更新/爽文短剧"
                 },
                 {
                     "name": "综艺",
                     "server": "http://xiaoya.host:5678/",
-                    "startPage": "/综艺",
-                    "showAll": false,
-                    "search": false,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
+                    "startPage": "/综艺"
                 },
                 {
                     "name": "纪录片",
                     "server": "http://xiaoya.host:5678/",
-                    "startPage": "/纪录片",
-                    "showAll": false,
-                    "search": false,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
+                    "startPage": "/纪录片"
                 },
                 {
                     "name": "动漫",
                     "server": "http://xiaoya.host:5678/",
-                    "startPage": "/动漫",
-                    "showAll": false,
-                    "search": false,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
+                    "startPage": "/动漫"
                 },
                 {
                     "name": "儿童",
                     "server": "http://xiaoya.host:5678/",
-                    "startPage": "/动漫/儿童",
-                    "showAll": false,
-                    "search": false,
-                    "params": {
-                        "/abc": {
-                            "password": "123"
-                        },
-                        "/abc/abc": {
-                            "password": "123"
-                        }
-                    }
+                    "startPage": "/动漫/儿童"
+                },
+                {
+                    "name": "阿里云盘",
+                    "server": "http://xiaoya.host:5678/",
+                    "startPage": "/📀我的阿里云盘/备份盘"
                 }
             ]
         },
@@ -417,7 +348,8 @@
             "key": "88js",
             "name": "⚽ 88┃看球",
             "type": 3,
-            "api": "csp_Kanqiu",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
             "style": {
                 "type": "list"
             },
@@ -431,19 +363,6 @@
             "type": 3,
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "310js",
-            "name": "⚽310┃看球",
-            "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
             "style": {
                 "type": "list"
             },
