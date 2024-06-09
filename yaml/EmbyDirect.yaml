@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,dl.carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
   - DOMAIN-SUFFIX,vi.niceduck.lol #垃圾影音 推流域名
+  - DOMAIN-SUFFIX,1111cuct.niceduck.lol #垃圾影音直连
+  - IP-CIDR,47.129.46.248/32,no-resolve #垃圾影音直连推流IP
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
   - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭 CF线路
   - DOMAIN-SUFFIX,bili.bili.rip #HXD 主线路
