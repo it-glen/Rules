@@ -16,9 +16,9 @@ payload:
   - DOMAIN-SUFFIX,download.nvidia.com #nvidia驱动下载
   - DOMAIN-SUFFIX,gamer520.com #switch520
     # 机场直连
-  - DOMAIN-SUFFIX,niceduck.cc #好鸭
-  - DOMAIN-SUFFIX,niceduck.io
-  - DOMAIN-SUFFIX,niceduck.cloud #好鸭
+  - DOMAIN-SUFFIX,niceduck.io #好鸭
+  - DOMAIN-SUFFIX,niceduck.cloud
+  - DOMAIN-SUFFIX,music.easygourl.xyz #Aladdin
     # 小说
   - DOMAIN-SUFFIX,deqixs.com
     # 测试网站
