@@ -35,5 +35,5 @@ payload:
   - DOMAIN-SUFFIX,sooooffffast.lat #SFC
   - DOMAIN-SUFFIX,acl.syyn.pw #SYN
   - DOMAIN-SUFFIX,djjc.cfd #顶级
-  - DOMAIN-SUFFIX,music.easygourl.xyz #Aladdin
+  # - DOMAIN-SUFFIX,music.easygourl.xyz #Aladdin
   - DOMAIN-SUFFIX,088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz #特价
