@@ -8,8 +8,9 @@ payload:
   - DOMAIN-SUFFIX,pub3.emby.wtf #三妹
   - DOMAIN-SUFFIX,cc.coemn.com #CC公益
   - DOMAIN-SUFFIX,dl.carryz.net #CC公益 推流域名
-  - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
-  - DOMAIN-SUFFIX,vi.niceduck.lol #垃圾影音 推流域名
+  - DOMAIN-SUFFIX,niceduck.lol #好鸭机场服
+  # - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾影音
+  # - DOMAIN-SUFFIX,vi.niceduck.lol #垃圾影音 推流域名
   - IP-CIDR,120.220.84.15/32,no-resolve #垃圾影音直连推流IP
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
   - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭 CF线路
