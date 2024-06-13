@@ -27,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,ip138.com
     # 漏网之鱼
   - IP-CIDR,5.5.5.5/32,no-resolve #finalshell
-  - DOMAIN-SUFFIX,time.is #北京时间
   - DOMAIN-SUFFIX,agit.ai #代码托管和算力资源平台
   - DOMAIN-SUFFIX,toponad.com #TopOn 广告平台数据监测网站
   - DOMAIN-SUFFIX,codelife.cc #itab壁纸接口
