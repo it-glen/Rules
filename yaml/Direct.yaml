@@ -28,7 +28,6 @@ payload:
     # 漏网之鱼
   - IP-CIDR,5.5.5.5/32,no-resolve #finalshell
   - DOMAIN-SUFFIX,agit.ai #代码托管和算力资源平台
-  - DOMAIN-SUFFIX,time.is #中国时间
   - DOMAIN-SUFFIX,toponad.com #TopOn 广告平台数据监测网站
   - DOMAIN-SUFFIX,codelife.cc #itab壁纸接口
   - DOMAIN-SUFFIX,mxplayer.j2inter.com #mxplayer
