@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,adrules.top #AdRules
   - DOMAIN-SUFFIX,neodev.team #neodevhost
     # 漏网之鱼
+  - DOMAIN-SUFFIX,time.is #中国时间
   - DOMAIN-SUFFIX,liadm.com #Liveintent
   - DOMAIN-SUFFIX,apkpure.net #apkpure软件商店
   - DOMAIN-SUFFIX,sponsor.ajay.app #YouTube Vanced
