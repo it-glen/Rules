@@ -1,6 +1,6 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717247209327/fan.txt;md5;a452c971528decfec70d8c83d4918d85",
-    "wallpaper": "https://深色壁纸.饭.eu.org/",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718523928408/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "豆豆",
@@ -65,11 +65,6 @@
                     "name": "儿童",
                     "server": "http://xiaoya.host:5678/",
                     "startPage": "/动漫/儿童"
-                },
-                {
-                    "name": "阿里云盘",
-                    "server": "http://xiaoya.host:5678/",
-                    "startPage": "/📀我的阿里云盘/备份盘"
                 }
             ]
         },
@@ -149,17 +144,6 @@
             "changeable": 1
         },
         {
-            "key": "糯米",
-            "name": "🍙糯米┃秒播",
-            "type": 3,
-            "api": "csp_Nmys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
-        },
-        {
             "key": "厂长",
             "name": "📔厂长┃不卡",
             "type": 3,
@@ -170,16 +154,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://czzy.top/"
-        },
-        {
-            "key": "低端",
-            "name": "⏮️低端┃外剧",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "zxzj",
@@ -193,6 +167,26 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
+            "key": "低端",
+            "name": "⏮️低端┃外剧",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文采",
+            "name": "💮文采┃秒播",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "贱贱",
             "name": "🐭贱贱┃P2P",
             "type": 3,
@@ -202,6 +196,17 @@
             "playerType": "1",
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+        },
+        {
+            "key": "可可",
+            "name": "👻可可┃多线",
+            "type": 3,
+            "api": "csp_Kekys",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "小点",
@@ -235,11 +240,10 @@
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
-            "key": "南瓜",
-            "name": "🎃南瓜┃多线",
+            "key": "蛋蛋",
+            "name": "🍓蛋蛋┃多线",
             "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
+            "api": "csp_Cddys",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -255,10 +259,10 @@
             "changeable": 1
         },
         {
-            "key": "可可",
-            "name": "👻可可┃多线",
+            "key": "南瓜",
+            "name": "🎃南瓜┃多线",
             "type": 3,
-            "api": "csp_Kekys",
+            "api": "csp_NanGua",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -274,7 +278,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.pw/"
+            "ext": "https://www.libvio.cc/"
         },
         {
             "key": "Auete",
@@ -286,17 +290,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
-        },
-        {
-            "key": "毛驴",
-            "name": "🍓毛驴┃多线",
-            "type": 3,
-            "api": "csp_MLYS",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "新6V",
@@ -313,15 +306,6 @@
             "name": "🚌巴士┃动漫",
             "type": 3,
             "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Ying",
-            "name": "💮樱花┃动漫",
-            "type": 3,
-            "api": "csp_Ying",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -371,7 +355,7 @@
             "changeable": 0
         },
         {
-            "key": "企鹅体育xp",
+            "key": "企鹅xp",
             "name": "🐧鹅鹅┃体育",
             "type": 3,
             "api": "csp_XPath",
@@ -543,6 +527,19 @@
             }
         },
         {
+            "key": "UpYun",
+            "name": "😻Up搜┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
             "key": "PanSearch",
             "name": "🙀盘Se┃搜索",
             "type": 3,
@@ -677,7 +674,7 @@
         },
         {
             "key": "fan",
-            "name": "导航 https://饭太硬.com",
+            "name": "导航 www.饭太硬.com",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -689,7 +686,7 @@
             "name": "请勿相信视频中广告",
             "type": 3,
             "api": "csp_XPath",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
         }
