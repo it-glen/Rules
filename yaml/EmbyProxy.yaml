@@ -1,12 +1,8 @@
 payload:
     # Emby代理
-  # - DOMAIN-SUFFIX,pub1.emby.wtf #大妹
-  # - DOMAIN-SUFFIX,pub2.emby.wtf #二妹
-  # - DOMAIN-SUFFIX,pub3.emby.wtf #三妹
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,chirsemby.top #纸片人 RA2推流域名
-  - DOMAIN-SUFFIX,vip3.jellyfin.asia #水母乐园
   - DOMAIN-SUFFIX,cf.imetyou.top #Paul_电报服
   - DOMAIN-SUFFIX,emby-us-v4.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
