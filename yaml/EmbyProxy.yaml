@@ -5,6 +5,8 @@ payload:
   # - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF推流域名
   - DOMAIN-SUFFIX,chirsemby.top #纸片人 RA2推流域名
   - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili 主线路
+  - IP-CIDR,172.67.144.252/32,no-resolve #pilipili 主线路IP
+  - IP-CIDR,104.21.95.134/32,no-resolve #pilipili CF线路IP
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili 推流域名
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
