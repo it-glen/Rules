@@ -8,10 +8,20 @@
  * 
  * Update : 2024/02/26 12:07:30
  * 修改原脚本,在最后添加低倍率节点
- * https://mirror.ghproxy.com/https://raw.githubusercontent.com/it-glen/Rules/master/js/Operator.js
+ * https://mirror.ghproxy.com/https://raw.githubusercontent.com/it-glen/Rules/master/js/syn_add_nodes.js
  */
 
 function operator(proxies) {
+
+  // 添加 🎯 TG 碳酸二甲酯
+  proxies.push(
+    Object.assign({}, proxies[0], {
+      server: "traffic-in-a-s.811920.xyz",
+      port: 54001,
+      name: "🎯 TG 碳酸二甲酯",
+    })
+  );
+  
   // 添加 🇭🇰 HK 丁香酰氧胺 0.01x
   proxies.push(
     Object.assign({}, proxies[0], {
@@ -38,5 +48,6 @@ function operator(proxies) {
       name: "🇱🇺 LU 硝酸二甲酯 0.01x",
     })
   );
+
   return proxies;
 }
