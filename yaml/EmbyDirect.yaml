@@ -1,6 +1,5 @@
 payload:
     # Emby直连
-  - DOMAIN-SUFFIX,stream-direct.synn.cc #SYN 直连线路
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF推流域名
   - DOMAIN-SUFFIX,embymv.tk #Peach 主线路
