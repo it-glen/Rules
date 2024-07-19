@@ -7,7 +7,6 @@ payload:
   - IP-CIDR,193.123.232.141/32,no-resolve #Peach IP
   - DOMAIN-SUFFIX,cc.coemn.com #CC公益
   - DOMAIN-SUFFIX,dl.carryz.net #CC公益 推流域名
-  - DOMAIN-SUFFIX,emby.tnx.one #天南小筑
   - DOMAIN-SUFFIX,pub1.emby.wtf #大妹
   - DOMAIN-SUFFIX,pub2.emby.wtf #二妹
   - DOMAIN-SUFFIX,pub3.emby.wtf #三妹
