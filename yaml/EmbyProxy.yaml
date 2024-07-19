@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,cf.imetyou.top #Paul_电报服
   - DOMAIN-SUFFIX,vip3.jellyfin.asia #水母乐园
   - DOMAIN-SUFFIX,emby-us-v4.mius.uk #牢大的野兽餐厅
+  - DOMAIN-SUFFIX,film.reddust.link #江湖
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
     # 音乐服
   - DOMAIN-SUFFIX,music.mefun.org #未响
