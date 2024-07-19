@@ -1,6 +1,7 @@
 payload:
     # Emby代理
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
+  - DOMAIN-SUFFIX,emby.tnx.one #天南小筑
   # - DOMAIN-SUFFIX,embyplus.org #纸片人
   # - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF推流域名
   - DOMAIN-SUFFIX,chirsemby.top #纸片人 RA2推流域名
