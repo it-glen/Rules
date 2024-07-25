@@ -5,6 +5,7 @@ payload:
     # 国外DNS
   - DOMAIN-SUFFIX,dns.google #Google
   - DOMAIN-SUFFIX,cloudflare-dns.com #Cloudflare
+  - DOMAIN-SUFFIX,one.one.one.one #Cloudflare
   - DOMAIN-SUFFIX,dns.quad9.net #Quad9
   - DOMAIN-SUFFIX,doh.opendns.com #Opendns
   - IP-CIDR,8.8.8.8/32,no-resolve #Google
