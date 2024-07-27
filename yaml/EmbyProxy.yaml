@@ -12,10 +12,12 @@ payload:
   - DOMAIN-SUFFIX,vi.niceduck.lol ##垃圾影音x好鸭 推流域名
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
   - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭 CF线路
+  - DOMAIN-SUFFIX,cf.bili.rip #HXD CF线路
   - DOMAIN-SUFFIX,pub1cf.emby.wtf #终点站大妹 CF线路
   - DOMAIN-SUFFIX,pub2cf.emby.wtf #终点站二妹 CF线路
   - DOMAIN-SUFFIX,pub3cf.emby.wtf #终点站三妹 CF线路
   - DOMAIN-SUFFIX,cf.imetyou.top #Paul_电报服
+  - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
   - DOMAIN-SUFFIX,vip3.jellyfin.asia #水母乐园
   - DOMAIN-SUFFIX,emby-us-v4.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,film.reddust.link #江湖
