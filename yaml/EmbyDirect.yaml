@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,peachmv.me #Peach 备用路
   - IP-CIDR,193.123.232.141/32,no-resolve #Peach IP
   - DOMAIN-SUFFIX,cc.coemn.com #CC公益
+  - DOMAIN-SUFFIX,nanflix.net #天南小筑
   - DOMAIN-SUFFIX,dl.carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,jms1.niceduck.lol #卷毛鼠x好鸭直连线路1
   - DOMAIN-SUFFIX,jms2.niceduck.lol #卷毛鼠x好鸭直连线路2
