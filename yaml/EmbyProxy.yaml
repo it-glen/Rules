@@ -8,8 +8,6 @@ payload:
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili 推流域名
   - IP-CIDR,104.26.10.170/32,no-resolve #pilipili 推流IP
-  - DOMAIN-SUFFIX,cf.niceduck.lol ##垃圾影音x好鸭
-  - DOMAIN-SUFFIX,vi.niceduck.lol ##垃圾影音x好鸭 推流域名
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
   - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭 CF线路
   - DOMAIN-SUFFIX,cf.bili.rip #HXD CF线路
