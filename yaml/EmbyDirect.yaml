@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,jms1.niceduck.lol #卷毛鼠x好鸭直连线路1
   - DOMAIN-SUFFIX,jms2.niceduck.lol #卷毛鼠x好鸭直连线路2
   - DOMAIN-SUFFIX,1111cuct.niceduck.lol #垃圾影音x好鸭直连线路
+  - DOMAIN-SUFFIX,cf.niceduck.lol ##垃圾影音x好鸭
+  - DOMAIN-SUFFIX,vi.niceduck.lol ##垃圾影音x好鸭 推流域名
   - DOMAIN-SUFFIX,hxd.as174.com #HXD 主线路
   - DOMAIN-SUFFIX,pub1.emby.wtf #终点站 大妹
   - DOMAIN-SUFFIX,pub2.emby.wtf #终点站 二妹
