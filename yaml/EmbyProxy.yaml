@@ -1,6 +1,9 @@
 payload:
     # Emby代理
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
+  - DOMAIN-SUFFIX,nanflix.net #天南小筑
+  - DOMAIN-SUFFIX,emby.tnx.one #天南小筑
+  - IP-CIDR,138.2.4.81/32,no-resolve #天南小筑 IP
   - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili 主线路
   - IP-CIDR,104.21.95.134/32,no-resolve #pilipili 主线路IP
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
