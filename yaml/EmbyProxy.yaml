@@ -18,7 +18,7 @@ payload:
   - DOMAIN-SUFFIX,789.123456.al #TreeDiagram
   - DOMAIN-SUFFIX,vip3.jellyfin.asia #水母乐园
   - DOMAIN-SUFFIX,emby-mica-us-v1.mius.uk #牢大的野兽餐厅
-  - DOMAIN-SUFFIX,emby-mica-ca-v2.mius.uk #牢大的野兽餐厅
+  - DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,film.reddust.link #江湖
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
     # 音乐服
