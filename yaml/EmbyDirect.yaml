@@ -1,9 +1,9 @@
 payload:
     # Emby直连
   - DOMAIN-SUFFIX,stream-direct.synn.cc #SYN 直连线路
-  # - DOMAIN-SUFFIX,embyplus.org #纸片人
-  - DOMAIN-SUFFIX,oracle-chuncheon1.embyplus.org #纸片人春川推流域名
-  - DOMAIN-SUFFIX,hh.embyplus.org #纸片人荷兰推流域名
+  - DOMAIN-SUFFIX,embyplus.org #纸片人
+  # - DOMAIN-SUFFIX,oracle-chuncheon1.embyplus.org #纸片人春川推流域名
+  # - DOMAIN-SUFFIX,hh.embyplus.org #纸片人荷兰推流域名
   - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF推流域名
   - DOMAIN-SUFFIX,chirsemby.top #纸片人 RA2推流域名
   - DOMAIN-SUFFIX,embymv.tk #Peach 主线路
