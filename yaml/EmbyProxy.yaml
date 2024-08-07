@@ -1,6 +1,5 @@
 payload:
     # Emby代理
-  #- DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
   - DOMAIN-SUFFIX,nanflix.net #天南小筑
   - DOMAIN-SUFFIX,emby.tnx.one #天南小筑
@@ -20,7 +19,6 @@ payload:
   - DOMAIN-SUFFIX,vip3.jellyfin.asia #水母乐园
   - DOMAIN-SUFFIX,emby-mica-us-v1.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk #牢大的野兽餐厅
-  - DOMAIN-SUFFIX,film.reddust.link #江湖
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
     # 音乐服
   - DOMAIN-SUFFIX,music.mefun.org #未响
