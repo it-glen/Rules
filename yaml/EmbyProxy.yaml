@@ -1,6 +1,6 @@
 payload:
     # Emby代理
-  - DOMAIN-SUFFIX,embyplus.org #纸片人
+  #- DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
   - DOMAIN-SUFFIX,nanflix.net #天南小筑
   - DOMAIN-SUFFIX,emby.tnx.one #天南小筑
