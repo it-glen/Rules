@@ -29,25 +29,6 @@ payload:
     # 规则网址
   - DOMAIN-SUFFIX,adrules.top #AdRules
   - DOMAIN-SUFFIX,neodev.team #neodevhost
-    # 测速网站
-  - DOMAIN-SUFFIX,speed.io
-  - DOMAIN-SUFFIX,speed.cloudflare.com #Cloudflare
-  - DOMAIN-SUFFIX,speedtest.net #Speedtest
-  - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
-  - DOMAIN-SUFFIX,chinaunicomglobal.com
-  - DOMAIN-SUFFIX,chinamobile.com
-  - DOMAIN-SUFFIX,mbspeed.net
-  - DOMAIN-SUFFIX,fdcservers.net
-  - DOMAIN-SUFFIX,speed.misaka.one
-  - DOMAIN-SUFFIX,hgconair.hgc.com.hk
-  - DOMAIN-SUFFIX,kurlec.co.za
-  - DOMAIN-SUFFIX,m1speedtest1.m1net.com.sg
-  - DOMAIN-SUFFIX,cabospeed.com
-  - DOMAIN-SUFFIX,speedtest.windstream.net
-  - DOMAIN-SUFFIX,dallas.tx.speedtest.frontier.com
-  - DOMAIN-SUFFIX,speedtest10.vqbn.com
-  - DOMAIN-SUFFIX,speedtest05.orion.net.id
-  - DOMAIN-SUFFIX,speedtest.contabo.net
     # 漏网之鱼
   - DOMAIN-SUFFIX,time.is #中国时间
   - DOMAIN-SUFFIX,pluto.ck2ut7v3g5zudnjw.top #会跳转到YouTube的一个明日方舟视频
