@@ -2,39 +2,33 @@ payload:
     # 机场
   # - DOMAIN-SUFFIX,niceduck.cc #好鸭
   - DOMAIN-SUFFIX,maikuaiyun.com #麦块
-  - DOMAIN-SUFFIX,mkco2o.site
-  - DOMAIN-SUFFIX,newyun.io #新云
-  - DOMAIN-SUFFIX,xyun.me
-  - DOMAIN-SUFFIX,newyun1autoa.xyz
-  - DOMAIN-SUFFIX,skycloud.life #天空云
-  - DOMAIN-SUFFIX,jindoucloud.xyz #筋斗云
-  - DOMAIN-SUFFIX,fscloud.cc #FSC
+  - DOMAIN-SUFFIX,maikcloud.net
+  - DOMAIN-SUFFIX,karleynetwork.xyz #卡荔
+  - DOMAIN-SUFFIX,sfcloud.dev #SFC
+  - DOMAIN-SUFFIX,eggtartcloud.biz #蛋挞
+  - DOMAIN,synn.cc #SYN
+  - DOMAIN-KEYWORD,kaochang #烤肠
+  - DOMAIN-SUFFIX,skycloud.life #天空
   - DOMAIN-SUFFIX,ovofast.com #OVO
   - DOMAIN-SUFFIX,chaojijichang.com #超级
-  - DOMAIN-SUFFIX,pqjc.site #赔钱
   - DOMAIN-SUFFIX,tejiajichang.com #特价
-  - DOMAIN-SUFFIX,eggtartcloud.biz #蛋挞
-  - DOMAIN-KEYWORD,kaochang #烤肠
-  - DOMAIN-SUFFIX,sfcloud.dev #SFC
-  - DOMAIN-SUFFIX,karleynetwork.shop #卡荔
-  - DOMAIN-SUFFIX,synn.cc #SYN
   - DOMAIN-KEYWORD,666666222 #六分
+  - DOMAIN-KEYWORD,666669999
   - DOMAIN-SUFFIX,xn--mes358a9urctx.com #顶级
-  - DOMAIN-SUFFIX,aladingnet.com #Aladdin
+  - DOMAIN-SUFFIX,pqjc.site #赔钱
   - DOMAIN-SUFFIX,intel.im #Free
+  - DOMAIN-SUFFIX,aladingnet.com #Aladdin
     # 订阅
   - DOMAIN-SUFFIX,apiurl.v1.mk #肥羊
   - DOMAIN-SUFFIX,sub.d1.mk #肥羊备用
   - DOMAIN-SUFFIX,sub.xeton.dev #ACL4
   - DOMAIN-SUFFIX,id9.cc #品云
   # - DOMAIN-SUFFIX,niceduck.cloud #好鸭
-  - DOMAIN-SUFFIX,mk8866.top
-  - DOMAIN-SUFFIX,nginxxy.xyz #新云
-  - DOMAIN-SUFFIX,ovo.dingyue.cdn.ovosss.com #OVO
+  - DOMAIN-SUFFIX,518111.xyz #OVO
   - DOMAIN-SUFFIX,api.zzzzzl.me #超级
-  - DOMAIN-SUFFIX,sooooffffast.lat #SFC
+  - DOMAIN-SUFFIX,kjzdctvvik.rent #SFC
   - DOMAIN-SUFFIX,acl.syyn.pw #SYN
   - DOMAIN-SUFFIX,djjc.cfd #顶级
   - DOMAIN-SUFFIX,pro.76898102.xyz #Free
-  # - DOMAIN-SUFFIX,music.easygourl.xyz #Aladdin
+  - DOMAIN-SUFFIX,music.easygourl.xyz #Aladdin
   - DOMAIN-SUFFIX,088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz #特价
