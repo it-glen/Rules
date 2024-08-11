@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,pilicf.niceduck.lol #Pilix好鸭
   - DOMAIN-SUFFIX,jms1.niceduck.lol #卷毛鼠x好鸭直连线路1
+  - IP-CIDR,139.162.29.60/32,no-resolve #卷毛鼠x好鸭直连线路1 IP
   - DOMAIN-SUFFIX,jms2.niceduck.lol #卷毛鼠x好鸭直连线路2
   - IP-CIDR,154.12.56.195/32,no-resolve #卷毛鼠x好鸭直连线路2 IP
   - DOMAIN-SUFFIX,1111cuct.niceduck.lol #垃圾影音x好鸭直连线路
