@@ -1,0 +1,4 @@
+payload:
+    # Emby SYN
+  - DOMAIN-SUFFIX,stream.synn.cc #SYN
+  - DOMAIN-SUFFIX,stream-zz.synn.cc #SYN-ZZ
