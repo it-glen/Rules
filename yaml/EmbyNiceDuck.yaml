@@ -1,3 +1,6 @@
 payload:
     # Emby好鸭
   - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠 x 好鸭
+  - DOMAIN-SUFFIX,cf.niceduck.lol #垃圾 x 好鸭
+  - DOMAIN-SUFFIX,vi.niceduck.lol #垃圾 x 好鸭 推流
+  - DOMAIN-SUFFIX,pilicf.niceduck.lol #PiliPili x 好鸭
