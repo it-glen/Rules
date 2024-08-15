@@ -21,3 +21,5 @@ payload:
   - DOMAIN-SUFFIX,pub2.emby.wtf #终点站 二妹
   - DOMAIN-SUFFIX,pub3.emby.wtf #终点站 三妹
   - DOMAIN-SUFFIX,imetyou.top #Paul 电报服
+    # 音乐服
+  - DOMAIN-SUFFIX,123456.buzz #飞跃星空
