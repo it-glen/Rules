@@ -1,15 +1,10 @@
 payload:
     # Emby代理
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
-  # - DOMAIN-SUFFIX,emby.tnx.one #天南小筑
-  - IP-CIDR,138.2.4.81/32,no-resolve #天南小筑 IP
   - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili 主线路
-  - IP-CIDR,104.21.95.134/32,no-resolve #pilipili 主线路IP
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili 推流域名
-  - IP-CIDR,104.26.10.170/32,no-resolve #pilipili 推流IP
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
-  - DOMAIN-SUFFIX,e.niceduck.me #卷毛鼠x好鸭 CF线路
   - DOMAIN-SUFFIX,hxd.as174.com #HXD 主线路
   - DOMAIN-SUFFIX,emby.as174.com #HXD pron
   - DOMAIN-SUFFIX,pub1cf.emby.wtf #终点站大妹 CF线路
