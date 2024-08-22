@@ -7,9 +7,6 @@ payload:
   - DOMAIN-SUFFIX,embymv.tk #Peach
   - DOMAIN-SUFFIX,peachmv.me #Peach
   - IP-CIDR,193.123.232.141/32,no-resolve #Peach IP
-  - DOMAIN-SUFFIX,nanflix.net #Nanflix
-  - DOMAIN-SUFFIX,emby.tnx.one #Nanflix
-  - IP-CIDR,138.2.4.81/32,no-resolve #Nanflix IP
   - DOMAIN-SUFFIX,cc.coemn.com #CC公益
   - IP-CIDR,129.150.48.48,no-resolve #CC公益 IP
   - DOMAIN-SUFFIX,carryz.net #CC公益 推流域名
