@@ -1,14 +1,10 @@
 payload:
     # Emby代理
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
-  - DOMAIN-SUFFIX,nanflix.net #Nanflix
-  - IP-CIDR,138.2.4.81/32,no-resolve #Nanflix IP
   - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili 主线路
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pilipili 推流域名
   - DOMAIN-SUFFIX,cf2.jmsooo.com #卷毛鼠 CF线路
-  - DOMAIN-SUFFIX,hxd.as174.com #HXD 主线路
-  - DOMAIN-SUFFIX,emby.as174.com #HXD pron
   - DOMAIN-SUFFIX,pub1cf.emby.wtf #终点站大妹 CF线路
   - DOMAIN-SUFFIX,pub2cf.emby.wtf #终点站二妹 CF线路
   - DOMAIN-SUFFIX,pub3cf.emby.wtf #终点站三妹 CF线路
