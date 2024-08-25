@@ -12,6 +12,3 @@ payload:
   - DOMAIN-SUFFIX,emby-mica-us-v1.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,emby.kim #魔仙堡
-    # 音乐服
-  - DOMAIN-SUFFIX,music.mefun.org #未响
-  - DOMAIN-SUFFIX,music.127066.xyz #rais音乐
