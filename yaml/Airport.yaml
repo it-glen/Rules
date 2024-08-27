@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,karleynetwork.xyz #卡荔
   - DOMAIN-SUFFIX,sfcloud.dev #SFC
   - DOMAIN-SUFFIX,eggtartcloud.biz #蛋挞
+  - DOMAIN-SUFFIX,eggtart.cloud #蛋挞
   - DOMAIN,synn.cc #SYN
   - DOMAIN-KEYWORD,kaochang #烤肠
   - DOMAIN-SUFFIX,skycloud.life #天空
