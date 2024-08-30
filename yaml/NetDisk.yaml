@@ -5,4 +5,5 @@ payload:
   - DOMAIN-SUFFIX,quark.cn #夸克
   - DOMAIN-SUFFIX,ctyun.cn #天翼
   - DOMAIN-SUFFIX,ctyunxs.cn #天翼
+  - DOMAIN-SUFFIX,ctyunapi.cn #天翼
   - DOMAIN-SUFFIX,aliyundrive.net #阿里
