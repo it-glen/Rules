@@ -31,7 +31,7 @@ payload:
   - DOMAIN-SUFFIX,pub3.emby.wtf #终点站 三妹
   - DOMAIN-SUFFIX,hxd.as174.com #HXD 主线路
   - DOMAIN-SUFFIX,emby.as174.com #HXD pron
-  - DOMAIN-SUFFIX,robo.656888.xyz #Robo快看
+  - DOMAIN-SUFFIX,656888.xyz #Robo快看
   - DOMAIN-SUFFIX,imetyou.top #Paul 电报服
   - DOMAIN-SUFFIX,vip3.jellyfin.asia #水母乐园
   - IP-CIDR,220.135.49.134/32,no-resolve #水母乐园IP
