@@ -1,8 +1,7 @@
 payload:
     # Emby直连
-  # - DOMAIN-SUFFIX,embyplus.org #纸片人
-  - DOMAIN-SUFFIX,gd.9521732.xyz #纸片人 CF反代推流域名
-  - IP-CIDR,172.67.197.145/32,no-resolve #纸片人 CF反代推流IP
+  - DOMAIN-SUFFIX,embyplus.org #纸片人
+  - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF反代推流域名
   - DOMAIN-SUFFIX,029902.xyz #纸片人 推流域名
   - DOMAIN-SUFFIX,chirsemby.top #纸片人 RN推流域名
   - IP-CIDR,8.153.66.71/32,no-resolve #Pili 直连推流IP
