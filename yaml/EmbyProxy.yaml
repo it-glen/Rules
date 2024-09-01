@@ -1,7 +1,7 @@
 payload:
     # Emby代理
   - DOMAIN-SUFFIX,stream.ntrrr.top #ntrrr
-  # - DOMAIN-SUFFIX,embyplus.org #纸片人
+  - DOMAIN-SUFFIX,embyplus.org #纸片人
   # - DOMAIN-SUFFIX,stream.9521732.xyz #纸片人 CF推流域名
   - DOMAIN-SUFFIX,emby.pilipiliultra.top #pilipili 主线路
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #pilipili CF线路
