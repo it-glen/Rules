@@ -11,6 +11,7 @@ payload:
   - IP-CIDR,82.152.6.29/32,no-resolve #Pili 直连2IP
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org #pili 推流域名
   - DOMAIN-SUFFIX,embymv.tk #Peach
+  - DOMAIN-SUFFIX,embymv.link #Peach
   - DOMAIN-SUFFIX,peachmv.me #Peach
   - IP-CIDR,193.123.232.141/32,no-resolve #Peach IP
   - DOMAIN-SUFFIX,nanflix.net #Nanflix
