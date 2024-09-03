@@ -42,3 +42,4 @@ payload:
   - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
   - DOMAIN-SUFFIX,speedtest.globalxtreme.net
   - DOMAIN-SUFFIX,speedtest.three.com.hk
+  - IP-CIDR,203.76.137.77/32,no-resolve
