@@ -1,28 +1,25 @@
 payload:
     # 机场
   # - DOMAIN-SUFFIX,niceduck.cc #好鸭
-  - DOMAIN-SUFFIX,maikuaiyun.com #麦块
-  - DOMAIN-SUFFIX,maikcloud.net
-  - DOMAIN-SUFFIX,karleynetwork.xyz #卡荔
-  - DOMAIN-SUFFIX,sfcloud.dev #SFC
-  - DOMAIN-SUFFIX,eggtart.cloud #蛋挞
-  - DOMAIN,synn.cc #SYN
+  - DOMAIN,maikuaiyun.com #麦块
+  - DOMAIN,maikcloud.net
+  - DOMAIN,portal.karleynetwork.xyz #卡荔
+  - DOMAIN,sfcloud.dev #SFC
+  - DOMAIN,eggtart.cloud #蛋挞
   - DOMAIN-KEYWORD,kaochang #烤肠
   - DOMAIN-SUFFIX,skycloud.life #天空
   - DOMAIN-SUFFIX,ovofast.com #OVO
-  - DOMAIN-SUFFIX,chaojijichang.com #超级
-  - DOMAIN-SUFFIX,tejiajichang.com #特价
-  - DOMAIN-KEYWORD,666666222 #六分
-  - DOMAIN-KEYWORD,666669999
-  - DOMAIN-SUFFIX,xn--mes358a9urctx.com #顶级
-  - DOMAIN-SUFFIX,pqjc.site #赔钱
-  - DOMAIN-SUFFIX,intel.im #Free
-  - DOMAIN-SUFFIX,aladingnet.com #Aladdin
+  - DOMAIN,chaojijichang.com #超级
+  - DOMAIN,tejiajichang.com #特价
+  - DOMAIN,xn--mes358a9urctx.com #顶级
+  - DOMAIN,pqjc.site #赔钱
+  - DOMAIN,intel.im #Free
+  - DOMAIN,aladingnet.com #Aladdin
     # 订阅
-  - DOMAIN-SUFFIX,apiurl.v1.mk #肥羊
-  - DOMAIN-SUFFIX,sub.d1.mk #肥羊备用
-  - DOMAIN-SUFFIX,sub.xeton.dev #ACL4
-  - DOMAIN-SUFFIX,id9.cc #品云
+  - DOMAIN,apiurl.v1.mk #肥羊
+  - DOMAIN,sub.d1.mk #肥羊备用
+  - DOMAIN,sub.xeton.dev #ACL4
+  - DOMAIN,id9.cc #品云
   # - DOMAIN-SUFFIX,niceduck.cloud #好鸭
   - DOMAIN-SUFFIX,518111.xyz #OVO
   - DOMAIN-SUFFIX,api.zzzzzl.me #超级
