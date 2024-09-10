@@ -1,13 +1,10 @@
 payload:
-    # DNS泄露
-  - DOMAIN-SUFFIX,ipleak.net
-  - DOMAIN-SUFFIX,ip125.com
     # 国外DNS
-  - DOMAIN-SUFFIX,dns.google #Google
-  - DOMAIN-SUFFIX,cloudflare-dns.com #Cloudflare
-  - DOMAIN-SUFFIX,one.one.one.one #Cloudflare
-  - DOMAIN-SUFFIX,dns.quad9.net #Quad9
-  - DOMAIN-SUFFIX,doh.opendns.com #Opendns
+  - DOMAIN,dns.google #Google
+  - DOMAIN,cloudflare-dns.com #Cloudflare
+  - DOMAIN,one.one.one.one #Cloudflare
+  - DOMAIN,dns.quad9.net #Quad9
+  - DOMAIN,doh.opendns.com #Opendns
   - IP-CIDR,8.8.8.8/32,no-resolve #Google
   - IP-CIDR,8.8.4.4/32,no-resolve
   - IP-CIDR,1.1.1.1/32,no-resolve #Cloudflare
