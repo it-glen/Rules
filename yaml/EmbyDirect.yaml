@@ -38,5 +38,5 @@ payload:
   - IP-CIDR,220.135.49.134/32,no-resolve #水母乐园IP
     # 音乐服
   - DOMAIN-SUFFIX,music.mefun.org #未响
+  - DOMAIN-SUFFIX,music.wish.ml #rais音乐
   - DOMAIN-SUFFIX,music.127066.xyz #rais音乐
-  - DOMAIN-SUFFIX,123456.buzz #飞跃星空
