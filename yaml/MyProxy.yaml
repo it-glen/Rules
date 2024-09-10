@@ -29,6 +29,9 @@ payload:
     # 规则网址
   - DOMAIN-SUFFIX,adrules.top #AdRules
   - DOMAIN-SUFFIX,neodev.team #neodevhost
+    # DNS泄露
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,ip125.com
     # 漏网之鱼
   - DOMAIN-SUFFIX,time.is #中国时间
   - DOMAIN-SUFFIX,tgx.rs #TorentGalaxy
