@@ -1,7 +1,7 @@
 payload:
     # Emby直连
-  - DOMAIN,embyplus.org #纸片人
-  - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF反代推流域名
+  # - DOMAIN-SUFFIX,embyplus.org #纸片人
+  # - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF反代推流域名
   - DOMAIN-SUFFIX,029902.xyz #纸片人 推流域名
   - DOMAIN,chirsemby.top #纸片人 RN推流域名
   - DOMAIN,pilipili.club #Pili 主域名
