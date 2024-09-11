@@ -1,6 +1,7 @@
 payload:
-    # Github releases下载
+    # Github下载
   - DOMAIN-SUFFIX,objects.githubusercontent.com
+  - DOMAIN-SUFFIX,blob.core.windows.net
     # wetransfer下载
   - DOMAIN-SUFFIX,download.wetransfer.com
     # Gofile网盘下载
