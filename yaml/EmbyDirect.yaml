@@ -14,6 +14,8 @@ payload:
   - DOMAIN,embymv.tk #Peach
   - DOMAIN,embymv.link #Peach
   - IP-CIDR,193.123.232.141/32,no-resolve #Peach IP
+  - DOMAIN,jsq.mooguu.top #见手青
+  - IP-CIDR,152.53.38.126/32,no-resolve #见手青 IP
   - DOMAIN,nanflix.net #Nanflix
   - IP-CIDR,138.2.4.81/32,no-resolve #Nanflix IP
   - DOMAIN,cc.coemn.com #CC公益
