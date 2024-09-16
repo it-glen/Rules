@@ -8,6 +8,7 @@ payload:
   - IP-CIDR,46.3.100.84/32,no-resolve #Pili 直连1IP
   - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com #Pili 直连2
   - IP-CIDR,82.152.6.29/32,no-resolve #Pili 直连2IP
+  - DOMAIN-SUFFIX,20120714.xyz #Marmot
   - DOMAIN,embymv.tk #Peach
   - DOMAIN,embymv.link #Peach
   - IP-CIDR,193.123.232.141/32,no-resolve #Peach IP
