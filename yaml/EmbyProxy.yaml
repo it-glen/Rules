@@ -15,5 +15,7 @@ payload:
   - DOMAIN,emby.kim #魔仙堡
     # 音乐服
   - DOMAIN,xk.123456.buzz #飞跃星空
+  - IP-CIDR,141.147.186.142/32,no-resolve
   - DOMAIN,axk.123456.buzz #飞跃星空
+  - IP-CIDR,193.123.227.226/32,no-resolve
   - DOMAIN,music.811861.xyz #AWA音乐服
