@@ -39,6 +39,13 @@ payload:
   - DOMAIN,vip3.jellyfin.asia #水母乐园
   - IP-CIDR,220.135.49.134/32,no-resolve #水母乐园IP
     # 音乐服
-  - DOMAIN,music.mefun.org #未响
+  - DOMAIN,music.mefun.org #未响 CF
+  - DOMAIN,music.811861.xyz #AWA音乐服 CF
+  - DOMAIN,music.127066.xyz #rais音乐 
+  - IP-CIDR,175.11.21.5/32,no-resolve #rais音乐 长沙
   - DOMAIN,music.wish.ml #rais音乐
-  - DOMAIN,music.127066.xyz #rais音乐
+  - IP-CIDR,46.3.110.202/32,no-resolve #rais音乐 香港
+  - DOMAIN,xk.123456.buzz #飞跃星空
+  - IP-CIDR,141.147.186.142/32,no-resolve #飞跃星空 东京
+  - DOMAIN,axk.123456.buzz #飞跃星空
+  - IP-CIDR,193.123.227.226/32,no-resolve #飞跃星空 首尔
