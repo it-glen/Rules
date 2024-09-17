@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,releases.ubuntu.com
     # 测速网站
   - DOMAIN-SUFFIX,speed.io
+  - DOMAIN-SUFFIX,speed.nvidia.rip
   - DOMAIN-SUFFIX,speed.cloudflare.com #Cloudflare
   - DOMAIN-SUFFIX,speedtest.net #Speedtest
   - DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
