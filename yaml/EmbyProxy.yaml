@@ -1,7 +1,7 @@
 payload:
     # Emby代理
   - DOMAIN-SUFFIX,embyplus.org #纸片人
-  - DOMAIN-SUFFIX,9521732.xyz #纸片人 推流域名
+  # - DOMAIN-SUFFIX,9521732.xyz #纸片人 推流域名
   - DOMAIN,pilipili.club #Pili 主域名
   - DOMAIN,stream.ntrrr.top #ntrrr
   - DOMAIN,cf2.jmsooo.com #卷毛鼠2服 CF线路
@@ -13,5 +13,3 @@ payload:
   - DOMAIN,emby-mica-us-v1.mius.uk #牢大的野兽餐厅
   - DOMAIN,emby-micax-ca-v2.mius.uk #牢大的野兽餐厅
   - DOMAIN,emby.kim #魔仙堡
-    # 音乐服
-  - DOMAIN,music.811861.xyz #AWA音乐服 CF
