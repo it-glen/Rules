@@ -35,7 +35,6 @@ payload:
     # 漏网之鱼
   - DOMAIN-SUFFIX,time.is #中国时间
   - DOMAIN-SUFFIX,tgx.rs #TorentGalaxy
-  - DOMAIN-SUFFIX,pluto.ck2ut7v3g5zudnjw.top #会跳转到YouTube的一个明日方舟视频
   - DOMAIN-SUFFIX,liadm.com #Liveintent
   - DOMAIN-SUFFIX,apkpure.net #apkpure软件商店
   - DOMAIN-SUFFIX,sponsor.ajay.app #YouTube Vanced
@@ -43,6 +42,8 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org #Greasy Fork
   - DOMAIN-SUFFIX,mb3admin.com #emby官网
   - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
-  - DOMAIN-SUFFIX,speedtest.globalxtreme.net
-  - DOMAIN-SUFFIX,speedtest.three.com.hk
-  - IP-CIDR,203.76.137.77/32,no-resolve
+  - DOMAIN-SUFFIX,tj.arae.cc
+  # - DOMAIN-SUFFIX,pluto.ck2ut7v3g5zudnjw.top #会跳转到YouTube的一个明日方舟视频
+  # - DOMAIN-SUFFIX,speedtest.globalxtreme.net
+  # - DOMAIN-SUFFIX,speedtest.three.com.hk
+  # - IP-CIDR,203.76.137.77/32,no-resolve
