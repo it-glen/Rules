@@ -1,7 +1,7 @@
 payload:
     # Emby直连
-  - DOMAIN-SUFFIX,029902.xyz #纸片人 推流域名
-  - DOMAIN,chirsemby.top #纸片人 RN推流域名
+  - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF推流域名
+  - DOMAIN-SUFFIX,029902.xyz #纸片人 直连推流域名
   - DOMAIN,stream_pilipili.misakaf.org #pili 推流域名
   - DOMAIN,css.pilipili.club #Pili 直连
   - DOMAIN,pilifun.top #Pili 直连1
@@ -42,6 +42,7 @@ payload:
   - IP-CIDR,220.135.49.134/32,no-resolve #水母乐园IP
     # 音乐服
   - DOMAIN,music.mefun.org #未响 CF
+  - DOMAIN,music.811861.xyz #AWA音乐服 CF
   - DOMAIN,music.127066.xyz #rais音乐 
   - IP-CIDR,175.11.21.5/32,no-resolve #rais音乐 长沙
   - DOMAIN,music.wish.ml #rais音乐
