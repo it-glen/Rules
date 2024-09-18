@@ -9,23 +9,25 @@ payload:
   - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com #Pili 直连2
   - IP-CIDR,82.152.6.29/32,no-resolve #Pili 直连2IP
   - DOMAIN-SUFFIX,20120714.xyz #Marmot
-  - IP-CIDR,130.162.135.38/32,no-resolve #Marmot IP
+  - IP-CIDR,130.162.135.38/32,no-resolve #MarmotIP
   - DOMAIN,embymv.tk #Peach
   - DOMAIN,embymv.link #Peach
-  - IP-CIDR,193.123.232.141/32,no-resolve #Peach IP
+  - IP-CIDR,193.123.232.141/32,no-resolve #PeachIP
   - DOMAIN,jsq.mooguu.top #见手青
-  - IP-CIDR,152.53.38.126/32,no-resolve #见手青 IP
+  - IP-CIDR,152.53.38.126/32,no-resolve #见手青IP
   - DOMAIN,nanflix.net #Nanflix
-  - IP-CIDR,138.2.4.81/32,no-resolve #Nanflix IP
+  - IP-CIDR,138.2.4.81/32,no-resolve #NanflixIP
   - DOMAIN,cc.coemn.com #CC公益
-  - IP-CIDR,129.150.48.48,no-resolve #CC公益 IP
+  - IP-CIDR,129.150.48.48,no-resolve #CC公益IP
   - DOMAIN-SUFFIX,carryz.net #CC公益 推流域名
+  - DOMAIN,emby.1024.name #冰镇西瓜
+  - IP-CIDR,148.135.124.92/32,no-resolve #冰镇西瓜IP
   - DOMAIN,pl1.niceduck.lol #Pilix好鸭 直连线路1
   - DOMAIN,jms1.niceduck.lol #卷毛鼠x好鸭 直连线路1
-  - IP-CIDR,139.162.29.60/32,no-resolve #卷毛鼠x好鸭 直连线路1 IP
+  - IP-CIDR,139.162.29.60/32,no-resolve #卷毛鼠x好鸭 直连线路1IP
   - DOMAIN,pl2.niceduck.lol #Pilix好鸭 直连线路2
   - DOMAIN,jms2.niceduck.lol #卷毛鼠x好鸭 直连线路2
-  - IP-CIDR,154.12.56.195/32,no-resolve #卷毛鼠x好鸭 直连线路2 IP
+  - IP-CIDR,154.12.56.195/32,no-resolve #卷毛鼠x好鸭 直连线路2IP
   - DOMAIN,1111cuct.niceduck.lol #垃圾影音x好鸭 直连线路
   - DOMAIN,pub1.emby.wtf #终点站 大妹
   - DOMAIN,pub2.emby.wtf #终点站 二妹
