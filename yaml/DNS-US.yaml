@@ -3,20 +3,18 @@ payload:
   - DOMAIN,dns.google #Google
   - DOMAIN,cloudflare-dns.com #Cloudflare
   - DOMAIN,one.one.one.one #Cloudflare
+  - DOMAIN,1dot1dot1dot1.cloudflare-dns.com #Cloudflare
   - DOMAIN,dns.quad9.net #Quad9
-  - DOMAIN,doh.opendns.com #Opendns
+  - DOMAIN,doh.opendns.com #OpenDNS
   - IP-CIDR,8.8.8.8/32,no-resolve #Google
   - IP-CIDR,8.8.4.4/32,no-resolve
   - IP-CIDR,1.1.1.1/32,no-resolve #Cloudflare
   - IP-CIDR,1.0.0.1/32,no-resolve
-  - IP-CIDR,208.67.222.222/32,no-resolve #Opendns
+  - IP-CIDR,208.67.222.222/32,no-resolve #OpenDNS
   - IP-CIDR,208.67.220.220/32,no-resolve
-  - IP-CIDR,8.26.56.26/32,no-resolve #Comodo
-  - IP-CIDR,8.20.247.20/32,no-resolve
-  - IP-CIDR,64.6.64.6/32,no-resolve #威瑞信
+  - IP-CIDR,146.112.41.2/32,no-resolve
+  - IP-CIDR,64.6.64.6/32,no-resolve #Verisign
   - IP-CIDR,64.6.65.6/32,no-resolve
-  - IP-CIDR,199.85.126.10/32,no-resolve #Norton
-  - IP-CIDR,199.85.127.10/32,no-resolve
   - IP-CIDR,9.9.9.9/32,no-resolve #Quad9
   - IP-CIDR,149.112.112.112/32,no-resolve
   - IP-CIDR6,2001:4860:4860::8888/128,no-resolve #Google
