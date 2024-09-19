@@ -1,6 +1,7 @@
 payload:
     # 国内DNS
-  - DOMAIN,doh.pub #腾讯DNSPod
+  - DOMAIN,dot.pub #DNSPod
+  - DOMAIN,doh.pub #DNSPod
   - DOMAIN,dns.alidns.com #阿里
   - DOMAIN,dns.360.cn #360
   - DOMAIN,doh.apad.pro #EasyMosdns
@@ -12,14 +13,15 @@ payload:
   - IP-CIDR,180.76.76.76/32,no-resolve #百度
   - IP-CIDR,223.5.5.5/32,no-resolve #阿里
   - IP-CIDR,223.6.6.6/32,no-resolve
-  - IP-CIDR,119.29.29.29/32,no-resolve #腾讯DNSPod
+  - IP-CIDR,119.29.29.29/32,no-resolve #DNSPod
   - IP-CIDR,119.28.28.28/32,no-resolve
-  - IP-CIDR,1.12.12.12/32,no-resolve #腾讯DNSPod
+  - IP-CIDR,1.12.12.12/32,no-resolve #DNSPod
   - IP-CIDR,120.53.53.53/32,no-resolve
   - IP-CIDR,114.114.114.114/32,no-resolve #114
   - IP-CIDR,114.114.115.115/32,no-resolve
-  - IP-CIDR,101.226.4.6/32,no-resolve #360
-  - IP-CIDR,218.30.118.6/32,no-resolve
+  - IP-CIDR,36.99.170.86/32,no-resolve #360
+  - IP-CIDR,180.163.249.75/32,no-resolve
+  - IP-CIDR,101.198.191.4/32,no-resolve
   - IP-CIDR6,2400:3200:baba::1/128,no-resolve #阿里
   - IP-CIDR6,2400:3200::1/128,no-resolve
   - IP-CIDR6,2402:4e00::/128,no-resolve #腾讯DNSPod
