@@ -3,43 +3,50 @@ payload:
   - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF推流域名
   - DOMAIN-SUFFIX,029902.xyz #纸片人 直连推流域名
   - DOMAIN,stream_pilipili.misakaf.org #pili 推流域名
+  - IP-CIDR,104.26.11.170/32,no-resolve
   - DOMAIN,css.pilipili.club #Pili 直连
-  - DOMAIN,pilifun.top #Pili 直连1
-  - IP-CIDR,46.3.100.84/32,no-resolve #Pili 直连1IP
-  - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com #Pili 直连2
-  - IP-CIDR,82.152.6.29/32,no-resolve #Pili 直连2IP
-  - DOMAIN-SUFFIX,20120714.xyz #Marmot
-  - IP-CIDR,130.162.135.38/32,no-resolve #MarmotIP
-  - DOMAIN,embymv.tk #Peach
+  - IP-CIDR,23.95.248.61/32,no-resolve
+  - DOMAIN,pilifun.top #Pili yxvm日本软银
+  - IP-CIDR,46.3.100.84/32,no-resolve
+  - DOMAIN,us.pilifun.top #Pili 美国4837
+  - IP-CIDR,154.9.241.196/32,no-resolve
+  - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com #Pili uk联通直连
+  - IP-CIDR,82.152.6.29/32,no-resolve
+  - DOMAIN,v.20120714.xyz #Marmot
+  - IP-CIDR,130.162.135.38/32,no-resolve
   - DOMAIN,embymv.link #Peach
-  - IP-CIDR,193.123.232.141/32,no-resolve #PeachIP
-  - DOMAIN,jsq.mooguu.top #见手青
-  - IP-CIDR,152.53.38.126/32,no-resolve #见手青IP
+  - IP-CIDR,193.123.232.141/32,no-resolve
   - DOMAIN,nanflix.net #Nanflix
-  - IP-CIDR,138.2.4.81/32,no-resolve #NanflixIP
+  - IP-CIDR,138.2.4.81/32,no-resolve
+  - DOMAIN,jsq.mooguu.top #见手青
+  - IP-CIDR,152.53.38.126/32,no-resolve
   - DOMAIN,cc.coemn.com #CC公益
   - IP-CIDR,129.150.48.48,no-resolve #CC公益IP
   - DOMAIN-SUFFIX,carryz.net #CC公益 推流域名
   - DOMAIN,emby.1024.name #冰镇西瓜
-  - IP-CIDR,148.135.124.92/32,no-resolve #冰镇西瓜IP
-  - DOMAIN,pl1.niceduck.lol #Pilix好鸭 直连线路1
-  - DOMAIN,jms1.niceduck.lol #卷毛鼠x好鸭 直连线路1
-  - IP-CIDR,139.162.29.60/32,no-resolve #卷毛鼠x好鸭 直连线路1IP
-  - DOMAIN,pl2.niceduck.lol #Pilix好鸭 直连线路2
-  - DOMAIN,jms2.niceduck.lol #卷毛鼠x好鸭 直连线路2
-  - IP-CIDR,154.12.56.195/32,no-resolve #卷毛鼠x好鸭 直连线路2IP
-  - DOMAIN,1111cuct.niceduck.lol #垃圾影音x好鸭 直连线路
+  - IP-CIDR,148.135.124.92/32,no-resolve
+  - DOMAIN,pl1.niceduck.lol #Pilix好鸭 直连1
+  - DOMAIN,jms1.niceduck.lol #卷毛鼠x好鸭 直连1
+  - IP-CIDR,139.162.29.60/32,no-resolve
+  - DOMAIN,pl2.niceduck.lol #Pilix好鸭 直连2
+  - DOMAIN,jms2.niceduck.lol #卷毛鼠x好鸭 直连2
+  - DOMAIN,1111cuct.niceduck.lol #垃圾影视x好鸭 直连线路
+  - IP-CIDR,154.12.56.195/32,no-resolve
   - DOMAIN,pub1.emby.wtf #终点站 大妹
   - DOMAIN,pub2.emby.wtf #终点站 二妹
   - DOMAIN,pub3.emby.wtf #终点站 三妹
   - DOMAIN,pub1.term.wtf #终点站 大妹
   - DOMAIN,pub2.term.wtf #终点站 二妹
   - DOMAIN,pub3.term.wtf #终点站 三妹
+  - IP-CIDR,158.180.90.31/32,no-resolve
+  - IP-CIDR,158.180.73.62/32,no-resolve
   - DOMAIN,hxd.as174.com #HXD 主线路
+  - IP-CIDR,38.12.25.76/32,no-resolve
   - DOMAIN,emby.as174.com #HXD pron
-  - DOMAIN-SUFFIX,imetyou.top #Paul 电报服
+  - IP-CIDR,140.245.51.142/32,no-resolve
   - DOMAIN,vip3.jellyfin.asia #水母乐园
   - IP-CIDR,220.135.49.134/32,no-resolve #水母乐园IP
+  - DOMAIN-SUFFIX,imetyou.top #Paul 电报服
     # 音乐服
   - DOMAIN,music.mefun.org #未响 CF
   - DOMAIN,music.811861.xyz #AWA音乐服 CF
