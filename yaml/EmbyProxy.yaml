@@ -16,3 +16,5 @@ payload:
   - DOMAIN,emby-micax-ca-v2.mius.uk #牢大的野兽餐厅
   - DOMAIN,emby.kim #魔仙堡
   - IP-CIDR,82.152.162.202/32,no-resolve
+    # 音乐服
+  - DOMAIN,music.811861.xyz #AWA音乐服 CF
