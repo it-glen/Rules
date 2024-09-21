@@ -40,6 +40,8 @@ payload:
   - DOMAIN,pub3.term.wtf #终点站 三妹
   - IP-CIDR,158.180.90.31/32,no-resolve
   - IP-CIDR,158.180.73.62/32,no-resolve
+  - DOMAIN,vip3.jellyfin.asia #水母乐园
+  - IP-CIDR,220.135.49.134/32,no-resolve
   - DOMAIN-SUFFIX,imetyou.top #Paul 电报服
     # 音乐服
   - DOMAIN,music.mefun.org #未响 CF
