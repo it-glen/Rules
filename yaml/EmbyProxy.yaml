@@ -12,8 +12,6 @@ payload:
   - IP-CIDR,154.12.62.92/32,no-resolve
   - DOMAIN,emby.as174.com #HXD pron
   - DOMAIN,789.123456.al #TreeDiagram CF线路
-  - DOMAIN,vip3.jellyfin.asia #水母乐园
-  - IP-CIDR,220.135.49.134/32,no-resolve #水母乐园IP
   - DOMAIN,emby-mica-us-v1.mius.uk #牢大的野兽餐厅
   - DOMAIN,emby-micax-ca-v2.mius.uk #牢大的野兽餐厅
   - DOMAIN,emby.kim #魔仙堡
