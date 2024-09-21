@@ -43,6 +43,7 @@ payload:
   - DOMAIN,vip3.jellyfin.asia #水母乐园
   - IP-CIDR,220.135.49.134/32,no-resolve
   - DOMAIN-SUFFIX,imetyou.top #Paul 电报服
+  - DOMAIN,1.aganemby.top #阿甘
     # 音乐服
   - DOMAIN,music.mefun.org #未响 CF
   - DOMAIN,music.127066.xyz #rais音乐 
