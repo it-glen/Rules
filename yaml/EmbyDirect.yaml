@@ -12,6 +12,9 @@ payload:
   - IP-CIDR,154.9.241.196/32,no-resolve
   - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com #Pili uk联通直连
   - IP-CIDR,82.152.6.29/32,no-resolve
+  - DOMAIN,hxd.as174.com #HXD 主线路
+  - IP-CIDR,154.12.62.92/32,no-resolve
+  - DOMAIN,emby.as174.com #HXD pron
   - DOMAIN,v.20120714.xyz #Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
   - DOMAIN,embymv.link #Peach
