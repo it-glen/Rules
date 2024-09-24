@@ -19,8 +19,6 @@ payload:
     # 机场直连
   - DOMAIN-SUFFIX,niceduck.io #好鸭
   - DOMAIN-SUFFIX,niceduck.cloud
-  - DOMAIN-SUFFIX,go.synn.cc #SYN
-  - DOMAIN-SUFFIX,acl.syyn.pw
     # 小说
   - DOMAIN-SUFFIX,deqixs.com
     # 测试网站
