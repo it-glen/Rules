@@ -1,7 +1,7 @@
 payload:
     # Emby代理
   - DOMAIN-SUFFIX,embyplus.org #纸片人
-  # - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF推流域名
+  - DOMAIN,gd.9521732.xyz #纸片人 CF推流域名
   - DOMAIN,pilipili.club #Pili 主域名
   - DOMAIN,stream.ntrrr.top #ntrrr
   - DOMAIN,cf1.jmsuper.com #卷毛鼠1服 CF线路
