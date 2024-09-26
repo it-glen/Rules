@@ -32,6 +32,8 @@ payload:
     # DNS泄露
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,ip125.com
+    # 弹弹Play
+  - DOMAIN-SUFFIX,dandanplay.net
     # 漏网之鱼
   - DOMAIN-SUFFIX,time.is #中国时间
   - DOMAIN-SUFFIX,tgx.rs #TorentGalaxy
