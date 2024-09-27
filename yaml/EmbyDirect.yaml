@@ -27,8 +27,6 @@ payload:
   - DOMAIN-SUFFIX,carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,1024.name #冰镇西瓜
   - IP-CIDR,148.135.124.92/32,no-resolve
-  - DOMAIN,oversea.alphatvapp.top #Alpha
-  - IP-CIDR,69.10.32.214,no-resolve
   - DOMAIN,dpx1.niceduck.lol #地平线x好鸭 直连1
   - DOMAIN,jms1.niceduck.lol #卷毛鼠x好鸭 直连1
   - IP-CIDR,172.104.171.32/32,no-resolve
