@@ -5,3 +5,5 @@ payload:
   - DOMAIN,vi.niceduck.lol #垃圾 x 好鸭 推流
   - DOMAIN,dpxcdn.niceduck.lol #地平线 x 好鸭
   - IP-CIDR,173.230.155.47/32,no-resolve
+  - DOMAIN,dpxcdn1.niceduck.lol #地平线 x 好鸭
+  - IP-CIDR,5.34.218.167/32,no-resolve
