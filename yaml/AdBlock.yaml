@@ -2,3 +2,4 @@ payload:
     # 广告拦截
   - DOMAIN,tj.arae.cc #matomo,谷歌数据监测分析网站
   - IP-CIDR,83.72.72.247/32,no-resolve #丹麦IP
+  - IP-CIDR,203.76.137.77/32,no-resolve #印度IP
