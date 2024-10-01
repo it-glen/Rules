@@ -4,9 +4,12 @@ payload:
   - DOMAIN-SUFFIX,029902.xyz #纸片人 直连推流域名
   - DOMAIN,emby.0v0.day #纸片人 电信反代线路
   - IP-CIDR,46.3.106.217/32,no-resolve
+  - IP-CIDR,89.213.104.28/32,no-resolve
   - DOMAIN,pilipili.misakaf.org #pili CF推流域名
-  - DOMAIN,css.pilipili.club #Pili 直连
+  - DOMAIN,css.pilipili.club #Pili 美国
   - IP-CIDR,23.95.248.61/32,no-resolve
+  - DOMAIN,qyxl.pilipili.club #Pili 香港
+  - IP-CIDR,47.243.14.93/32,no-resolve
   - DOMAIN,pilifun.top #Pili yxvm日本软银
   - IP-CIDR,46.3.100.84/32,no-resolve
   - DOMAIN,us.pilifun.top #Pili 美国4837
