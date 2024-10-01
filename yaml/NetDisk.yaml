@@ -1,6 +1,7 @@
 payload:
     # 网盘
   - DOMAIN-SUFFIX,uc.cn #UC
+  - DOMAIN-SUFFIX,yun.cn #UC
   - DOMAIN-SUFFIX,115.com #115
   - DOMAIN-SUFFIX,quark.cn #夸克
   - DOMAIN-SUFFIX,ctyun.cn #天翼
