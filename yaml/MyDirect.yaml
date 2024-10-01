@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,navicat.com #Navicat
   - DOMAIN-SUFFIX,download.nvidia.com #nvidia驱动下载
   - DOMAIN-SUFFIX,gamer520.com #switch520
+  - DOMAIN-SUFFIX,releases.ubuntu.com #Ubuntu镜像下载
     # 机场直连
   - DOMAIN-SUFFIX,niceduck.io #好鸭
   - DOMAIN-SUFFIX,niceduck.cloud
