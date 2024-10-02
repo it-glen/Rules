@@ -19,5 +19,3 @@ payload:
   - DOMAIN,emby-mica-us-v1.mius.uk #牢大的野兽餐厅
   - DOMAIN,emby-micax-ca-v2.mius.uk #牢大的野兽餐厅
   - DOMAIN-SUFFIX,tanhuatv.site #探花TV
-    # 音乐服
-  - DOMAIN,music.awatv.de #AWA音乐服 CF
