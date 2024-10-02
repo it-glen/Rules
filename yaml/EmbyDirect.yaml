@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,aganemby.top #阿甘
     # 音乐服
   - DOMAIN,music.mefun.org #未响 CF
+  - DOMAIN,music1.awatv.de #AWA音乐服 CF
   - DOMAIN,music.127066.xyz #rais音乐 
   - IP-CIDR,175.11.21.5/32,no-resolve #rais音乐 长沙
   - DOMAIN,music.wish.ml #rais音乐
