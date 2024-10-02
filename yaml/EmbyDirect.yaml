@@ -19,6 +19,7 @@ payload:
   - IP-CIDR,82.152.6.29/32,no-resolve
   - DOMAIN,v.20120714.xyz #Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
+  - DOMAIN,hk.apopcloud.live #Apop Pro
   - DOMAIN,embymv.link #Peach
   - IP-CIDR,193.123.232.141/32,no-resolve
   - DOMAIN,nanflix.net #Nanflix
@@ -37,6 +38,10 @@ payload:
   - DOMAIN,jms2.niceduck.lol #卷毛鼠x好鸭 直连2
   - DOMAIN,1111cuct.niceduck.lol #垃圾影视x好鸭 直连线路
   - IP-CIDR,154.12.56.195/32,no-resolve
+  - DOMAIN,vip3.jellyfin.asia #水母乐园
+  - IP-CIDR,220.135.49.134/32,no-resolve
+  - DOMAIN,eggtartemby.itsmyduty.top #水母X蛋挞
+  - IP-CIDR,188.253.112.89/32,no-resolve
   - DOMAIN,pub1.emby.wtf #终点站 大妹
   - DOMAIN,pub2.emby.wtf #终点站 二妹
   - DOMAIN,pub3.emby.wtf #终点站 三妹
@@ -45,8 +50,6 @@ payload:
   - DOMAIN,pub3.term.wtf #终点站 三妹
   - IP-CIDR,158.180.90.31/32,no-resolve
   - IP-CIDR,158.180.73.62/32,no-resolve
-  - DOMAIN,vip3.jellyfin.asia #水母乐园
-  - IP-CIDR,220.135.49.134/32,no-resolve
   - DOMAIN,hxd.as174.com #HXD 主线路
   - IP-CIDR,154.12.62.92/32,no-resolve
   - DOMAIN,emby.as174.com #HXD pron
