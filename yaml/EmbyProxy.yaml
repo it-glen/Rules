@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN,gd.9521732.xyz #纸片人 CF推流域名
   - DOMAIN,pilipili.club #Pili 主域名
+  - DOMAIN,media.nijigem.by #二刺螈
+  - IP-CIDR,103.177.248.209,no-resolve
   - DOMAIN,stream.ntrrr.top #ntrrr
   - DOMAIN,oversea.alphatvapp.top #Alpha
   - IP-CIDR,69.10.32.214,no-resolve
