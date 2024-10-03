@@ -20,6 +20,7 @@ payload:
     # 机场直连
   - DOMAIN-SUFFIX,niceduck.io #好鸭
   - DOMAIN-SUFFIX,niceduck.cloud
+  - DOMAIN-SUFFIX,subsub123456789.com #便宜机场
     # 小说
   - DOMAIN-SUFFIX,deqixs.com
     # 测试网站
