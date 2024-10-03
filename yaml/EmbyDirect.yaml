@@ -27,7 +27,7 @@ payload:
   - DOMAIN,jsq.mooguu.top #见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
   - DOMAIN,cc.coemn.com #CC公益
-  - IP-CIDR,129.150.48.48,no-resolve #CC公益IP
+  - IP-CIDR,129.150.48.48/32,no-resolve #CC公益IP
   - DOMAIN-SUFFIX,carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,1024.name #冰镇西瓜
   - IP-CIDR,148.135.124.92/32,no-resolve
