@@ -31,7 +31,12 @@ payload:
   - DOMAIN-SUFFIX,carryz.net #CC公益 推流域名
   - DOMAIN-SUFFIX,1024.name #冰镇西瓜
   - IP-CIDR,148.135.124.92/32,no-resolve
-  - DOMAIN-SUFFIX,aliz.work #Hka
+  - DOMAIN,hka-emby.aliz.work #Hka
+  - IP-CIDR,148.135.111.212/32,no-resolve
+  - DOMAIN,hka-emby1.aliz.work #Hka1
+  - IP-CIDR,147.78.247.80/32,no-resolve
+  - DOMAIN,hka-emby2.aliz.work #Hka2
+  - IP-CIDR,152.70.36.195/32,no-resolve
   - DOMAIN,dpx1.niceduck.lol #地平线x好鸭 直连1
   - DOMAIN,jms1.niceduck.lol #卷毛鼠x好鸭 直连1
   - IP-CIDR,172.104.171.32/32,no-resolve
