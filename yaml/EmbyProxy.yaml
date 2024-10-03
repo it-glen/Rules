@@ -8,6 +8,7 @@ payload:
   - DOMAIN,stream.ntrrr.top #ntrrr
   - DOMAIN,oversea.alphatvapp.top #Alpha
   - IP-CIDR,69.10.32.214/32,no-resolve
+  - DOMAIN,hk.apopcloud.live #Apop
   - DOMAIN,emby.apopcloud.live #Apop
   - DOMAIN,play.charontv.com #卡戎
   - DOMAIN,misty.cx #Misty
