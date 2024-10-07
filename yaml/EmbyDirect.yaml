@@ -1,5 +1,5 @@
 payload:
-  # 影视服
+  # 影视服 直连
     # 纸片人
   - DOMAIN,emby.0v0.day # 香港
   - IP-CIDR,46.3.106.217/32,no-resolve
