@@ -20,6 +20,7 @@ payload:
   - DOMAIN,v.20120714.xyz #Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
   - DOMAIN,hk.apopcloud.live #Apop Pro
+  - IP-CIDR,149.104.32.108/32,no-resolve
   - DOMAIN,embymv.link #Peach
   - IP-CIDR,193.123.232.141/32,no-resolve
   - DOMAIN,nanflix.net #Nanflix
