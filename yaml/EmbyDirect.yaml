@@ -1,75 +1,93 @@
 payload:
-    # Emby直连
-  - DOMAIN,emby.0v0.day #纸片人 香港
+  # 影视服
+    # 纸片人
+  - DOMAIN,emby.0v0.day # 香港
   - IP-CIDR,46.3.106.217/32,no-resolve
-  - DOMAIN,embyplus.029902.xyz #纸片人 荷兰
+  - DOMAIN,embyplus.029902.xyz # 荷兰
   - IP-CIDR,89.213.104.28/32,no-resolve
-  - DOMAIN-SUFFIX,9521732.xyz #纸片人 CF推流域名
-  - DOMAIN-SUFFIX,029902.xyz #纸片人 直连推流域名
-  - DOMAIN,pilipili.misakaf.org #pili 推流域名
-  - DOMAIN,qyxl.pilipili.club #Pili 香港
+  - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
+  - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
+    # PiliPili
+  - DOMAIN,pilipili.misakaf.org # 推流域名
+  - DOMAIN,qyxl.pilipili.club # 香港
   - IP-CIDR,47.243.14.93/32,no-resolve
-  - DOMAIN,css.pilipili.club #Pili 美国
+  - DOMAIN,css.pilipili.club # 美国
   - IP-CIDR,23.95.248.61/32,no-resolve
-  - DOMAIN,pilifun.top #Pili yxvm日本软银
+  - DOMAIN,pilifun.top # yxvm日本软银
   - IP-CIDR,46.3.100.84/32,no-resolve
-  - DOMAIN,us.pilifun.top #Pili 美国4837
+  - DOMAIN,us.pilifun.top # 美国4837
   - IP-CIDR,154.9.241.196/32,no-resolve
-  - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com #Pili uk联通直连
+  - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com # uk联通直连
   - IP-CIDR,82.152.6.29/32,no-resolve
-  - DOMAIN,v.20120714.xyz #Marmot
+   # Marmot
+  - DOMAIN,v.20120714.xyz # Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
-  - DOMAIN,hk.apopcloud.live #Apop Pro
+    # ApopPro
+  - DOMAIN,hk.apopcloud.live # ApopPro
   - IP-CIDR,149.104.32.108/32,no-resolve
-  - DOMAIN,embymv.link #Peach
+    # Peach
+  - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve
-  - DOMAIN,nanflix.net #Nanflix
+    # Nanflix
+  - DOMAIN,nanflix.net # Nanflix
   - IP-CIDR,138.2.4.81/32,no-resolve
-  - DOMAIN,jsq.mooguu.top #见手青
+    # 见手青
+  - DOMAIN,jsq.mooguu.top # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
-  - DOMAIN,cc.coemn.com #CC公益
-  - IP-CIDR,129.150.48.48/32,no-resolve #CC公益IP
-  - DOMAIN-SUFFIX,carryz.net #CC公益 推流域名
-  - DOMAIN-SUFFIX,1024.name #冰镇西瓜
+    # CC公益
+  - DOMAIN,cc.coemn.com # 主域名
+  - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
+  - DOMAIN-SUFFIX,carryz.net # 推流域名
+    # 冰镇西瓜
+  - DOMAIN-SUFFIX,1024.name # 冰镇西瓜
   - IP-CIDR,148.135.124.92/32,no-resolve
-  - DOMAIN,hka-emby.aliz.work #Hka
+    # HkaEmby
+  - DOMAIN,hka-emby.aliz.work # 主域名
   - IP-CIDR,148.135.111.212/32,no-resolve
-  - DOMAIN,hka-emby1.aliz.work #Hka1
+  - DOMAIN,hka-emby1.aliz.work # Hka1
   - IP-CIDR,147.78.247.80/32,no-resolve
-  - DOMAIN,hka-emby2.aliz.work #Hka2
+  - DOMAIN,hka-emby2.aliz.work # Hka2
   - IP-CIDR,152.70.36.195/32,no-resolve
-  - DOMAIN,dpx1.niceduck.lol #地平线x好鸭 直连1
-  - DOMAIN,jms1.niceduck.lol #卷毛鼠x好鸭 直连1
+    # 好鸭
+  - DOMAIN,dpx1.niceduck.lol # 地平线x好鸭 直连1
+  - DOMAIN,jms1.niceduck.lol # 卷毛鼠x好鸭 直连1
   - IP-CIDR,172.104.171.32/32,no-resolve
-  - DOMAIN,dpx2.niceduck.lol #地平线x好鸭 直连2
-  - DOMAIN,jms2.niceduck.lol #卷毛鼠x好鸭 直连2
-  - DOMAIN,1111cuct.niceduck.lol #垃圾影视x好鸭 直连线路
+  - DOMAIN,dpx2.niceduck.lol # 地平线x好鸭 直连2
+  - DOMAIN,jms2.niceduck.lol # 卷毛鼠x好鸭 直连2
+  - DOMAIN,1111cuct.niceduck.lol # 垃圾影视x好鸭 直连线路
   - IP-CIDR,154.12.56.195/32,no-resolve
-  - DOMAIN,vip3.jellyfin.asia #水母乐园
+    # 蛋挞
+  - DOMAIN,vip3.jellyfin.asia # 水母乐园
   - IP-CIDR,220.135.49.134/32,no-resolve
-  - DOMAIN,eggtartemby.itsmyduty.top #水母X蛋挞
+  - DOMAIN,eggtartemby.itsmyduty.top # 水母X蛋挞
   - IP-CIDR,188.253.112.89/32,no-resolve
-  - DOMAIN,pub1.emby.wtf #终点站 大妹
-  - DOMAIN,pub2.emby.wtf #终点站 二妹
-  - DOMAIN,pub3.emby.wtf #终点站 三妹
-  - DOMAIN,pub1.term.wtf #终点站 大妹
-  - DOMAIN,pub2.term.wtf #终点站 二妹
-  - DOMAIN,pub3.term.wtf #终点站 三妹
+    # 终点站
+  - DOMAIN,pub1.emby.wtf # 大妹
+  - DOMAIN,pub2.emby.wtf # 二妹
+  - DOMAIN,pub3.emby.wtf # 三妹
+  - DOMAIN,pub1.term.wtf # 大妹
+  - DOMAIN,pub2.term.wtf # 二妹
+  - DOMAIN,pub3.term.wtf # 三妹
   - IP-CIDR,158.180.90.31/32,no-resolve
   - IP-CIDR,158.180.73.62/32,no-resolve
-  - DOMAIN,hxd.as174.com #HXD 主线路
+    # Hxd
+  - DOMAIN,hxd.as174.com # HXD 主线路
   - IP-CIDR,154.12.62.92/32,no-resolve
-  - DOMAIN,emby.as174.com #HXD pron
-  - DOMAIN-SUFFIX,imetyou.top #Paul 电报服
-  - DOMAIN-SUFFIX,aganemby.top #阿甘
-    # 音乐服
-  - DOMAIN,music.mefun.org #未响 CF
-  - DOMAIN,music1.awatv.de #AWA音乐服 CF
-  - DOMAIN,music.127066.xyz #rais音乐 
-  - IP-CIDR,175.11.21.5/32,no-resolve #rais音乐 长沙
-  - DOMAIN,music.wish.ml #rais音乐
-  - IP-CIDR,46.3.110.202/32,no-resolve #rais音乐 香港
-  - DOMAIN,xk.123456.buzz #飞跃星空
-  - IP-CIDR,141.147.186.142/32,no-resolve #飞跃星空 东京
-  - DOMAIN,axk.123456.buzz #飞跃星空
-  - IP-CIDR,193.123.227.226/32,no-resolve #飞跃星空 首尔
+  - DOMAIN,emby.as174.com # HXD pron
+  - DOMAIN-SUFFIX,imetyou.top # Paul 电报服
+  - DOMAIN-SUFFIX,aganemby.top # 阿甘
+  # 音乐服
+    # 未响
+  - DOMAIN,music.mefun.org # 未响 CF
+    # AWA音乐服
+  - DOMAIN,music1.awatv.de # AWA音乐服 CF
+    # rais音乐服
+  - DOMAIN,music.127066.xyz # rais 
+  - IP-CIDR,175.11.21.5/32,no-resolve # rais 长沙
+  - DOMAIN,music.wish.ml # rais
+  - IP-CIDR,46.3.110.202/32,no-resolve # rais 香港
+    # 飞跃星空音乐服
+  - DOMAIN,xk.123456.buzz # 飞跃星空
+  - IP-CIDR,141.147.186.142/32,no-resolve # 飞跃星空 东京
+  - DOMAIN,axk.123456.buzz # 飞跃星空
+  - IP-CIDR,193.123.227.226/32,no-resolve # 飞跃星空 首尔
