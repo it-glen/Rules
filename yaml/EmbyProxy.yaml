@@ -35,3 +35,5 @@ payload:
   - DOMAIN,emby-micax-ca-v2.mius.uk # CA线路
     # 探花TV
   - DOMAIN,www.tanhuatv.site # CF线路
+    # TembyBeta
+  - DOMAIN,temby856.285286.xyz # CF线路
