@@ -1,10 +1,11 @@
 payload:
     # 网盘
-  - DOMAIN-SUFFIX,uc.cn #UC
-  - DOMAIN-SUFFIX,yun.cn #UC
-  - DOMAIN-SUFFIX,115.com #115
-  - DOMAIN-SUFFIX,quark.cn #夸克
-  - DOMAIN-SUFFIX,ctyun.cn #天翼
-  - DOMAIN-SUFFIX,ctyunxs.cn #天翼
-  - DOMAIN-SUFFIX,ctyunapi.cn #天翼
-  - DOMAIN-SUFFIX,aliyundrive.net #阿里
+  - DOMAIN-SUFFIX,uc.cn # UC
+  - DOMAIN-SUFFIX,yun.cn # UC
+  - DOMAIN-SUFFIX,115.com # 115
+  - DOMAIN-SUFFIX,xunlei.com # 迅雷
+  - DOMAIN-SUFFIX,quark.cn # 夸克
+  - DOMAIN-SUFFIX,ctyun.cn # 天翼
+  - DOMAIN-SUFFIX,ctyunxs.cn # 天翼
+  - DOMAIN-SUFFIX,ctyunapi.cn # 天翼
+  - DOMAIN-SUFFIX,aliyundrive.net # 阿里
