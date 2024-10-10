@@ -48,6 +48,9 @@ payload:
   - IP-CIDR,147.78.247.80/32,no-resolve
   - DOMAIN,hka-emby2.aliz.work # Hka2
   - IP-CIDR,152.70.36.195/32,no-resolve
+    # AlphaTV
+  - DOMAIN,oversea.alphatvapp.top # Alpha
+  - IP-CIDR,69.10.32.214/32,no-resolve
     # 好鸭
   - DOMAIN,dpx1.niceduck.lol # 地平线x好鸭 直连1
   - DOMAIN,jms1.niceduck.lol # 卷毛鼠x好鸭 直连1
@@ -70,6 +73,11 @@ payload:
   - DOMAIN,pub3.term.wtf # 三妹
   - IP-CIDR,158.180.90.31/32,no-resolve
   - IP-CIDR,158.180.73.62/32,no-resolve
+    # 牢大科蜜直升机餐厅
+  - DOMAIN,sadsafsfsafsadas.mius.uk # SG分流
+  - IP-CIDR,47.236.17.11/32,no-resolve
+  - DOMAIN,emby-mica-hk-v4.mius.uk # HK分流
+  - IP-CIDR,47.242.247.89/32,no-resolve
     # Hxd
   - DOMAIN,hxd.as174.com # HXD 主线路
   - IP-CIDR,154.12.62.92/32,no-resolve
