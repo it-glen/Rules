@@ -18,6 +18,9 @@ payload:
   - DOMAIN,misty.cx # Misty
   - DOMAIN,emby.kim # 魔仙堡
   - IP-CIDR,82.152.162.202/32,no-resolve
+    # AlphaTV
+  - DOMAIN,oversea.alphatvapp.top # Alpha
+  - IP-CIDR,69.10.32.214/32,no-resolve
     # 卷毛鼠
   - DOMAIN,cf2.jmsooo.com # 2服 CF线路
   - DOMAIN,cf2.jmsuper.com # 2服 CF线路
@@ -32,5 +35,3 @@ payload:
   - DOMAIN,emby-micax-ca-v2.mius.uk # CA线路
     # 探花TV
   - DOMAIN,www.tanhuatv.site # CF线路
-    # TembyBeta
-  - DOMAIN,temby856.285286.xyz # CF线路
