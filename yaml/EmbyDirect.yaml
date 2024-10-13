@@ -51,12 +51,13 @@ payload:
     # TembyBeta
   - DOMAIN,temby856.285286.xyz # CF线路
     # 好鸭
+  - DOMAIN,loacl.emby.moe #垃圾x好鸭 推流
+  - IP-CIDR,38.58.178.173/32,no-resolve
   - DOMAIN,dpx1.niceduck.lol # 地平线x好鸭 直连1
   - DOMAIN,jms1.niceduck.lol # 卷毛鼠x好鸭 直连1
-  - IP-CIDR,172.104.171.32/32,no-resolve
+  - IP-CIDR,139.162.8.117/32,no-resolve
   - DOMAIN,dpx2.niceduck.lol # 地平线x好鸭 直连2
   - DOMAIN,jms2.niceduck.lol # 卷毛鼠x好鸭 直连2
-  - DOMAIN,1111cuct.niceduck.lol # 垃圾影视x好鸭 直连线路
   - IP-CIDR,154.12.56.195/32,no-resolve
     # 蛋挞
   - DOMAIN,vip3.jellyfin.asia # 水母乐园
