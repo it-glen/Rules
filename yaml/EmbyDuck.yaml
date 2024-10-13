@@ -2,7 +2,8 @@ payload:
     # Emby好鸭
   - DOMAIN,e.niceduck.me #卷毛鼠 x 好鸭
   - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭
-  - DOMAIN,loacl.emby.moe #垃圾 x 好鸭 推流
+  # - DOMAIN,loacl.emby.moe #垃圾 x 好鸭 推流
+  # - IP-CIDR,38.58.178.173/32,no-resolve
   - DOMAIN,vi.niceduck.lol #垃圾 x 好鸭 推流
   - DOMAIN,dpxcdn.niceduck.lol #地平线 x 好鸭
   - IP-CIDR,50.116.9.46/32,no-resolve
