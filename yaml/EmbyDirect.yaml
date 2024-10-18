@@ -79,11 +79,6 @@ payload:
   - DOMAIN,pub3.term.wtf # 三妹
   - IP-CIDR,158.180.90.31/32,no-resolve
   - IP-CIDR,158.180.73.62/32,no-resolve
-    # 牢大科蜜直升机餐厅
-  - DOMAIN,sadsafsfsafsadas.mius.uk # SG分流
-  - IP-CIDR,47.236.17.11/32,no-resolve
-  - DOMAIN,emby-mica-hk-v4.mius.uk # HK分流
-  - IP-CIDR,47.242.247.89/32,no-resolve
     # Hxd
   - DOMAIN,hxd.as174.com # HXD 主线路
   - IP-CIDR,154.12.62.92/32,no-resolve
