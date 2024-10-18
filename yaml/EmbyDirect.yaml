@@ -90,6 +90,7 @@ payload:
   - DOMAIN,emby.as174.com # HXD pron
   - DOMAIN-SUFFIX,imetyou.top # Paul 电报服
   - DOMAIN-SUFFIX,aganemby.top # 阿甘
+  - DOMAIN,sf.awatv.de # AWA-SF
   # 音乐服
     # 未响
   - DOMAIN,music.mefun.org # 未响 CF
