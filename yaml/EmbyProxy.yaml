@@ -33,5 +33,10 @@ payload:
     # 牢大科蜜直升机餐厅
   - DOMAIN,emby-mica-us-v1.mius.uk # US线路
   - DOMAIN,emby-micax-ca-v2.mius.uk # CA线路
+  - IP-CIDR,104.21.57.130/32,no-resolve
+  - DOMAIN,sadsafsfsafsadas.mius.uk # SG分流
+  - IP-CIDR,47.236.17.11/32,no-resolve
+  - DOMAIN,emby-mica-hk-v4.mius.uk # HK分流
+  - IP-CIDR,47.242.247.89/32,no-resolve
     # 探花TV
   - DOMAIN,www.tanhuatv.site # CF线路
