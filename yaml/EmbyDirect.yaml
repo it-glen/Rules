@@ -44,6 +44,9 @@ payload:
     # 冰镇西瓜
   - DOMAIN-SUFFIX,1024.name # 冰镇西瓜
   - IP-CIDR,148.135.124.92/32,no-resolve
+    # Marmot
+  - DOMAIN,v.20120714.xyz # Marmot
+  - IP-CIDR,130.162.135.38/32,no-resolve
     # HkaEmby
   - DOMAIN,hka-emby.aliz.work # 主域名
   - IP-CIDR,148.135.111.212/32,no-resolve
