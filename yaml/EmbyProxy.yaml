@@ -12,9 +12,6 @@ payload:
   - DOMAIN,stream.ntrrr.top # CF线路
     # ApopPro
   - DOMAIN,emby.apopcloud.live # CF线路
-   # Marmot
-  - DOMAIN,v.20120714.xyz # Marmot
-  - IP-CIDR,130.162.135.38/32,no-resolve
     # 卡戎
   - DOMAIN,play.charontv.com # CF线路
    # Misty/魔仙堡
