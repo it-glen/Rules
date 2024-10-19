@@ -25,9 +25,6 @@ payload:
   - IP-CIDR,82.152.6.29/32,no-resolve
   - DOMAIN,otto.pilipili.club # 越南
   - IP-CIDR,160.25.74.117/32,no-resolve
-   # Marmot
-  - DOMAIN,v.20120714.xyz # Marmot
-  - IP-CIDR,130.162.135.38/32,no-resolve
     # ApopPro
   - DOMAIN,hk.apopcloud.live # ApopPro
   - IP-CIDR,149.104.32.108/32,no-resolve
