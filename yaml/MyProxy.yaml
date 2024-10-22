@@ -23,9 +23,6 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,nodeseek.com
-    # 软件源
-  - DOMAIN-SUFFIX,openwrt.888913.gq
-  - DOMAIN-SUFFIX,openwrt.ai
     # 规则网址
   - DOMAIN-SUFFIX,adrules.top #AdRules
   - DOMAIN-SUFFIX,neodev.team #neodevhost
