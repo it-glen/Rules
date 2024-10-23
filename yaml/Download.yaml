@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,kaifa520.sharepoint.com
   - DOMAIN-SUFFIX,sharepoint.com
     # 测速网站
+  - DOMAIN-SUFFIX,cachefly.net
   - DOMAIN-SUFFIX,speed.io
   - DOMAIN-SUFFIX,speed.nvidia.rip
   - DOMAIN-SUFFIX,speed.cloudflare.com #Cloudflare
