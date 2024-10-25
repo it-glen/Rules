@@ -86,6 +86,8 @@ payload:
   - DOMAIN,pub3.term.wtf # 三妹
   - IP-CIDR,158.180.90.31/32,no-resolve
   - IP-CIDR,158.180.73.62/32,no-resolve
+    # 探花TV
+  - DOMAIN,www.tanhuatv.site # CF线路
     # Hxd
   - DOMAIN,hxd.as174.com # HXD 主线路
   - IP-CIDR,154.12.62.92/32,no-resolve
