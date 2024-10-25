@@ -38,5 +38,3 @@ payload:
   - IP-CIDR,47.236.17.11/32,no-resolve
   - DOMAIN,emby-mica-hk-v4.mius.uk # HK分流
   - IP-CIDR,47.242.247.89/32,no-resolve
-    # 探花TV
-  - DOMAIN,www.tanhuatv.site # CF线路
