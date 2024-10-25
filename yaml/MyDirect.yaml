@@ -11,6 +11,10 @@ payload:
   - DOMAIN-SUFFIX,openwrt.888913.gq
     # netdata
   - DOMAIN-SUFFIX,app.netdata.cloud
+    # Follow
+  - DOMAIN-SUFFIX,follow.is
+    # DeepLX 翻译
+  - DOMAIN-SUFFIX,missuo.ru
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
   - DOMAIN-SUFFIX,starward.scighost.com #starward
