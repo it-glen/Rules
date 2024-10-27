@@ -62,7 +62,7 @@ payload:
     # TembyBeta
   - DOMAIN,temby856.285286.xyz # CF线路
     # 好鸭
-  - DOMAIN,loacl.emby.moe #垃圾x好鸭 推流
+  - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
   - IP-CIDR,38.58.178.173/32,no-resolve
   - DOMAIN,dpx1.niceduck.lol # 地平线x好鸭 直连1
   - DOMAIN,jms1.niceduck.lol # 卷毛鼠x好鸭 直连1
