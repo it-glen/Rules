@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,hookvip.top
     # vivaldi
   - DOMAIN-SUFFIX,vivaldi.net
+    # 油猴插件
+  - DOMAIN-SUFFIX,tampermonkey.net
     # 图床
   - DOMAIN-SUFFIX,imgtp.com
     # 小说网站
