@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,mirrors.vsean.net
   - DOMAIN-SUFFIX,openwrt.888913.gq
+    # 油猴插件
+  - DOMAIN-SUFFIX,tampermonkey.net
     # netdata
   - DOMAIN-SUFFIX,app.netdata.cloud
     # Follow
