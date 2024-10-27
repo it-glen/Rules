@@ -70,8 +70,6 @@ payload:
   - DOMAIN,dpx2.niceduck.lol # 地平线x好鸭 直连2
   - DOMAIN,jms2.niceduck.lol # 卷毛鼠x好鸭 直连2
   - IP-CIDR,154.12.56.195/32,no-resolve
-  - DOMAIN,loacl.emby.moe #垃圾 x 好鸭 推流
-  - IP-CIDR,38.58.178.173/32,no-resolve
     # 蛋挞
   - DOMAIN,vip3.jellyfin.asia # 水母乐园
   - IP-CIDR,220.135.49.134/32,no-resolve
