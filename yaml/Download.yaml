@@ -4,8 +4,6 @@ payload:
   - DOMAIN-SUFFIX,blob.core.windows.net
     # wetransfer下载
   - DOMAIN-SUFFIX,download.wetransfer.com
-    # Gofile网盘下载
-  - DOMAIN-SUFFIX,gofile.io
     # OneDrive网盘下载
   - DOMAIN-SUFFIX,kaifa520.sharepoint.com
   - DOMAIN-SUFFIX,sharepoint.com
