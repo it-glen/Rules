@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,follow.is
     # DeepLX 翻译
   - DOMAIN-SUFFIX,missuo.ru
+    # Gofile网盘
+  - DOMAIN-SUFFIX,gofile.io
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
   - DOMAIN-SUFFIX,starward.scighost.com #starward
