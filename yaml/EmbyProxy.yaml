@@ -8,9 +8,6 @@ payload:
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
-    # Peach
-  - DOMAIN,embymv.link # Peach
-  - IP-CIDR,193.123.232.141/32,no-resolve
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路
     # ApopPro
