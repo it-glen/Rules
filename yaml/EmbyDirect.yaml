@@ -31,6 +31,8 @@ payload:
     # AWA影视
   - DOMAIN,emby.awatv.de # AWA影视
     # Peach
+  - DOMAIN,embymv.link # Peach
+  - IP-CIDR,193.123.232.141/32,no-resolve
   - IP-CIDR,208.87.242.13/32,no-resolve # Peach推流
     # Nanflix
   - DOMAIN,nanflix.net # Nanflix
