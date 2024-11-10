@@ -8,10 +8,13 @@ payload:
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
-    # ntRRR
-  - DOMAIN,stream.ntrrr.top # CF线路
     # ApopPro
   - DOMAIN,emby.apopcloud.live # CF线路
+    # Nanflix
+  - DOMAIN,nanflix.net # Nanflix
+  - IP-CIDR,138.2.4.81/32,no-resolve
+    # ntRRR
+  - DOMAIN,stream.ntrrr.top # CF线路
     # 卡戎
   - DOMAIN,play.charontv.com # CF线路
    # Misty/魔仙堡
