@@ -34,9 +34,6 @@ payload:
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve
   - IP-CIDR,208.87.242.13/32,no-resolve # Peach推流
-    # Nanflix
-  - DOMAIN,nanflix.net # Nanflix
-  - IP-CIDR,138.2.4.81/32,no-resolve
     # 见手青
   - DOMAIN,jsq.mooguu.top # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
