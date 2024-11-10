@@ -99,9 +99,6 @@ payload:
   - DOMAIN-SUFFIX,imetyou.top # Paul 电报服
   - DOMAIN-SUFFIX,aganemby.top # 阿甘
   - DOMAIN,sf.awatv.de # AWA-SF
-    # 探花TV
-  - DOMAIN,www.tanhuatv.site # 探花TV
-  - IP-CIDR,172.67.141.165/32,no-resolve
   # 音乐服
     # 未响
   - DOMAIN,music.mefun.org # 未响 CF
