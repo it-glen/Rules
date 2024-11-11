@@ -17,6 +17,9 @@ payload:
   - DOMAIN,stream.ntrrr.top # CF线路
     # 卡戎
   - DOMAIN,play.charontv.com # CF线路
+    # 月饼
+  - DOMAIN-SUFFIX,emby.my # 月饼
+  - IP-CIDR,154.9.249.3/32,no-resolve
    # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty
   - DOMAIN,emby.kim # 魔仙堡
