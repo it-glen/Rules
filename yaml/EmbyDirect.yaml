@@ -47,6 +47,12 @@ payload:
     # Marmot
   - DOMAIN,v.20120714.xyz # Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
+    # Nanflix
+  - DOMAIN,nanflix.net # Nanflix
+  - IP-CIDR,89.58.10.209/32,no-resolve
+    # AlphaTV
+  - DOMAIN,oversea.alphatvapp.top # Alpha
+  - IP-CIDR,69.10.32.214/32,no-resolve
     # 飞跃银河
   - DOMAIN,yhemby.top # 飞跃银河
   - IP-CIDR,193.123.242.179/32,no-resolve
