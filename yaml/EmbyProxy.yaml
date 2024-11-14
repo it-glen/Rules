@@ -10,9 +10,6 @@ payload:
   - IP-CIDR,103.177.248.209/32,no-resolve
     # ApopPro
   - DOMAIN,emby.apopcloud.live # CF线路
-    # Nanflix
-  - DOMAIN,nanflix.net # Nanflix
-  - IP-CIDR,138.2.4.81/32,no-resolve
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路
     # 卡戎
@@ -24,9 +21,6 @@ payload:
   - DOMAIN,misty.cx # Misty
   - DOMAIN,emby.kim # 魔仙堡
   - IP-CIDR,82.152.162.202/32,no-resolve
-    # AlphaTV
-  - DOMAIN,oversea.alphatvapp.top # Alpha
-  - IP-CIDR,69.10.32.214/32,no-resolve
     # 卷毛鼠
   - DOMAIN,cf2.jmsooo.com # 2服 CF线路
   - DOMAIN,cf2.jmsuper.com # 2服 CF线路
