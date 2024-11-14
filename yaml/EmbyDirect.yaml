@@ -2,9 +2,7 @@ payload:
   # 影视服 直连
     # 纸片人
   - DOMAIN,emby.0v0.day # 香港
-  - IP-CIDR,46.3.106.217/32,no-resolve
-  - DOMAIN,embyplus.029902.xyz # 荷兰
-  - IP-CIDR,89.213.104.28/32,no-resolve
+  - IP-CIDR,188.64.108.172/32,no-resolve
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # PiliPili
@@ -32,8 +30,7 @@ payload:
   - DOMAIN,emby.awatv.de # AWA影视
     # Peach
   - DOMAIN,embymv.link # Peach
-  - IP-CIDR,193.123.232.141/32,no-resolve
-  - IP-CIDR,208.87.242.13/32,no-resolve # Peach推流
+  - IP-CIDR,108.181.0.21/32,no-resolve
     # 见手青
   - DOMAIN,jsq.mooguu.top # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
@@ -86,8 +83,11 @@ payload:
   - DOMAIN,pub1.term.wtf # 大妹
   - DOMAIN,pub2.term.wtf # 二妹
   - DOMAIN,pub3.term.wtf # 三妹
-  - IP-CIDR,158.180.90.31/32,no-resolve
-  - IP-CIDR,158.180.73.62/32,no-resolve
+  - IP-CIDR,138.2.119.18/32,no-resolve
+  - IP-CIDR,144.24.68.241/32,no-resolve
+  - IP-CIDR,146.56.103.233/32,no-resolve
+  - IP-CIDR,144.24.91.24/32,no-resolve
+  - IP-CIDR,146.56.111.99/32,no-resolve
     # 牢大科蜜直升机餐厅
   - DOMAIN,sadsafsfsafsadas.mius.uk # SG分流
   - IP-CIDR,47.236.17.11/32,no-resolve
