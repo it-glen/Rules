@@ -12,6 +12,9 @@ payload:
   - DOMAIN,emby.apopcloud.live # CF线路
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路
+    # 飞跃银河
+  - DOMAIN,yhemby.top # 飞跃银河
+  - IP-CIDR,193.123.242.179/32,no-resolve
     # 卡戎
   - DOMAIN,play.charontv.com # CF线路
     # 月饼
