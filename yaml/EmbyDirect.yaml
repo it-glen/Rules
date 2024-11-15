@@ -32,7 +32,7 @@ payload:
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,108.181.0.21/32,no-resolve
     # 见手青
-  - DOMAIN,jsq.mooguu.top # 见手青
+  - DOMAIN,jsq.mooguu.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
     # CC公益
   - DOMAIN,cc.coemn.com # 主域名
