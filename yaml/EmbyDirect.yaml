@@ -49,10 +49,7 @@ payload:
   - IP-CIDR,89.58.10.209/32,no-resolve
     # AlphaTV
   - DOMAIN,oversea.alphatvapp.top # Alpha
-  - IP-CIDR,69.10.32.214/32,no-resolve
-    # 飞跃银河
-  - DOMAIN,yhemby.top # 飞跃银河
-  - IP-CIDR,193.123.242.179/32,no-resolve
+  - IP-CIDR,104.243.41.35/32,no-resolve
     # HkaEmby
   - DOMAIN,hka-emby.aliz.work # 主域名
   - IP-CIDR,148.135.111.212/32,no-resolve
