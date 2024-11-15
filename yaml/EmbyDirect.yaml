@@ -7,22 +7,19 @@ payload:
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # PiliPili
   - DOMAIN,pilipili.misakaf.org # 推流域名
-  - DOMAIN,css.pilipili.club # 美国
-  - IP-CIDR,23.95.248.61/32,no-resolve
-  - DOMAIN,tw.pilipili.club # 台湾
-  - IP-CIDR,211.22.180.227/32,no-resolve
-  - DOMAIN,qyxl.pilipili.club # 阿里云 香港
-  - IP-CIDR,47.243.14.93/32,no-resolve
-  - DOMAIN,pilipili.hitagi.me # 三网直连 香港
-  - IP-CIDR,103.196.21.154/32,no-resolve
-  - DOMAIN,pilifun.top # yxvm 澳门
-  - IP-CIDR,163.53.246.60/32,no-resolve
-  - DOMAIN,us.pilifun.top # 美国4837
-  - IP-CIDR,154.9.241.196/32,no-resolve
+  - DOMAIN-SUFFIX,pilipili.club # 直连
+  - IP-CIDR,146.112.61.108/32,no-resolve # css
+  - IP-CIDR,211.22.180.227/32,no-resolve # tw
+  - IP-CIDR,47.243.14.93/32,no-resolve # qyxl
+  - IP-CIDR,163.53.246.60/32,no-resolve # cerahk
+  - IP-CIDR,202.61.202.166/32,no-resolve # netcupde
+  - DOMAIN-SUFFIX,pilifun.top
+  - IP-CIDR,146.112.61.108/32,no-resolve # 
+  - IP-CIDR,46.3.107.61/32,no-resolve # us
+  - DOMAIN,pilipili.hitagi.me # 三网直连
+  - IP-CIDR,208.87.96.38/32,no-resolve
   - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com # uk联通直连
   - IP-CIDR,82.152.6.29/32,no-resolve
-  - DOMAIN,otto.pilipili.club # 越南
-  - IP-CIDR,160.25.74.117/32,no-resolve
     # ApopPro
   - DOMAIN,hk.apopcloud.live # ApopPro
   - IP-CIDR,149.104.32.108/32,no-resolve
