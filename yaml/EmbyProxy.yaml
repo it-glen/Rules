@@ -10,6 +10,8 @@ payload:
   - IP-CIDR,103.177.248.209/32,no-resolve
     # ApopPro
   - DOMAIN,emby.apopcloud.live # CF线路
+    # 冰镇西瓜
+  - DOMAIN,1024.name # 冰镇西瓜 CF
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路
     # 飞跃银河
