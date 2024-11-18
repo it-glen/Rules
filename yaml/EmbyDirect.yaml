@@ -56,6 +56,8 @@ payload:
   - IP-CIDR,152.70.36.195/32,no-resolve
     # TembyBeta
   - DOMAIN,temby856.285286.xyz # CF线路
+    # 探花TV
+  - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF
     # 好鸭
   - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
   - IP-CIDR,38.58.178.173/32,no-resolve
