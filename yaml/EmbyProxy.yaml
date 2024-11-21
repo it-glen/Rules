@@ -8,6 +8,8 @@ payload:
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
+    # Peach
+  - IP-CIDR,168.138.45.100/32,no-resolve # 推流 线路二
     # ApopPro
   - DOMAIN,emby.apopcloud.live # CF线路
     # 冰镇西瓜
