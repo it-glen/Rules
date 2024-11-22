@@ -61,12 +61,13 @@ payload:
     # 好鸭
   - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
   - IP-CIDR,38.58.178.173/32,no-resolve
+  - IP-CIDR,54.36.169.14/32,no-resolve
   - DOMAIN,dpx1.niceduck.lol # 地平线x好鸭 直连1
   - DOMAIN,jms1.niceduck.lol # 卷毛鼠x好鸭 直连1
-  - IP-CIDR,139.162.8.117/32,no-resolve
+  - IP-CIDR,172.104.35.147/32,no-resolve
   - DOMAIN,dpx2.niceduck.lol # 地平线x好鸭 直连2
   - DOMAIN,jms2.niceduck.lol # 卷毛鼠x好鸭 直连2
-  - IP-CIDR,154.12.56.195/32,no-resolve
+  - IP-CIDR,154.12.56.188/32,no-resolve
     # Aladdin
   - DOMAIN,vip3.jellyfin.asia # 水母xAladdin
   - IP-CIDR,220.135.49.134/32,no-resolve
