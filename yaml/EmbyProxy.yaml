@@ -16,6 +16,8 @@ payload:
   - DOMAIN,1024.name # 冰镇西瓜 CF
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路
+    # Aladdin
+  - DOMAIN,emby.aladingnet.com # Aladdin CF
     # 飞跃银河
   - DOMAIN,yhemby.top # 飞跃银河
   - IP-CIDR,193.123.242.179/32,no-resolve
