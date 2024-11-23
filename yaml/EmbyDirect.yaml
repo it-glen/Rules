@@ -71,7 +71,6 @@ payload:
     # Aladdin
   - DOMAIN,vip3.jellyfin.asia # 水母xAladdin
   - IP-CIDR,220.135.49.134/32,no-resolve
-  - DOMAIN,emby.aladingnet.com # Aladdin
     # 蛋挞
   - DOMAIN,eggtartemby.itsmyduty.top # 蛋挞xLL
   - IP-CIDR,188.253.112.89/32,no-resolve
