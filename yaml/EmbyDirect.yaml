@@ -59,9 +59,6 @@ payload:
     # 探花TV
   - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF
     # 好鸭
-  - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
-  - IP-CIDR,38.58.178.173/32,no-resolve
-  - IP-CIDR,54.36.169.14/32,no-resolve
   - DOMAIN,dpx1.niceduck.lol # 地平线x好鸭 直连1
   - DOMAIN,jms1.niceduck.lol # 卷毛鼠x好鸭 直连1
   - IP-CIDR,172.104.35.147/32,no-resolve
