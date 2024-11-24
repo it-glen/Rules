@@ -3,6 +3,9 @@ payload:
   - DOMAIN,jcf.niceduck.lol #卷毛鼠 x 好鸭 CF
   - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭 CF
   - DOMAIN,vi.niceduck.lol #垃圾 x 好鸭 推流
+  - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
+  - IP-CIDR,38.58.178.173/32,no-resolve
+  - IP-CIDR,54.36.169.14/32,no-resolve
   - DOMAIN,dpxcf.niceduck.lol #地平线 x 好鸭
   - DOMAIN,dpxcdn.niceduck.lol #地平线 x 好鸭
   - IP-CIDR,141.11.127.199/32,no-resolve
