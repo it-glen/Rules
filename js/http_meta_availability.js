@@ -19,7 +19,7 @@
  * - [retries] 重试次数 默认 1
  * - [retry_delay] 重试延时(单位: 毫秒) 默认 1000
  * - [concurrency] 并发数 默认 10
- * - [url] 检测的 URL. 需要 encodeURIComponent. 默认 https://cp.cloudflare.com/generate_204
+ * - [url] 检测的 URL. 需要 encodeURIComponent. 默认 http://cp.cloudflare.com/generate_204
  * - [status] 合法的状态码. 默认 204
  * - [method] 请求方法. 默认 head, 如果测试 URL 不支持, 可设为 get
  * - [show_latency] 显示延迟. 默认不显示
