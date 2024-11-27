@@ -53,7 +53,7 @@ payload:
   - DOMAIN-SUFFIX,mxplayer.j2inter.com #mxplayer
   - DOMAIN-SUFFIX,imsyy.top #lige.fit
   - DOMAIN-SUFFIX,lige.fit
-  - IP-CIDR,172.253.117.188/32,no-resolve # 5288端口 谷歌云ip
+  - IP-CIDR,172.253.117.188/32,no-resolve # 5228端口 谷歌云ip
   # - DOMAIN-SUFFIX,toponad.com #TopOn 广告平台数据监测网站
   # - DOMAIN-SUFFIX,codelife.cc #itab壁纸接口
   # - DOMAIN-SUFFIX,sentry-cdn.com #checkadblock.ru
