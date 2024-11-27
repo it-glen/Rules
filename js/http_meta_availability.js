@@ -12,15 +12,15 @@
  * - [http_meta_port] 端口号 默认: 9876
  * - [http_meta_authorization] Authorization 默认无
  * - [http_meta_start_delay] 初始启动延时(单位: 毫秒) 默认: 3000
- * - [http_meta_proxy_timeout] 每个节点耗时(单位: 毫秒). 此参数是为了防止脚本异常退出未关闭核心. 设置过小将导致核心过早退出. 目前逻辑: 启动初始的延时 + 每个节点耗时. 默认: 5000
+ * - [http_meta_proxy_timeout] 每个节点耗时(单位: 毫秒). 此参数是为了防止脚本异常退出未关闭核心. 设置过小将导致核心过早退出. 目前逻辑: 启动初始的延时 + 每个节点耗时. 默认: 10000
  *
  * 其它参数
- * - [timeout] 请求超时(单位: 毫秒) 默认 3000
+ * - [timeout] 请求超时(单位: 毫秒) 默认 5000
  * - [retries] 重试次数 默认 1
  * - [retry_delay] 重试延时(单位: 毫秒) 默认 1000
  * - [concurrency] 并发数 默认 10
- * - [url] 检测的 URL. 需要 encodeURIComponent. 默认 http://cp.cloudflare.com/generate_204
- * - [status] 合法的状态码. 默认 204
+ * - [url] 检测的 URL. 需要 encodeURIComponent. 默认 http://www.apple.com/library/test/success.html
+ * - [status] 合法的状态码. 默认 200
  * - [method] 请求方法. 默认 head, 如果测试 URL 不支持, 可设为 get
  * - [show_latency] 显示延迟. 默认不显示
  * - [keep_incompatible] 保留当前客户端不兼容的协议. 默认不保留.
@@ -41,21 +41,19 @@ async function operator(proxies = [], targetPlatform, env) {
   const http_meta_api = `${http_meta_protocol}://${http_meta_host}:${http_meta_port}`
 
   const http_meta_start_delay = parseFloat($arguments.http_meta_start_delay ?? 3000)
-  const http_meta_proxy_timeout = parseFloat($arguments.http_meta_proxy_timeout ?? 5000)
+  const http_meta_proxy_timeout = parseFloat($arguments.http_meta_proxy_timeout ?? 10000)
 
   const method = $arguments.method || 'head'
   const keepIncompatible = $arguments.keep_incompatible
-  /*const validStatus = parseInt($arguments.status || 200)
-  const url = decodeURIComponent($arguments.url || 'http://www.apple.com/library/test/success.html')*/
-  const validStatus = parseInt($arguments.status || 204)
-  const url = decodeURIComponent($arguments.url || 'https://cp.cloudflare.com/generate_204')
+  const validStatus = parseInt($arguments.status || 200)
+  const url = decodeURIComponent($arguments.url || 'http://www.apple.com/library/test/success.html')
 
   const $ = $substore
   const validProxies = []
   const incompatibleProxies = []
   const internalProxies = []
   const failedProxies = []
-  const sub = env.source[proxies?.[0]?.subName]
+  const sub = env.source[proxies?.[0]?._subName || proxies?.[0]?.subName]
   const subName = sub?.displayName || sub?.name
 
   proxies.map((proxy, index) => {
@@ -234,7 +232,7 @@ async function operator(proxies = [], targetPlatform, env) {
   // 请求
   async function http(opt = {}) {
     const METHOD = opt.method || $arguments.method || 'get'
-    const TIMEOUT = parseFloat(opt.timeout || $arguments.timeout || 3000)
+    const TIMEOUT = parseFloat(opt.timeout || $arguments.timeout || 5000)
     const RETRIES = parseFloat(opt.retries ?? $arguments.retries ?? 1)
     const RETRY_DELAY = parseFloat(opt.retry_delay ?? $arguments.retry_delay ?? 1000)
     let count = 0
