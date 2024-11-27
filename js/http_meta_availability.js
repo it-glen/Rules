@@ -32,8 +32,8 @@
 async function operator(proxies = [], targetPlatform, env) {
   const cacheEnabled = $arguments.cache
   const cache = scriptResourceCache
-  const telegram_chat_id = $arguments.telegram_chat_id ?? '5743286615'
-  const telegram_bot_token = $arguments.telegram_bot_token ?? '7088900156:AAHvP0KF6nUleo0shYH6LRyiWBZ-OO30Y1M'
+  const telegram_chat_id = $arguments.telegram_chat_id
+  const telegram_bot_token = $arguments.telegram_bot_token
   const http_meta_host = $arguments.http_meta_host ?? '127.0.0.1'
   const http_meta_port = $arguments.http_meta_port ?? 9876
   const http_meta_protocol = $arguments.http_meta_protocol ?? 'http'
