@@ -46,6 +46,7 @@ payload:
   - IP-CIDR,83.72.72.247/32,no-resolve
   - IP-CIDR,108.177.98.188/32,no-resolve # 谷歌云 ip
   - IP-CIDR,142.250.99.188/32,no-resolve # 谷歌云 ip
+  - DST-PORT,5228
   # - DOMAIN-SUFFIX,pluto.ck2ut7v3g5zudnjw.top #会跳转到YouTube的一个明日方舟视频
   # - DOMAIN-SUFFIX,speedtest.globalxtreme.net
   # - DOMAIN-SUFFIX,speedtest.three.com.hk
