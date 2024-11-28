@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,chinaunicomglobal.com
   - DOMAIN-SUFFIX,chinamobile.com
   - DOMAIN-SUFFIX,mbspeed.net
+  - DOMAIN-SUFFIX,hytron.io
   - DOMAIN-SUFFIX,fdcservers.net
   - DOMAIN-SUFFIX,speed.misaka.one
   - DOMAIN-SUFFIX,hgconair.hgc.com.hk
