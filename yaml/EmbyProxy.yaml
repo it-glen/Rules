@@ -8,26 +8,30 @@ payload:
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
-    # Peach
-  - DOMAIN,play.embymv.link # 推流 线路二 CF
     # ApopPro
   - DOMAIN,emby.apopcloud.live # CF线路
+    # Peach
+  - DOMAIN,play.embymv.link # 推流 线路二 CF
+    # Nanflix
+  - DOMAIN,nanflix.net # Nanflix
+  - IP-CIDR,89.58.10.209/32,no-resolve
     # 冰镇西瓜
-  - DOMAIN,1024.name # 冰镇西瓜 CF
+  - DOMAIN,1024.name # 冰镇西瓜 海外线路
+  - IP-CIDR,148.135.124.92/32,no-resolve
+   # Misty/魔仙堡
+  - DOMAIN,misty.cx # Misty
+  - DOMAIN,emby.kim # 魔仙堡
+  - IP-CIDR,82.152.162.202/32,no-resolve # 香港
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路
-    # 飞跃银河
-  - DOMAIN,yhemby.top # 飞跃银河
-  - IP-CIDR,193.123.242.179/32,no-resolve
     # 卡戎
   - DOMAIN,play.charontv.com # CF线路
     # 月饼
   - DOMAIN-SUFFIX,emby.my # 月饼
   - IP-CIDR,154.9.249.3/32,no-resolve
-   # Misty/魔仙堡
-  - DOMAIN,misty.cx # Misty
-  - DOMAIN,emby.kim # 魔仙堡
-  - IP-CIDR,82.152.162.202/32,no-resolve
+    # 飞跃银河
+  - DOMAIN,yhemby.top # 飞跃银河
+  - IP-CIDR,193.123.242.179/32,no-resolve
     # 卷毛鼠
   - DOMAIN,cf2.jmsooo.com # 2服 CF线路
   - DOMAIN,cf2.jmsuper.com # 2服 CF线路
