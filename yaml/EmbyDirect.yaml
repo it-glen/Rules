@@ -27,7 +27,7 @@ payload:
   - DOMAIN,emby.awatv.de # AWA影视
     # Peach
   - DOMAIN,embymv.link # Peach
-  - IP-CIDR,108.181.0.21/32,no-resolve
+  - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
     # 见手青
   - DOMAIN,jsq.mooguu.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
