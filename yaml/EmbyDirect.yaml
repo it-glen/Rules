@@ -20,9 +20,6 @@ payload:
   - IP-CIDR,208.87.96.38/32,no-resolve
   - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com # uk联通直连
   - IP-CIDR,82.152.6.29/32,no-resolve
-    # ApopPro
-  - DOMAIN,hk.apopcloud.live # ApopPro
-  - IP-CIDR,149.104.32.108/32,no-resolve
     # AWA影视
   - DOMAIN,emby.awatv.de # AWA影视
     # Peach
@@ -36,14 +33,11 @@ payload:
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN-SUFFIX,carryz.net # 推流域名
     # 冰镇西瓜
-  - DOMAIN-SUFFIX,1024.name # 冰镇西瓜
-  - IP-CIDR,154.17.228.156/32,no-resolve
+  - DOMAIN,1.1024.name # 冰镇西瓜 直连线路
+  - IP-CIDR,148.135.124.92/32,no-resolve
     # Marmot
   - DOMAIN,v.20120714.xyz # Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
-    # Nanflix
-  - DOMAIN,nanflix.net # Nanflix
-  - IP-CIDR,89.58.10.209/32,no-resolve
     # AlphaTV
   - DOMAIN,oversea.alphatvapp.top # Alpha
   - IP-CIDR,104.243.41.35/32,no-resolve
