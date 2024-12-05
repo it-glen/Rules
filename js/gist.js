@@ -17,9 +17,9 @@ async function operator(proxies = [], targetPlatform, context) {
   const settings = $.read('settings') || {}
   const GITHUB_TOKEN = $arguments?.token || settings.gistToken
   if (!GITHUB_TOKEN) throw new Error('请配置 Token')
-  const GIST_NAME = $arguments?.name
+  const GIST_NAME = $arguments?.name || 'Subs'
   if (!GIST_NAME) throw new Error('请配置 Gist 名称')
-  const FILENAME = $arguments?.file
+  const FILENAME = $arguments?.file || 'JieDian.yaml'
   if (!FILENAME) throw new Error('请配置 Gist 文件名')
   let platform = $arguments?.target || 'ClashMeta'
 
@@ -28,6 +28,12 @@ async function operator(proxies = [], targetPlatform, context) {
   let files = {}
 
   let content = ProxyUtils.produce(proxies, platform)
+
+  // 如果内容为空，直接退出函数
+  if (!content || content.trim() === 'proxies:') {
+    $.info('内容为空，跳过上传。');
+    return proxies; // 直接返回原代理配置
+  }
 
   const manager = new ProxyUtils.Gist({
     token: GITHUB_TOKEN,
@@ -42,23 +48,11 @@ async function operator(proxies = [], targetPlatform, context) {
   let body = {}
   try {
     body = JSON.parse(res.body)
-    // eslint-disable-next-line no-empty
   } catch (e) {}
-
-  // console.log(JSON.stringify(body, null, 2))
 
   const raw_url = body.files[encodeURIComponent(FILENAME)]?.raw_url
   const new_url = raw_url?.replace(/\/raw\/[^/]*\/(.*)/, '/raw/$1')
 
   $.info(`已上传至 ${new_url}`)
-//  if (isSurge) {
-//    $notification.post(`🌍 Sub-Store`, 'Gist', `点击复制 ${new_url}`, {
-//      action: 'clipboard',
-//      text: new_url,
-//    })
-//  } else {
-//    $.notify('🌍 Sub-Store', `Gist: ${new_url}`)
-//  }
-
   return proxies
 }
