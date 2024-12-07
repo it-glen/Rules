@@ -11,8 +11,6 @@ payload:
   - DOMAIN-SUFFIX,openwrt.888913.gq
     # 油猴插件
   - DOMAIN-SUFFIX,tampermonkey.net
-    # Flash插件
-  # - DOMAIN-SUFFIX,kjeek.com
     # netdata
   - DOMAIN-SUFFIX,app.netdata.cloud
     # Follow
@@ -45,7 +43,8 @@ payload:
   - DOMAIN-SUFFIX,ipip.net
     # 漏网之鱼
   - IP-CIDR,5.5.5.5/32,no-resolve #finalshell
-  - DOMAIN-SUFFIX,immersivetranslate.com #沉浸式翻译
+  # - DOMAIN-SUFFIX,kjeek.com # Flash Copliot 插件
+  # - DOMAIN-SUFFIX,immersivetranslate.com #沉浸式翻译
   - DOMAIN-SUFFIX,6vw.cc #6v电影网
   - DOMAIN-SUFFIX,66hao.cc
   - DOMAIN-SUFFIX,koyso.com #游戏下载
