@@ -24,7 +24,7 @@ payload:
     # 卡戎
   - DOMAIN,play.charontv.com # CF线路
     # 月饼
-  - DOMAIN-SUFFIX,emby.my # 月饼
+  - DOMAIN,emby.my # 月饼
   - IP-CIDR,100.42.230.169/32,no-resolve # 美国
     # 飞跃银河
   - DOMAIN,yhemby.top # 飞跃银河
