@@ -12,7 +12,7 @@ payload:
     # 油猴插件
   - DOMAIN-SUFFIX,tampermonkey.net
     # Flash插件
-  - DOMAIN-SUFFIX,kjeek.com
+  # - DOMAIN-SUFFIX,kjeek.com
     # netdata
   - DOMAIN-SUFFIX,app.netdata.cloud
     # Follow
