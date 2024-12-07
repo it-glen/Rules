@@ -1,8 +1,6 @@
 payload:
   # 影视服 直连
     # 纸片人
-  - DOMAIN,emby.0v0.day # 香港
-  - IP-CIDR,188.64.108.172/32,no-resolve
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # PiliPili
@@ -81,10 +79,13 @@ payload:
   - DOMAIN,pub2.term.wtf # 二妹
   - DOMAIN,pub3.term.wtf # 三妹
   - IP-CIDR,138.2.119.18/32,no-resolve
+  - IP-CIDR,158.180.73.62/32,no-resolve
+  - IP-CIDR,158.180.90.31/32,no-resolve
+  - IP-CIDR,152.67.200.112/32,no-resolve
+  - IP-CIDR,144.24.89.207/32,no-resolve
   - IP-CIDR,144.24.68.241/32,no-resolve
-  - IP-CIDR,146.56.103.233/32,no-resolve
-  - IP-CIDR,144.24.91.24/32,no-resolve
-  - IP-CIDR,146.56.111.99/32,no-resolve
+  - IP-CIDR,144.24.66.244/32,no-resolve
+  - IP-CIDR,158.180.81.196/32,no-resolve
     # 牢大科蜜直升机餐厅
   - DOMAIN,sadsafsfsafsadas.mius.uk # SG分流
   - IP-CIDR,47.236.17.11/32,no-resolve
