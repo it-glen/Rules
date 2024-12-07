@@ -20,8 +20,6 @@ payload:
   - IP-CIDR,208.87.96.38/32,no-resolve
   - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com # uk联通直连
   - IP-CIDR,82.152.6.29/32,no-resolve
-    # AWA影视
-  - DOMAIN,emby.awatv.de # AWA影视
     # Peach
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
@@ -40,6 +38,9 @@ payload:
     # Marmot
   - DOMAIN,v.20120714.xyz # Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
+    # 月饼
+  - DOMAIN,cdn.emby.my # 月饼
+  - IP-CIDR,54.255.180.126/32,no-resolve
     # AlphaTV
   - DOMAIN,oversea.alphatvapp.top # Alpha
   - IP-CIDR,104.243.41.35/32,no-resolve
