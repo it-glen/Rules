@@ -1,7 +1,7 @@
 payload:
     # Emby好鸭
-  # - DOMAIN,jcf.niceduck.lol #卷毛鼠 x 好鸭 CF
-  # - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭 CF
-  # - DOMAIN,vi.niceduck.lol #垃圾 x 好鸭 推流
-  # - DOMAIN,dpxcf.niceduck.lol #地平线 x 好鸭 CF
+  - DOMAIN,jcf.niceduck.lol #卷毛鼠 x 好鸭 CF
+  - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭 CF
+  - DOMAIN,vi.niceduck.lol #垃圾 x 好鸭 推流
+  - DOMAIN,dpxcf.niceduck.lol #地平线 x 好鸭 CF
 
