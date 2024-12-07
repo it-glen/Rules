@@ -1,5 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,kjeek.com # Flash Copilot插件
+  - DOMAIN-SUFFIX,kjeek.com # Flash Copliot 插件
+  - DOMAIN-SUFFIX,immersivetranslate.com #沉浸式翻译
   - DOMAIN-SUFFIX,yanaifei.tv #鸭奈非
   - DOMAIN-SUFFIX,yanaifei.net
   - DOMAIN-SUFFIX,YaNaiFlix.one
