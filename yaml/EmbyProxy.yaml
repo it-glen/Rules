@@ -10,9 +10,6 @@ payload:
   - IP-CIDR,103.177.248.209/32,no-resolve
     # Peach
   - DOMAIN,play.embymv.link # 推流 线路二 CF
-    # Nanflix
-  - DOMAIN,nanflix.net # Nanflix
-  - IP-CIDR,89.58.10.209/32,no-resolve
    # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty
   - DOMAIN,emby.kim # 魔仙堡
