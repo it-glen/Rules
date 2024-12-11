@@ -51,7 +51,7 @@ payload:
   - IP-CIDR,152.70.36.195/32,no-resolve
     # Aladdin
   - DOMAIN,emby.aladingnet.com # Aladdin CF
-  - IP-CIDR,119.96.146.193/31,no-resolve # 神灯
+  - IP-CIDR,119.96.146.193/32,no-resolve # 神灯
     # TembyBeta
   - DOMAIN,temby856.285286.xyz # CF线路
     # 探花TV
