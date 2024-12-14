@@ -32,7 +32,8 @@ payload:
   - DOMAIN,yhemby.top # 飞跃银河
   - IP-CIDR,193.123.242.179/32,no-resolve
     # 卷毛鼠
-  - DOMAIN,cf2.jmsooo.com # 2服 CF线路
+  - DOMAIN,mini.jmsuper.com # 1服 CF线路
+  - DOMAIN,nano.jmsuper.com # 2服 CF线路
   - DOMAIN,cf2.jmsuper.com # 2服 CF线路
     # 终点站
   - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
