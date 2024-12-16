@@ -34,6 +34,8 @@ payload:
   - DOMAIN,v.20120714.xyz # Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
     # 月饼
+  - DOMAIN,emby.my # 月饼
+  - IP-CIDR,100.42.230.169/32,no-resolve # 美国
   - DOMAIN,cdn.emby.my # 月饼
   - IP-CIDR,54.255.180.126/32,no-resolve
     # AlphaTV
