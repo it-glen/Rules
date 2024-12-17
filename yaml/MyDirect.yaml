@@ -19,11 +19,13 @@ payload:
   - DOMAIN-SUFFIX,missuo.ru
     # Gofile网盘
   - DOMAIN-SUFFIX,gofile.io
+    # Github镜像
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,ghp.ci
+  - DOMAIN-SUFFIX,ghproxy.cc
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
   - DOMAIN-SUFFIX,starward.scighost.com #starward
-  - DOMAIN-SUFFIX,mirror.ghproxy.com #github镜像
-  - DOMAIN-SUFFIX,ghp.ci
   - DOMAIN-SUFFIX,jetbrains.com #jetbrains
   - DOMAIN-SUFFIX,navicat.com #Navicat
   - DOMAIN-SUFFIX,download.nvidia.com #nvidia驱动下载
