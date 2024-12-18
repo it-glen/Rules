@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.cc
   - DOMAIN-SUFFIX,github.site
   - DOMAIN-SUFFIX,github.store
+    # 节点 
+  - DOMAIN-SUFFIX,niceduck.me
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
   - DOMAIN-SUFFIX,starward.scighost.com #starward
