@@ -44,8 +44,5 @@ payload:
   - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
   - DOMAIN-SUFFIX,appsflyersdk.com # TikTok破解
   - DOMAIN-SUFFIX,serv00.com # Serv00
-  - DST-PORT,5228
+  # - DST-PORT,5228
   # - DOMAIN-SUFFIX,pluto.ck2ut7v3g5zudnjw.top #会跳转到YouTube的一个明日方舟视频
-  # - DOMAIN-SUFFIX,speedtest.globalxtreme.net
-  # - DOMAIN-SUFFIX,speedtest.three.com.hk
-  # - IP-CIDR,203.76.137.77/32,no-resolve
