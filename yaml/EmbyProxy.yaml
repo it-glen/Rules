@@ -9,12 +9,12 @@ payload:
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
     # Peach
-  - DOMAIN,embymv.link # Peach
-  - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
+  # - DOMAIN,embymv.link # Peach
+  # - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
   - DOMAIN,play.embymv.link # 推流 线路二 CF
     # Nanflix
-  - DOMAIN,nanflix.net # Nanflix
-  - IP-CIDR,89.58.10.209/32,no-resolve
+  # - DOMAIN,nanflix.net # Nanflix
+  # - IP-CIDR,89.58.10.209/32,no-resolve
    # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty
   - DOMAIN,emby.kim # 魔仙堡
