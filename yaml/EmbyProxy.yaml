@@ -16,7 +16,8 @@ payload:
   # - DOMAIN,nanflix.net # Nanflix
   # - IP-CIDR,89.58.10.209/32,no-resolve
    # Nebula 星云
-  - DOMAIN,emby.nebula-media.org #CF线路
+  - DOMAIN,emby.nebula-media.org # CF线路
+  - DOMAIN-SUFFIX,nebula-media.org # 推流
    # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty
   - DOMAIN,emby.kim # 魔仙堡
