@@ -21,9 +21,9 @@ payload:
     # Peach
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
-    # Nanflix
-  - DOMAIN,nanflix.net # Nanflix
-  - IP-CIDR,89.58.10.209/32,no-resolve
+    # Nanflix-US
+  - DOMAIN,us.nanflix.net # Nanflix-US
+  - IP-CIDR,152.53.54.201/32,no-resolve
     # 冰镇西瓜
   - DOMAIN,1024.name # 冰镇西瓜 海外线路
   - IP-CIDR,148.135.124.92/32,no-resolve
