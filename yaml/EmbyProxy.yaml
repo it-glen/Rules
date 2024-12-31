@@ -12,9 +12,9 @@ payload:
   # - DOMAIN,embymv.link # Peach
   # - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
   - DOMAIN,play.embymv.link # 推流 线路二 CF
-    # Nanflix
-  # - DOMAIN,nanflix.net # Nanflix
-  # - IP-CIDR,89.58.10.209/32,no-resolve
+    # Nanflix-US
+  # - DOMAIN,us.nanflix.net # Nanflix-US
+  # - IP-CIDR,152.53.54.201/32,no-resolve
    # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路
   - DOMAIN-SUFFIX,nebula-media.org # 推流
