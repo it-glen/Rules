@@ -18,6 +18,8 @@ payload:
    # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路
   - DOMAIN-SUFFIX,nebula-media.org # 推流
+    # Levilde Luminia
+  - DOMAIN-SUFFIX,clun.top # CF线路
    # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty
   - DOMAIN,emby.kim # 魔仙堡
@@ -40,7 +42,7 @@ payload:
   - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
   - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
     # Paul短剧 追光影视
-  - DOMAIN,www.sgsd.xyz
+  - DOMAIN-SUFFIX,sgsd.xyz # CF线路
     # NyaMedia
   - DOMAIN,emby.bangumi.ca # CF线路
     # TreeDiagram
