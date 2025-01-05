@@ -38,6 +38,7 @@ payload:
   - DOMAIN,nano.jmsuper.com # 2服 CF线路
   - DOMAIN,cf2.jmsuper.com # 2服 CF线路
     # 起点站
+  - DOMAIN,tdck.fun # CF线路
   - DOMAIN,emby-qdz-hk.pppp.us.kg # 香港
   - IP-CIDR,154.83.86.91/32,no-resolve
   - DOMAIN,emby-qdz-us-sj.pppp.us.kg # 美国圣何塞
