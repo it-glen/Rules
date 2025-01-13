@@ -38,11 +38,10 @@ payload:
   - DOMAIN,nano.jmsuper.com # 2服 CF线路
   - DOMAIN,cf2.jmsuper.com # 2服 CF线路
     # 起点站
-  - DOMAIN,tdck.fun # CF线路
-  - DOMAIN,emby-qdz-hk.pppp.us.kg # 香港
-  - IP-CIDR,154.83.86.91/32,no-resolve
-  - DOMAIN,emby-qdz-us-sj.pppp.us.kg # 美国圣何塞
-  - IP-CIDR,107.172.16.232/32,no-resolve
+  - DOMAIN,qdz-sg.vfing.de # 新加坡
+  - IP-CIDR,217.142.184.117/32,no-resolve
+  - DOMAIN,qdzcdn.vfing.de # cdn
+  - IP-CIDR,103.116.247.24/32,no-resolve
     # 终点站
   - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
   - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
