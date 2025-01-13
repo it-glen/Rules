@@ -36,6 +36,11 @@ payload:
   - DOMAIN,cc.coemn.com # 主域名
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN-SUFFIX,carryz.net # 推流域名
+    # 起点站
+  - DOMAIN,qdz-hk-0.vfing.de # 香港1
+  - IP-CIDR,185.241.40.123/32,no-resolve
+  - DOMAIN,qdz-hk-1.vfing.de # 香港2
+  - IP-CIDR,103.110.80.156/32,no-resolve
     # Marmot
   - DOMAIN,v.20120714.xyz # Marmot
   - IP-CIDR,130.162.135.38/32,no-resolve
