@@ -25,8 +25,6 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.cc
   - DOMAIN-SUFFIX,github.site
   - DOMAIN-SUFFIX,github.store
-    # 节点 
-  - DOMAIN-SUFFIX,niceduck.me
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
   - DOMAIN-SUFFIX,starward.scighost.com #starward
@@ -37,9 +35,12 @@ payload:
   - DOMAIN-SUFFIX,releases.ubuntu.com #Ubuntu镜像下载
     # 机场直连
   - DOMAIN-SUFFIX,niceduck.io #好鸭
+  - DOMAIN-SUFFIX,sub.godya.cc
   - DOMAIN-SUFFIX,niceduck.cloud
   - DOMAIN-SUFFIX,subsub123456789.com #便宜机场
   - DOMAIN,new.karleynetwork.xyz #Karley
+    # 节点 
+  - DOMAIN-SUFFIX,niceduck.me
     # 小说
   - DOMAIN-SUFFIX,deqixs.com
     # 测试网站
