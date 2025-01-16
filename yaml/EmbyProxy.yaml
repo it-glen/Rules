@@ -30,6 +30,9 @@ payload:
   - DOMAIN,play.charontv.com # CF线路
     # 探花TV
   - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF
+    # 鸽巢
+  - DOMAIN,media.doven.tv # 鸽巢
+  - IP-CIDR,192.154.104.27/32,no-resolve
     # 飞跃银河
   - DOMAIN,yhemby.top # 飞跃银河
   - IP-CIDR,193.123.242.179/32,no-resolve
