@@ -31,8 +31,11 @@ payload:
     # 探花TV
   - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF
     # 鸽巢
-  - DOMAIN,media.doven.tv # 鸽巢
+  - DOMAIN,media.doven.tv # 美国
   - IP-CIDR,192.154.104.27/32,no-resolve
+    # 守候影院
+  - DOMAIN,emby.cn2gias.uk # 美国
+  - IP-CIDR,38.129.137.62/32,no-resolve
     # 飞跃银河
   - DOMAIN,yhemby.top # 飞跃银河
   - IP-CIDR,193.123.242.179/32,no-resolve
