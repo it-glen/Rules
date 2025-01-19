@@ -9,33 +9,20 @@ payload:
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
     # Peach
-  # - DOMAIN,embymv.link # Peach
-  # - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
   - DOMAIN,play.embymv.link # 推流 线路二 CF
-    # Nanflix-US
-  # - DOMAIN,us.nanflix.net # Nanflix-US
-  # - IP-CIDR,152.53.54.201/32,no-resolve
    # Nebula 星云
-  - DOMAIN,emby.nebula-media.org # CF线路
+  - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
     # Levilde Luminia
   - DOMAIN-SUFFIX,clun.top # CF线路
    # Misty/魔仙堡
-  - DOMAIN,misty.cx # Misty
+  - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
-    # ntRRR
-  - DOMAIN,stream.ntrrr.top # CF线路
     # 卡戎
-  - DOMAIN,play.charontv.com # CF线路
+  - DOMAIN,play.charontv.com # CF线路，禁止直连
     # 探花TV
-  - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF
-    # 鸽巢
-  - DOMAIN,media.doven.tv # 美国
-  - IP-CIDR,192.154.104.27/32,no-resolve
-    # 守候影院
-  - DOMAIN,emby.cn2gias.uk # 美国
-  - IP-CIDR,38.129.137.62/32,no-resolve
+  - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF线路
     # 飞跃银河
   - DOMAIN,yhemby.top # 飞跃银河
   - IP-CIDR,193.123.242.179/32,no-resolve
@@ -44,10 +31,6 @@ payload:
   - DOMAIN,nano.jmsuper.com # 2服 CF线路
   - DOMAIN,cf2.jmsuper.com # 2服 CF线路
     # 起点站
-  - DOMAIN,qdz-sg.vfing.de # 新加坡
-  - IP-CIDR,217.142.184.117/32,no-resolve
-  - DOMAIN,qdzcdn.vfing.de # cdn
-  - IP-CIDR,103.116.247.24/32,no-resolve
     # 终点站
   - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
   - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
