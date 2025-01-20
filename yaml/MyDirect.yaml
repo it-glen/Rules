@@ -28,7 +28,7 @@ payload:
     # 下载
   - DOMAIN-SUFFIX,mgamem.com #M木糖M
   - DOMAIN-SUFFIX,starward.scighost.com #starward
-  - DOMAIN-SUFFIX,jetbrains.com #jetbrains
+  # - DOMAIN-SUFFIX,jetbrains.com #jetbrains
   - DOMAIN-SUFFIX,navicat.com #Navicat
   - DOMAIN-SUFFIX,download.nvidia.com #nvidia驱动下载
   - DOMAIN-SUFFIX,gamer520.com #switch520
