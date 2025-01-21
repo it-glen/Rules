@@ -4,21 +4,20 @@ payload:
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # PiliPili
-  # - DOMAIN,pilipili.misakaf.org # 推流域名
-  - DOMAIN,streamer.pilipiliultra.com # 新推流域名 CF线路，可直连
   - DOMAIN-SUFFIX,pilipili.club # 直连
-  - IP-CIDR,146.112.61.108/32,no-resolve # css
-  - IP-CIDR,211.22.180.227/32,no-resolve # tw
-  - IP-CIDR,47.243.14.93/32,no-resolve # qyxl
-  - IP-CIDR,163.53.246.60/32,no-resolve # cerahk
-  - IP-CIDR,202.61.202.166/32,no-resolve # netcupde
-  - DOMAIN-SUFFIX,pilifun.top
-  - IP-CIDR,146.112.61.108/32,no-resolve # 
-  - IP-CIDR,46.3.107.61/32,no-resolve # us
-  - DOMAIN,pilipili.hitagi.me # 三网直连
-  - IP-CIDR,208.87.96.38/32,no-resolve
-  - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com # uk联通直连
-  - IP-CIDR,82.152.6.29/32,no-resolve
+  - DOMAIN,streamer.pilipiliultra.com # 新推流域名
+  - DOMAIN-SUFFIX,pilifun.top 
+  # - IP-CIDR,146.112.61.108/32,no-resolve # css
+  # - IP-CIDR,211.22.180.227/32,no-resolve # tw
+  # - IP-CIDR,47.243.14.93/32,no-resolve # qyxl
+  # - IP-CIDR,163.53.246.60/32,no-resolve # cerahk
+  # - IP-CIDR,202.61.202.166/32,no-resolve # netcupde
+  # - IP-CIDR,146.112.61.108/32,no-resolve # 
+  # - IP-CIDR,46.3.107.61/32,no-resolve # us
+  # - DOMAIN,pilipili.hitagi.me # 三网直连
+  # - IP-CIDR,208.87.96.38/32,no-resolve
+  # - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com # uk联通直连
+  # - IP-CIDR,82.152.6.29/32,no-resolve
     # Peach
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
