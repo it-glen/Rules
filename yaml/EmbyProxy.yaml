@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org # 主域名
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
     #PiliPili
-  - DOMAIN,pilipili.club # 主域名 CF
+  # - DOMAIN,pilipili.club # 主域名 CF
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
