@@ -19,6 +19,8 @@ payload:
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
+    # 月饼
+  - DOMAIN,emby.my # 月饼 CF
     # 卡戎
   - DOMAIN,play.charontv.com # CF线路，禁止直连
     # 探花TV
