@@ -22,9 +22,9 @@ payload:
   - DOMAIN,jsq.mooguu.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
     # 墨云阁
-  - DOMAIN,a.mobaiemby.site # 美国
+  - DOMAIN,2pfdml.mobaiemby.site # 美国
   - IP-CIDR,152.53.38.126/32,no-resolve
-  - DOMAIN,b.mobaiemby.site # 广移
+  - DOMAIN,sfyzn2.mobaiemby.site # 广移
   - IP-CIDR,120.233.171.174/32,no-resolve
   - DOMAIN,fast.vfing.de # 广移
   - IP-CIDR,120.232.217.219/32,no-resolve
