@@ -21,6 +21,8 @@ payload:
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
     # 月饼
   - DOMAIN,emby.my # 月饼 CF
+    # July
+  - DOMAIN,alist7.eu.org # July CF
     # 稳健
   - DOMAIN,emby.wenjian.de # 稳健 CF
     # 卡戎
