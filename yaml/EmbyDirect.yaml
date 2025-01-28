@@ -28,6 +28,9 @@ payload:
   - IP-CIDR,120.233.171.174/32,no-resolve
   - DOMAIN,fast.vfing.de # 广移
   - IP-CIDR,120.232.217.219/32,no-resolve
+    # July
+  - DOMAIN-SUFFIX,vfing.de # July 直连
+  - IP-CIDR,47.242.4.167/32,no-resolve # 香港 阿里云
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路，可直连
     # CC公益
