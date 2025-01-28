@@ -3,19 +3,19 @@ payload:
     # 纸片人
   - DOMAIN-SUFFIX,embyplus.org # 主域名
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
-    #PiliPili
+    # PiliPili
   # - DOMAIN,pilipili.club # 主域名 CF
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
     # Peach
   - DOMAIN,play.embymv.link # 推流 线路二 CF
-   # Nebula 星云
+    # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
     # Levilde Luminia
   - DOMAIN-SUFFIX,clun.top # CF线路
-   # Misty/魔仙堡
+    # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
