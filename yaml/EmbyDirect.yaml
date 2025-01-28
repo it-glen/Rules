@@ -31,6 +31,9 @@ payload:
     # July
   - DOMAIN-SUFFIX,vfing.de # July 直连
   - IP-CIDR,47.242.4.167/32,no-resolve # 香港 阿里云
+    # 惊蛰
+  - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
+  - IP-CIDR,129.154.193.8/32,no-resolve
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路，可直连
     # CC公益
