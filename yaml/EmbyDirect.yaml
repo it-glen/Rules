@@ -137,13 +137,6 @@ payload:
   # 音乐服
     # 未响
   - DOMAIN,music.mefun.org # 未响 CF
-    # AWA音乐服
-  - DOMAIN,music1.awatv.de # AWA音乐服 CF
-    # rais音乐服
-  - DOMAIN,music.127066.xyz # rais 
-  - IP-CIDR,175.11.21.5/32,no-resolve # rais 长沙
-  - DOMAIN,music.wish.ml # rais
-  - IP-CIDR,46.3.110.202/32,no-resolve # rais 香港
     # 飞跃星空音乐服
   - DOMAIN,xk.123456.buzz # 飞跃星空
   - IP-CIDR,141.147.186.142/32,no-resolve # 飞跃星空 东京
