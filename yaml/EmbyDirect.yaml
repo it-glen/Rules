@@ -1,12 +1,24 @@
 payload:
   # 影视服 直连
-    # 纸片人
-  - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
-  - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # PiliPili
   - DOMAIN-SUFFIX,pilipili.club # 直连
   - DOMAIN,streamer.pilipiliultra.com # 新推流域名
   - DOMAIN-SUFFIX,pilifun.top
+    # 纸片人
+  - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
+  - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
+    # 守候影院
+  - DOMAIN,emby.cn2gias.uk # 美国
+  - IP-CIDR,38.129.137.62/32,no-resolve
+    # 鸽巢
+  - DOMAIN,mediacf.doven.tv # CF线路，推荐港台
+  - DOMAIN-SUFFIX,media.doven.tv # 优化线路
+  - DOMAIN,speedtestcf.doven.tv # 测速 CF
+  - DOMAIN-SUFFIX,speedtest.doven.tv # 测速
+  - IP-CIDR,192.154.104.27/32,no-resolve
+    # Levilde Luminia
+  - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
+  - IP-CIDR,188.253.112.89/32,no-resolve
     # Peach
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
@@ -28,6 +40,11 @@ payload:
   - IP-CIDR,120.233.171.174/32,no-resolve
   - DOMAIN,fast.vfing.de # 广移
   - IP-CIDR,120.232.217.219/32,no-resolve
+    # 起点站
+  # - DOMAIN,emby-qdz-jp.pppp.us.kg # 日本软银
+  # - IP-CIDR,141.98.197.223/32,no-resolve
+  # - DOMAIN,emby-qdz-sg.pppp.us.kg # 新加坡西
+  # - IP-CIDR,217.142.184.117/32,no-resolve
     # July
   - DOMAIN-SUFFIX,vfing.de # July 直连
   - IP-CIDR,47.242.4.167/32,no-resolve # 香港 阿里云
@@ -40,21 +57,12 @@ payload:
   - DOMAIN,cc.coemn.com # 主域名
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN-SUFFIX,carryz.net # 推流域名
-    # 鸽巢
-  - DOMAIN,mediacf.doven.tv # CF线路，推荐港台
-  - DOMAIN-SUFFIX,media.doven.tv # 优化线路
-  - DOMAIN,speedtestcf.doven.tv # 测速 CF
-  - DOMAIN-SUFFIX,speedtest.doven.tv # 测速
-  - IP-CIDR,192.154.104.27/32,no-resolve
-    # 守候影院
-  - DOMAIN,emby.cn2gias.uk # 美国
-  - IP-CIDR,38.129.137.62/32,no-resolve
-    # Marmot
-  - DOMAIN,v.20120714.xyz # Marmot
-  - IP-CIDR,130.162.135.38/32,no-resolve
     # 月饼
   # - DOMAIN,emby.my # 月饼
   - IP-CIDR,100.42.230.169/32,no-resolve # 美国
+    # Marmot
+  - DOMAIN,v.20120714.xyz # Marmot
+  - IP-CIDR,130.162.135.38/32,no-resolve
     # AlphaTV
   - DOMAIN,oversea.alphatvapp.top # Alpha
   - IP-CIDR,104.243.41.35/32,no-resolve
@@ -70,9 +78,6 @@ payload:
   # - IP-CIDR,119.96.146.193/32,no-resolve # 神灯
   - DOMAIN,vip3.jellyfin.asia # 水母xAladdin
   - IP-CIDR,220.135.49.134/32,no-resolve
-    # 蛋挞 X Levilde Luminia
-  - DOMAIN,eggtartemby.itsmyduty.top # 蛋挞xLL
-  - IP-CIDR,188.253.112.89/32,no-resolve
     # TembyBeta
   - DOMAIN,temby856.285286.xyz # CF线路
     # 好鸭
@@ -85,12 +90,6 @@ payload:
   - DOMAIN,dpx2.niceduck.lol # 地平线x好鸭 直连2
   - DOMAIN,jms2.niceduck.lol # 卷毛鼠x好鸭 直连2
   - IP-CIDR,154.12.56.188/32,no-resolve
-    # 起点站
-  - IP-CIDR,192.99.35.111/32,no-resolve # 加拿大
-  - DOMAIN,emby-qdz-jp.pppp.us.kg # 日本软银
-  - IP-CIDR,141.98.197.223/32,no-resolve
-  - DOMAIN,emby-qdz-sg.pppp.us.kg # 新加坡西
-  - IP-CIDR,217.142.184.117/32,no-resolve
     # 终点站
   - DOMAIN,pub1.emby.wtf # 大妹
   - DOMAIN,pub2.emby.wtf # 二妹
