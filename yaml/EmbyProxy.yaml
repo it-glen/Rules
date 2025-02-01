@@ -59,8 +59,6 @@ payload:
   - DOMAIN,my.embylife.xyz # 神灯 CF
     # Paul短剧 追光影视
   - DOMAIN-SUFFIX,sgsd.xyz # CF线路
-    # NyaMedia
-  - DOMAIN,emby.bangumi.ca # CF线路
     # TreeDiagram
   - DOMAIN,789.123456.al # CF线路
     # 牢大科蜜直升机餐厅
