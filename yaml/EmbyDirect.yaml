@@ -58,8 +58,10 @@ payload:
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN-SUFFIX,carryz.net # 推流域名
     # 月饼
-  # - DOMAIN,emby.my # 月饼
-  - IP-CIDR,100.42.230.169/32,no-resolve # 美国
+  - DOMAIN,a.emby.my # CF
+  - DOMAIN,b.emby.my # CF
+  - DOMAIN,dfgsd.a.emby.my # 推流
+  - IP-CIDR,100.42.230.169/32,no-resolve # 推流 美国
     # NyaMedia
   - DOMAIN,emby.bangumi.ca # CF线路
     # Marmot
