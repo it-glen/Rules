@@ -12,6 +12,9 @@ payload:
   - DOMAIN-SUFFIX,clun.top # CF线路
     # Peach
   - DOMAIN,play.embymv.link # 推流 线路二 CF
+    # Nanflix-US
+  - DOMAIN,us.nanflix.net # Nanflix-US
+  - IP-CIDR,152.53.54.201/32,no-resolve
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
