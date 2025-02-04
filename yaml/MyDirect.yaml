@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,ghp.ci
   - DOMAIN-SUFFIX,ghproxy.cc
+  - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-SUFFIX,github.site
   - DOMAIN-SUFFIX,github.store
     # 下载
