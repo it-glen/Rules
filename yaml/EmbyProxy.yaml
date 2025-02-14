@@ -1,7 +1,7 @@
 payload:
   # 影视服 代理
     # PiliPili
-  # - DOMAIN,pilipili.club # 主域名 CF
+  - DOMAIN,pilipili.club # 主域名 CF
     # 纸片人
   - DOMAIN-SUFFIX,embyplus.org # 主域名
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
@@ -19,7 +19,7 @@ payload:
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
     # Aurora
-  - DOMAIN,auroramedia.vip # Aurora CF
+  - DOMAIN,ad.auroramedia.vip # Aurora CF
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
