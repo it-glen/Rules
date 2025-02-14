@@ -1,7 +1,7 @@
 payload:
   # 影视服 直连
     # PiliPili
-  - DOMAIN-SUFFIX,pilipili.club # 直连
+  # - DOMAIN-SUFFIX,pilipili.club # CF 直连
   - DOMAIN,streamer.pilipiliultra.com # 新推流域名
   - DOMAIN-SUFFIX,pilifun.top
     # 纸片人
