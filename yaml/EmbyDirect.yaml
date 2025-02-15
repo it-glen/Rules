@@ -52,7 +52,7 @@ payload:
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
     # ntRRR
-  - DOMAIN,stream.ntrrr.top # CF线路，可直连
+  # - DOMAIN,stream.ntrrr.top # CF线路，可直连
     # CC公益
   - DOMAIN,cc.coemn.com # 主域名
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
