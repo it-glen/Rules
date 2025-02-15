@@ -17,6 +17,8 @@ payload:
     # Nanflix-US
   - DOMAIN,us.nanflix.net # Nanflix-US
   - IP-CIDR,152.53.54.201/32,no-resolve
+    # ntRRR
+  - DOMAIN,stream.ntrrr.top # CF线路，可直连
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
