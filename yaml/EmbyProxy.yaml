@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,nebula-media.org # 推流
     # Aurora
   - DOMAIN,ad.auroramedia.vip # Aurora CF
+  - DOMAIN,auroramedia.me # 机器人
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
