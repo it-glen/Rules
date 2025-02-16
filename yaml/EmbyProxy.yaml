@@ -2,8 +2,8 @@ payload:
   # 影视服 代理
     # PiliPili
   - DOMAIN,pilipili.club # 主域名 CF
-  - DOMAIN-SUFFIX,pilipiliultra.com # 新推流域名
-  - DOMAIN,streamer.pilipiliultra.com # 新推流域名
+  # - DOMAIN-SUFFIX,pilipiliultra.com # 新推流域名
+  # - DOMAIN,streamer.pilipiliultra.com # 新推流域名
     # 纸片人
   - DOMAIN-SUFFIX,embyplus.org # 主域名
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
