@@ -44,5 +44,6 @@ payload:
   - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
   - DOMAIN-SUFFIX,appsflyersdk.com # TikTok破解
   - DOMAIN-SUFFIX,serv00.com # Serv00
+  - DOMAIN-SUFFIX,macpaw.com # CleanMyPC
   # - DST-PORT,5228
   # - DOMAIN-SUFFIX,pluto.ck2ut7v3g5zudnjw.top #会跳转到YouTube的一个明日方舟视频
