@@ -42,10 +42,9 @@ payload:
   - DOMAIN,fast.vfing.de # 广移
   - IP-CIDR,120.232.217.219/32,no-resolve
     # 起点站
-  # - DOMAIN,emby-qdz-jp.pppp.us.kg # 日本软银
-  # - IP-CIDR,141.98.197.223/32,no-resolve
-  # - DOMAIN,emby-qdz-sg.pppp.us.kg # 新加坡西
-  # - IP-CIDR,217.142.184.117/32,no-resolve
+  - DOMAIN,qdz-de.vfing.de # 德国
+  - IP-CIDR,193.160.221.160/32,no-resolve
+  - DOMAIN,cdn.qzuie.top # cdn
     # July
   - DOMAIN-SUFFIX,vfing.de # July 直连
   - IP-CIDR,47.242.4.167/32,no-resolve # 香港 阿里云
