@@ -47,16 +47,12 @@ payload:
     # 起点站
   - DOMAIN,favoritewife.com # 主线路 芬兰
   - IP-CIDR,135.181.134.46/32,no-resolve
-  - DOMAIN,qdz-de.vfing.de # 德国
-  - IP-CIDR,193.160.221.160/32,no-resolve
+  # - DOMAIN,qdz-de.vfing.de # 德国
+  # - IP-CIDR,193.160.221.160/32,no-resolve
   - DOMAIN,qdz-hk-0.vfing.de # 香港1
   - IP-CIDR,185.241.40.123/32,no-resolve
   - DOMAIN,qdz-hk-1.vfing.de # 香港2
   - IP-CIDR,103.110.80.156/32,no-resolve
-  - DOMAIN,qdz-hk-hol.vfing.de # 香港3
-  - IP-CIDR,46.3.109.178/32,no-resolve
-  - DOMAIN,qdzcdn.vfing.de # cdn
-  - IP-CIDR,103.116.247.24/32,no-resolve
     # 终点站
   - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
   - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
