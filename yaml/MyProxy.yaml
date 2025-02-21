@@ -23,8 +23,8 @@ payload:
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,2019279.xyz
     # 规则网址
-  - DOMAIN-SUFFIX,adrules.top #AdRules
-  - DOMAIN-SUFFIX,neodev.team #neodevhost
+  - DOMAIN-SUFFIX,adrules.top # AdRules
+  - DOMAIN-SUFFIX,neodev.team # neodevhost
     # DNS泄露
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,ip125.com
@@ -32,18 +32,19 @@ payload:
   - DOMAIN-SUFFIX,dandanplay.net
     # 漏网之鱼
   - DOMAIN-SUFFIX,revved.com
-  - DOMAIN-SUFFIX,misakaf.org #misakaf
-  - DOMAIN-SUFFIX,time.is #中国时间
-  - DOMAIN-SUFFIX,tgx.rs #TorentGalaxy
-  - DOMAIN-SUFFIX,liadm.com #Liveintent
-  - DOMAIN-SUFFIX,apkpure.net #apkpure软件商店
-  - DOMAIN-SUFFIX,sponsor.ajay.app #YouTube Vanced
+  - DOMAIN-SUFFIX,misakaf.org # misakaf
+  - DOMAIN-SUFFIX,time.is # 中国时间
+  - DOMAIN-SUFFIX,tgx.rs # TorentGalaxy
+  - DOMAIN-SUFFIX,liadm.com # Liveintent
+  - DOMAIN-SUFFIX,novita.ai # Novita
+  - DOMAIN-SUFFIX,apkpure.net # apkpure软件商店
+  - DOMAIN-SUFFIX,sponsor.ajay.app # YouTube Vanced
   - DOMAIN-SUFFIX,api.revanced.app
-  - DOMAIN-SUFFIX,greasyfork.org #Greasy Fork
-  - DOMAIN-SUFFIX,mb3admin.com #emby官网
-  - DOMAIN-SUFFIX,ipify.org #ipify,获取ip的网站
-  - DOMAIN-SUFFIX,appsflyersdk.com # TikTok破解
+  - DOMAIN-SUFFIX,greasyfork.org # Greasy Fork
+  - DOMAIN-SUFFIX,mb3admin.com # emby官网
+  - DOMAIN-SUFFIX,ipify.org # ipify,获取ip的网站
+  - DOMAIN-SUFFIX,appsflyersdk.com #  TikTok破解
   - DOMAIN-SUFFIX,serv00.com # Serv00
   - DOMAIN-SUFFIX,macpaw.com # CleanMyPC
   # - DST-PORT,5228
-  # - DOMAIN-SUFFIX,pluto.ck2ut7v3g5zudnjw.top #会跳转到YouTube的一个明日方舟视频
+  # - DOMAIN-SUFFIX,pluto.ck2ut7v3g5zudnjw.top # 会跳转到YouTube的一个明日方舟视频
