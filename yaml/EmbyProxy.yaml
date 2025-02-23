@@ -12,6 +12,9 @@ payload:
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
+    # 守候影院
+  - DOMAIN,emby.cn2gias.uk # 美国
+  - IP-CIDR,38.129.137.62/32,no-resolve
     # Levilde Luminia
   - DOMAIN-SUFFIX,clun.top # CF线路
     # Peach
