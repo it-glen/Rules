@@ -7,9 +7,6 @@ payload:
     # 纸片人
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
-    # 守候影院
-  - DOMAIN,emby.cn2gias.uk # 美国
-  - IP-CIDR,38.129.137.62/32,no-resolve
     # 鸽巢
   - DOMAIN,mediacf.doven.tv # CF线路，推荐港台
   - DOMAIN-SUFFIX,media.doven.tv # 优化线路
