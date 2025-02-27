@@ -13,15 +13,9 @@ payload:
   - DOMAIN,speedtestcf.doven.tv # 测速 CF
   - DOMAIN-SUFFIX,speedtest.doven.tv # 测速
   - IP-CIDR,192.154.104.27/32,no-resolve
-    # Levilde Luminia
-  - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
-  - IP-CIDR,188.253.112.89/32,no-resolve
     # Peach
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
-    # Nanflix-US
-  - DOMAIN,us.nanflix.net # Nanflix-US
-  - IP-CIDR,152.53.54.201/32,no-resolve
     # 冰镇西瓜
   - DOMAIN-SUFFIX,1024.name # 冰镇西瓜 海外线路
   - IP-CIDR,148.135.124.92/32,no-resolve # 洛杉矶
@@ -31,28 +25,21 @@ payload:
   - IP-CIDR,64.181.251.115/32,no-resolve # 圣何塞
   - DOMAIN,daigua.j8.work # Kurun
   - IP-CIDR,154.23.248.10/32,no-resolve # 洛杉矶
-    # 见手青
-  - DOMAIN,jsq.mooguu.xyz # 见手青
-  - IP-CIDR,152.53.38.126/32,no-resolve
-    # 墨云阁
-  - DOMAIN,2pfdml.mobaiemby.site # 美国
-  - IP-CIDR,152.53.38.126/32,no-resolve
-  - DOMAIN,sfyzn2.mobaiemby.site # 广移
-  - IP-CIDR,120.233.171.174/32,no-resolve
-  - DOMAIN,fast.vfing.de # 广移
-  - IP-CIDR,120.232.217.219/32,no-resolve
+    # Nanflix-US
+  - DOMAIN,us.nanflix.net # Nanflix-US
+  - IP-CIDR,152.53.54.201/32,no-resolve
+    # Levilde Luminia
+  - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
+  - IP-CIDR,188.253.112.89/32,no-resolve
+    # ntRRR
+  - DOMAIN,stream.ntrrr.top # CF线路，可直连
     # 起点站
   - DOMAIN,qdz-de.vfing.de # 德国
   - IP-CIDR,193.160.221.160/32,no-resolve
   - DOMAIN,cdn.qzuie.top # cdn
-    # July
-  - DOMAIN-SUFFIX,vfing.de # July 直连
-  - IP-CIDR,47.242.4.167/32,no-resolve # 香港 阿里云
-    # 惊蛰
-  - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
-  - IP-CIDR,129.154.193.8/32,no-resolve
-    # ntRRR
-  # - DOMAIN,stream.ntrrr.top # CF线路，可直连
+    # 见手青
+  - DOMAIN,jsq.mooguu.xyz # 见手青
+  - IP-CIDR,152.53.38.126/32,no-resolve
     # CC公益
   - DOMAIN,cc.coemn.com # 主域名
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
@@ -62,14 +49,18 @@ payload:
   - DOMAIN,b.emby.my # CF
   - DOMAIN,dfgsd.a.emby.my # 推流
   - IP-CIDR,100.42.230.169/32,no-resolve # 推流 美国
+    # 惊蛰
+  - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
+  - IP-CIDR,129.154.193.8/32,no-resolve
     # NyaMedia
   - DOMAIN,emby.bangumi.ca # CF线路
-    # Marmot
-  - DOMAIN,v.20120714.xyz # Marmot
-  - IP-CIDR,130.162.135.38/32,no-resolve
-    # AlphaTV
-  - DOMAIN,oversea.alphatvapp.top # Alpha
-  - IP-CIDR,104.243.41.35/32,no-resolve
+    # 墨云阁
+  - DOMAIN,2pfdml.mobaiemby.site # 美国
+  - IP-CIDR,152.53.38.126/32,no-resolve
+  - DOMAIN,sfyzn2.mobaiemby.site # 广移
+  - IP-CIDR,120.233.171.174/32,no-resolve
+  - DOMAIN,fast.vfing.de # 广移
+  - IP-CIDR,120.232.217.219/32,no-resolve
     # HkaEmby
   - DOMAIN,hka-emby.aliz.work # 主域名
   - IP-CIDR,148.135.111.212/32,no-resolve
@@ -78,12 +69,8 @@ payload:
   - DOMAIN,hka-emby2.aliz.work # Hka2
   - IP-CIDR,152.70.36.195/32,no-resolve
     # Aladdin
-  - DOMAIN,emby.aladingnet.com # Aladdin CF
-  # - IP-CIDR,119.96.146.193/32,no-resolve # 神灯
-  - DOMAIN,vip3.jellyfin.asia # 水母xAladdin
+  - DOMAIN,vip3.jellyfin.asia # 水母
   - IP-CIDR,220.135.49.134/32,no-resolve
-    # TembyBeta
-  - DOMAIN,temby856.285286.xyz # CF线路
     # 好鸭
   - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
   - IP-CIDR,38.58.178.173/32,no-resolve
@@ -126,7 +113,7 @@ payload:
   # 音乐服
     # 未响
   - DOMAIN,music.mefun.org # 未响 CF
-    # 飞跃星空音乐服
+    # 飞跃星空
   - DOMAIN,xk.123456.buzz # 飞跃星空
   - IP-CIDR,141.147.186.142/32,no-resolve # 飞跃星空 东京
   - DOMAIN,axk.123456.buzz # 飞跃星空
