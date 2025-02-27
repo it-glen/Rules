@@ -15,27 +15,22 @@ payload:
     # 守候影院
   - DOMAIN,emby.cn2gias.uk # 美国
   - IP-CIDR,38.129.137.62/32,no-resolve
-    # Levilde Luminia
-  - DOMAIN-SUFFIX,clun.top # CF线路
     # Peach
   - DOMAIN,play.embymv.link # 推流 线路二 CF
-    # Nanflix-US
-  # - DOMAIN,us.nanflix.net # Nanflix-US
-  # - IP-CIDR,152.53.54.201/32,no-resolve
+    # Levilde Luminia
+  - DOMAIN-SUFFIX,clun.top # CF线路
     # ntRRR
   # - DOMAIN,stream.ntrrr.top # CF线路，可直连
+    # Misty/魔仙堡
+  - DOMAIN,misty.cx # Misty，禁止直连
+  - DOMAIN,emby.kim # 魔仙堡
+  - IP-CIDR,82.152.162.202/32,no-resolve # 香港
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
     # Aurora
   - DOMAIN,ad.auroramedia.vip # Aurora CF
   - DOMAIN,auroramedia.me # 机器人
-    # Misty/魔仙堡
-  - DOMAIN,misty.cx # Misty，禁止直连
-  - DOMAIN,emby.kim # 魔仙堡
-  - IP-CIDR,82.152.162.202/32,no-resolve # 香港
-    # July
-  - DOMAIN,alist7.eu.org # July CF
     # 稳健
   - DOMAIN,emby.wenjian.de # 稳健 CF
     # 卡戎
