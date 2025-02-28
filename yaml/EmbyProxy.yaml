@@ -20,7 +20,7 @@ payload:
     # Levilde Luminia
   - DOMAIN-SUFFIX,clun.top # CF线路
     # ntRRR
-  # - DOMAIN,stream.ntrrr.top # CF线路，可直连
+  - DOMAIN,stream.ntrrr.top # CF线路
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
