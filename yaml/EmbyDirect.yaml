@@ -31,8 +31,6 @@ payload:
     # Levilde Luminia
   - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
   - IP-CIDR,188.253.112.89/32,no-resolve
-    # ntRRR
-  - DOMAIN,stream.ntrrr.top # CF线路，可直连
     # 起点站
   - DOMAIN,qdz-de.vfing.de # 德国
   - IP-CIDR,193.160.221.160/32,no-resolve
