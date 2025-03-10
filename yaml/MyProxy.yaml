@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,misakaf.org # misakaf
   - DOMAIN-SUFFIX,time.is # 中国时间
   - DOMAIN-SUFFIX,tgx.rs # TorentGalaxy
+  - DOMAIN-SUFFIX,te.sb # dashboard
   - DOMAIN-SUFFIX,liadm.com # Liveintent
   - DOMAIN-SUFFIX,novita.ai # Novita
   - DOMAIN-SUFFIX,apkpure.net # apkpure软件商店
