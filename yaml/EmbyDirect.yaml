@@ -1,6 +1,7 @@
 payload:
   # 影视服 直连
     # PiliPili
+  - DOMAIN,emby-direct.pilipiliultra.com # 主线路
   - DOMAIN,streamer.pilipiliultra.com # 主线路 推流域名
   - IP-CIDR,51.75.171.183/32,no-resolve
   - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
