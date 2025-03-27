@@ -36,6 +36,7 @@ payload:
   - DOMAIN,qdz-de.vfing.de # 德国
   - IP-CIDR,193.160.221.160/32,no-resolve
   - DOMAIN,cdn.qzuie.top # cdn
+  - DOMAIN,qdz-de-rs.vfing.de # 电信秒播
     # 见手青
   - DOMAIN,jsq.mooguu.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
