@@ -15,8 +15,6 @@ payload:
   - IP-CIDR,38.129.137.62/32,no-resolve
     # Peach
   - DOMAIN,play.embymv.link # 推流 线路二 CF
-    # Levilde Luminia
-  - DOMAIN-SUFFIX,clun.top # CF线路
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路
     # Misty/魔仙堡
