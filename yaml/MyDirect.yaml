@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,imsyy.top #lige.fit
   - DOMAIN-SUFFIX,lige.fit
   - DOMAIN-SUFFIX,growingio.com # GrowingIO网站
+  - DOMAIN-SUFFIX,bugsnag.com
   # - IP-CIDR,172.253.117.188/32,no-resolve # 5228端口 谷歌云ip
   # - DOMAIN-SUFFIX,toponad.com #TopOn 广告平台数据监测网站
   # - DOMAIN-SUFFIX,codelife.cc #itab壁纸接口
