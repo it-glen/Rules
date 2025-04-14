@@ -77,6 +77,7 @@ payload:
     # Aladdin
   - DOMAIN,vip3.jellyfin.asia # 水母
   - IP-CIDR,220.135.49.134/32,no-resolve
+  - DOMAIN,my.embylife.xyz # 神灯 CF
     # 好鸭
   - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
   - IP-CIDR,38.58.178.173/32,no-resolve
