@@ -46,6 +46,9 @@ payload:
   - DOMAIN,lite.saturday.video # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
   - IP-CIDR,221.228.32.13/32,no-resolve # 江苏电信
+  # CineTrail
+  - DOMAIN,emby1.123456789.lol
+  - IP-CIDR,46.38.242.147/32,no-resolve # 德国
     # CC公益
   - DOMAIN,cc.coemn.com # 主域名
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
