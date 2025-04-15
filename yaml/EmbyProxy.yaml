@@ -27,6 +27,8 @@ payload:
     # Aurora
   - DOMAIN,ad.auroramedia.vip # Aurora CF
   - DOMAIN,auroramedia.me # 机器人
+    # Onyra
+  - DOMAIN,bps8m.onyra.cc # CF线路
     # CC公益
   - DOMAIN,cc.embycc.link # CF线路
     # 稳健
