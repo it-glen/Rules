@@ -26,6 +26,8 @@ payload:
   - IP-CIDR,64.181.251.115/32,no-resolve # 圣何塞
   - DOMAIN,daigua.j8.work # Kurun
   - IP-CIDR,154.23.248.10/32,no-resolve # 洛杉矶
+  - DOMAIN,mzlpin.1024.one # HK
+  - IP-CIDR,46.203.222.40/32,no-resolve
     # Nanflix-US
   - DOMAIN,us.nanflix.net # Nanflix-US
   - IP-CIDR,152.53.54.201/32,no-resolve
