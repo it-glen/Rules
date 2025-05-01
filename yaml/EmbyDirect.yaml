@@ -62,6 +62,7 @@ payload:
   - IP-CIDR,100.42.230.169/32,no-resolve # 推流 美国
     # 入机
   - DOMAIN-SUFFIX,xytx.dpdns.org # CF
+  - DOMAIN,embycf.rjemby.com # CF
     # 惊蛰
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
