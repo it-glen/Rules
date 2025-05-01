@@ -45,7 +45,7 @@ payload:
   - DOMAIN,jsq.mooguu.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
     # SaturDay.Lite
-  - DOMAIN,lite.saturday.video # SaturDay.Lite
+  - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
   - IP-CIDR,221.228.32.13/32,no-resolve # 江苏电信
   # CineTrail
