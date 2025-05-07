@@ -17,6 +17,8 @@ payload:
     # Peach
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
+  - DOMAIN,play.embymv.link # 推流 线路二 美国
+  - IP-CIDR,152.53.81.68/32,no-resolve
     # 冰镇西瓜
   - DOMAIN-SUFFIX,1024.name # 冰镇西瓜 海外线路
   - IP-CIDR,148.135.124.92/32,no-resolve # 洛杉矶
