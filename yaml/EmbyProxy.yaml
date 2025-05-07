@@ -14,7 +14,8 @@ payload:
   - DOMAIN,emby.cn2gias.uk # 美国
   - IP-CIDR,38.129.137.62/32,no-resolve
     # Peach
-  - DOMAIN,play.embymv.link # 推流 线路二 CF
+  # - DOMAIN,play.embymv.link # 推流 线路二 美国
+  # - IP-CIDR,152.53.81.68/32,no-resolve
     # ntRRR
   - DOMAIN,stream.ntrrr.top # CF线路
     # Misty/魔仙堡
