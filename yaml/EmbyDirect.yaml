@@ -65,6 +65,9 @@ payload:
     # 入机
   - DOMAIN-SUFFIX,xytx.dpdns.org # CF
   - DOMAIN,embycf.rjemby.com # CF
+    # 飞了个喵
+  - DOMAIN,gy.meowfly.de # 飞了个喵
+  - IP-CIDR,152.53.164.63/32,no-resolve
     # 惊蛰
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
