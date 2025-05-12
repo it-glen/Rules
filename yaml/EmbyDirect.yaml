@@ -63,8 +63,11 @@ payload:
   - DOMAIN,dfgsd.a.emby.my # 推流
   - IP-CIDR,100.42.230.169/32,no-resolve # 推流 美国
     # 入机
-  - DOMAIN-SUFFIX,xytx.dpdns.org # CF
+  # - DOMAIN-SUFFIX,xytx.dpdns.org # CF
   - DOMAIN,embycf.rjemby.com # CF
+  - DOMAIN,hkdg.998903.xyz # 香港谷歌
+  - DOMAIN,embyhk.rjemby.com # 香港
+  - DOMAIN,embylu.rjemby.com # 卢森堡
     # 飞了个喵
   - DOMAIN,gy.meowfly.de # 飞了个喵
   - IP-CIDR,152.53.164.63/32,no-resolve
