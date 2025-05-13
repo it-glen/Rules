@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,download.nvidia.com #nvidia驱动下载
   - DOMAIN-SUFFIX,gamer520.com #switch520
   - DOMAIN-SUFFIX,releases.ubuntu.com #Ubuntu镜像下载
+  - DOMAIN,download-cdn.jetbrains.com # Jetbrains下载
     # 机场直连
   - DOMAIN-SUFFIX,niceduck.io #好鸭
   - DOMAIN-SUFFIX,sub.godya.cc
