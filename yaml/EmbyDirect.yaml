@@ -62,11 +62,6 @@ payload:
   - DOMAIN-SUFFIX,emby.my 
   - DOMAIN-SUFFIX,637567.xyz # 推流
   - IP-CIDR,111.229.46.243/32,no-resolve # 推流
-    # 入机
-  # - DOMAIN,embycf.rjemby.com # CF
-  # - DOMAIN,hkdg.998903.xyz # 香港谷歌
-  # - DOMAIN,embyhk.rjemby.com # 香港
-  # - DOMAIN,embylu.rjemby.com # 卢森堡
     # 飞了个喵
   - DOMAIN,gy.meowfly.de # 飞了个喵
   - IP-CIDR,152.53.164.63/32,no-resolve
@@ -92,7 +87,7 @@ payload:
     # Aladdin
   - DOMAIN,vip3.jellyfin.asia # 水母
   - IP-CIDR,220.135.49.134/32,no-resolve
-  - DOMAIN,my.embylife.xyz # 神灯 CF
+  - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
     # 好鸭
   # - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
   # - DOMAIN-SUFFIX,xxlb.net #垃圾x好鸭 推流
