@@ -69,8 +69,9 @@ payload:
   - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
   - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
   - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
-    # Paul短剧 追光影视
-  - DOMAIN-SUFFIX,sgsd.xyz # CF线路
+    # Paul
+  - DOMAIN-SUFFIX,imetyou.top
+  - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
     # TreeDiagram
   - DOMAIN,789.123456.al # CF线路
     # 牢大科蜜直升机餐厅
