@@ -32,9 +32,9 @@ payload:
   # - DOMAIN,a.emby.my # CF
   # - DOMAIN,b.emby.my # CF
     # 入机
-  - DOMAIN,embycf.rjemby.com # CF
-  - DOMAIN,hkdg.998903.xyz # 香港谷歌
-  - DOMAIN,embyhk.rjemby.com # 香港
+  - DOMAIN,rjcf.rjf37.com # CF
+  - DOMAIN,rjhkgcp.rjf37.com # 香港谷歌
+  - DOMAIN,rjhk.rjf37.com # 香港
     # Onyra
   - DOMAIN,bps8m.onyra.cc # CF线路
     # 云梯
