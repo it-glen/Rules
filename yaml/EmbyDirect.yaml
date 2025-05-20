@@ -94,8 +94,8 @@ payload:
   - IP-CIDR,220.135.49.134/32,no-resolve
   - DOMAIN,my.embylife.xyz # 神灯 CF
     # 好鸭
-  - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
-  - DOMAIN-SUFFIX,xxlb.net #垃圾x好鸭 推流
+  # - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
+  # - DOMAIN-SUFFIX,xxlb.net #垃圾x好鸭 推流
   # - IP-CIDR,38.58.178.173/32,no-resolve
   # - IP-CIDR,54.36.169.14/32,no-resolve
   # - DOMAIN,dpx1.niceduck.lol # 地平线x好鸭 直连1
