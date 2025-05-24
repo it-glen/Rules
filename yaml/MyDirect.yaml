@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,missuo.ru
     # Gofile网盘
   - DOMAIN-SUFFIX,gofile.io
+    # Flexcil
+  - DOMAIN-SUFFIX,flexcil.com
     # Github镜像
   - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,ghp.ci
