@@ -28,6 +28,17 @@ payload:
     # Aurora
   - DOMAIN,ad.auroramedia.vip # Aurora CF
   - DOMAIN,auroramedia.me # 机器人
+  # CineTrail
+  - DOMAIN,emby1.123456789.lol
+  - IP-CIDR,46.38.242.147/32,no-resolve # 德国
+  - DOMAIN,emby2.9900990.buzz
+    # 冰镇西瓜
+  - DOMAIN,rn.chilledmelon.com
+  - IP-CIDR,148.135.124.92/32,no-resolve # 洛杉矶
+  - DOMAIN,seoul.chilledmelon.com
+  - IP-CIDR,146.56.175.89/32,no-resolve # 首尔
+  - DOMAIN,sjc.chilledmelon.com
+  - IP-CIDR,64.181.251.115/32,no-resolve # 圣何塞
     # 月饼
   # - DOMAIN,a.emby.my # CF
   # - DOMAIN,b.emby.my # CF
