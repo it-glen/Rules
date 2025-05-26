@@ -20,16 +20,13 @@ payload:
   - DOMAIN,play.embymv.link # 推流 线路二 美国
   - IP-CIDR,152.53.81.68/32,no-resolve
     # 冰镇西瓜
-  - DOMAIN-SUFFIX,1024.name # 冰镇西瓜 海外线路
-  - IP-CIDR,148.135.124.92/32,no-resolve # 洛杉矶
-  - DOMAIN,seoul.1024.name
-  - IP-CIDR,146.56.175.89/32,no-resolve # 首尔
-  - DOMAIN,sjc.1024.name
-  - IP-CIDR,64.181.251.115/32,no-resolve # 圣何塞
-  - DOMAIN,daigua.j8.work # Kurun
-  - IP-CIDR,154.23.248.10/32,no-resolve # 洛杉矶
-  - DOMAIN,mzlpin.1024.one # HK
-  - IP-CIDR,46.203.222.40/32,no-resolve
+  - DOMAIN-SUFFIX,chilledmelon.com # 冰镇西瓜
+  - DOMAIN,cloudf.chilledmelon.com # CF
+  - DOMAIN,daigua.chilledmelon.com
+  - DOMAIN,mzlpin.chilledmelon.com
+  - IP-CIDR,89.251.26.153/32,no-resolve # 香港国际
+  - DOMAIN,mr.chilledmelon.com
+  - IP-CIDR,84.54.2.59/32,no-resolve # 香港
     # Nanflix-US
   - DOMAIN,us.nanflix.net # Nanflix-US
   - IP-CIDR,152.53.54.201/32,no-resolve
@@ -50,9 +47,6 @@ payload:
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
   - IP-CIDR,221.228.32.13/32,no-resolve # 江苏电信
-  # CineTrail
-  - DOMAIN,emby1.123456789.lol
-  - IP-CIDR,46.38.242.147/32,no-resolve # 德国
     # CC公益
   - DOMAIN,cc.coemn.com # 主域名
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
