@@ -74,6 +74,7 @@ payload:
   - DOMAIN,vip3.jellyfin.asia # 水母
   - IP-CIDR,220.135.49.134/32,no-resolve
   - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
+  - DOMAIN,myzox.embylife.xyz # Zox CF
     # 终点站
   - DOMAIN,pub1.emby.wtf # 大妹
   - DOMAIN,pub2.emby.wtf # 二妹
