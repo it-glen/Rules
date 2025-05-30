@@ -11,16 +11,12 @@ payload:
     # 纸片人
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
-    # 垃圾影视
+    # Aladdin
+  - DOMAIN,vip3.jellyfin.asia # 水母
+  - IP-CIDR,220.135.49.134/32,no-resolve
+  - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
+  - DOMAIN,myzox.embylife.xyz # Zox CF
   # - DOMAIN,ald.emby.moe # 阿拉丁 垃圾
-    # Peach
-  - DOMAIN,embymv.link # Peach
-  - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
-  - DOMAIN,play.embymv.link # 推流 线路二 美国
-  - IP-CIDR,152.53.81.68/32,no-resolve
-    # Nanflix-US
-  - DOMAIN,us.nanflix.net # Nanflix-US
-  - IP-CIDR,152.53.54.201/32,no-resolve
     # Levilde Luminia
   - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
   - IP-CIDR,188.253.112.89/32,no-resolve
@@ -28,6 +24,11 @@ payload:
   - DOMAIN-SUFFIX,892818.xyz
   - DOMAIN-SUFFIX,myhxgzw.fun
   - DOMAIN-SUFFIX,010004.xyz
+    # Peach
+  - DOMAIN,embymv.link # Peach
+  - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
+  - DOMAIN,play.embymv.link # 推流 线路二 美国
+  - IP-CIDR,152.53.81.68/32,no-resolve
     # 起点站
   - DOMAIN,qdz-de.vfing.de # 德国
   - DOMAIN,cdn.qzuie.top # cdn
@@ -55,6 +56,9 @@ payload:
     # 惊蛰
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
+    # Nanflix-US
+  - DOMAIN,us.nanflix.net # Nanflix-US
+  - IP-CIDR,152.53.54.201/32,no-resolve
     # NyaMedia
   - DOMAIN,emby.bangumi.ca # CF线路
     # 墨云阁
@@ -71,11 +75,6 @@ payload:
   - IP-CIDR,147.78.247.80/32,no-resolve
   - DOMAIN,hka-emby2.aliz.work # Hka2
   - IP-CIDR,152.70.36.195/32,no-resolve
-    # Aladdin
-  - DOMAIN,vip3.jellyfin.asia # 水母
-  - IP-CIDR,220.135.49.134/32,no-resolve
-  - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
-  - DOMAIN,myzox.embylife.xyz # Zox CF
     # 终点站
   - DOMAIN,pub1.emby.wtf # 大妹
   - DOMAIN,pub2.emby.wtf # 二妹
