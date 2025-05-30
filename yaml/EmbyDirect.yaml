@@ -12,9 +12,7 @@ payload:
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # 垃圾影视
-  - DOMAIN,ald.emby.moe # 阿拉丁 垃圾
-  - DOMAIN-SUFFIX,emby.moe #垃圾 推流
-  - DOMAIN-SUFFIX,xxlb.net #垃圾 推流
+  # - DOMAIN,ald.emby.moe # 阿拉丁 垃圾
     # Peach
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
