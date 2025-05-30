@@ -3,6 +3,6 @@ payload:
   - DOMAIN,dpxcf.niceduck.lol #地平线 x 好鸭 CF
   - DOMAIN,jcf.niceduck.lol #卷毛鼠 x 好鸭 CF
   - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭 CF
-  - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
-  - DOMAIN-SUFFIX,xxlb.net #垃圾x好鸭 推流
+  # - DOMAIN-SUFFIX,emby.moe #垃圾x好鸭 推流
+  # - DOMAIN-SUFFIX,xxlb.net #垃圾x好鸭 推流
 
