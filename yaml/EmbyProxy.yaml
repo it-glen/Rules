@@ -10,14 +10,11 @@ payload:
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
-    # 守候影院
-  - DOMAIN,emby.cn2gias.uk # 美国
-  - IP-CIDR,38.129.137.62/32,no-resolve
     # Peach
   # - DOMAIN,play.embymv.link # 推流 线路二 美国
   # - IP-CIDR,152.53.81.68/32,no-resolve
     # ntRRR
-  - DOMAIN,stream.ntrrr.top # CF线路
+  # - DOMAIN,stream.ntrrr.top # CF线路
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
@@ -46,6 +43,10 @@ payload:
   - IP-CIDR,89.251.26.153/32,no-resolve # 香港国际
   - DOMAIN,mr.chilledmelon.com
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
+    # CC公益
+  - DOMAIN,cc.embycc.link # CF线路
+    # 稳健
+  - DOMAIN,emby.wenjian.de # 稳健 CF
     # 月饼
   # - DOMAIN,a.emby.my # CF
   # - DOMAIN,b.emby.my # CF
@@ -53,25 +54,6 @@ payload:
   - DOMAIN,rjcf.rjf37.com # CF
   - DOMAIN,rjhkgcp.rjf37.com # 香港谷歌
   - DOMAIN,rjhk.rjf37.com # 香港
-    # Onyra
-  - DOMAIN,bps8m.onyra.cc # CF线路
-    # 云梯
-  - DOMAIN,emby.yunti.online # CF线路
-    # CC公益
-  - DOMAIN,cc.embycc.link # CF线路
-    # 稳健
-  - DOMAIN,emby.wenjian.de # 稳健 CF
-    # 卡戎
-  - DOMAIN,play.charontv.com # CF线路，禁止直连
-    # 探花TV
-  - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF线路
-    # 飞跃银河
-  - DOMAIN,yhemby.top # 飞跃银河
-  - IP-CIDR,193.123.242.179/32,no-resolve
-    # 卷毛鼠
-  - DOMAIN,mini.jmsuper.com # 1服 CF线路
-  - DOMAIN,nano.jmsuper.com # 2服 CF线路
-  - DOMAIN,cf2.jmsuper.com # 2服 CF线路
     # 起点站
   - DOMAIN,favoritewife.com # 主线路 芬兰
   - IP-CIDR,135.181.134.46/32,no-resolve
@@ -81,19 +63,29 @@ payload:
   - IP-CIDR,185.241.40.123/32,no-resolve
   - DOMAIN,qdz-hk-1.vfing.de # 香港2
   - IP-CIDR,103.110.80.156/32,no-resolve
-    # 青梅映画
-  - DOMAIN,qingmei.chuncheon241.top # 主线路
-    # 终点站
-  - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
-  - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
-  - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
     # Paul
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
     # TreeDiagram
   - DOMAIN,789.123456.al # CF线路
+    # 卡戎
+  - DOMAIN,play.charontv.com # CF线路，禁止直连
+    # 卷毛鼠
+  - DOMAIN,mini.jmsuper.com # 1服 CF线路
+  - DOMAIN,nano.jmsuper.com # 2服 CF线路
+    # 飞跃银河
+  - DOMAIN,yhemby.top # 飞跃银河
+  - IP-CIDR,193.123.242.179/32,no-resolve
     # 牢大科蜜直升机餐厅
   - DOMAIN-SUFFIX,bilibilili.uk
+      # 终点站
+  - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
+  - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
+  - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
+    # 探花TV
+  - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF线路
+    # 青梅映画
+  - DOMAIN,qingmei.chuncheon241.top # 主线路
 
   # 电子书
     # libhsulife
