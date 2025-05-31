@@ -87,6 +87,11 @@ payload:
     # 青梅映画
   - DOMAIN,qingmei.chuncheon241.top # 主线路
 
+  # 音乐服
+    # 南瓜
+  - DOMAIN,vip.nangua.de # 南瓜 CF
+  
   # 电子书
     # libhsulife
   - DOMAIN-SUFFIX,hsu.life # CF
+  
