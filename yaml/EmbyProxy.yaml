@@ -39,14 +39,12 @@ payload:
   # - DOMAIN,a.emby.my # CF
   # - DOMAIN,b.emby.my # CF
     # 入机
-  - DOMAIN,rjcf.rjf37.com # CF
-  - DOMAIN,rjhkgcp.rjf37.com # 香港谷歌
-  - DOMAIN,rjhk.rjf37.com # 香港
+  - DOMAIN-SUFFIX,rjf37.com
+  - DOMAIN-SUFFIX,xytx.org
+  - DOMAIN-SUFFIX,010004.xyz
     # 起点站
   - DOMAIN,favoritewife.com # 主线路 芬兰
   - IP-CIDR,135.181.134.46/32,no-resolve
-  # - DOMAIN,qdz-de.vfing.de # 德国
-  # - IP-CIDR,193.160.221.160/32,no-resolve
   - DOMAIN,qdz-hk-0.vfing.de # 香港1
   - IP-CIDR,185.241.40.123/32,no-resolve
   - DOMAIN,qdz-hk-1.vfing.de # 香港2
