@@ -31,6 +31,8 @@ payload:
   - DOMAIN,emby2.9900990.buzz
     # CC公益
   - DOMAIN,cc.embycc.link # CF线路
+    # 临境
+  - DOMAIN,emby.liminalnet.com # 临境 CF
     # 稳健
   - DOMAIN,emby.wenjian.de # 稳健 CF
   - DOMAIN,nc-list.wenjian.de
