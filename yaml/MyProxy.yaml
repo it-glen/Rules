@@ -35,6 +35,7 @@ payload:
     # 弹弹Play
   - DOMAIN-SUFFIX,dandanplay.net
     # 漏网之鱼
+  - DOMAIN-SUFFIX,trakt.tv # trakt
   - DOMAIN-SUFFIX,revved.com
   - DOMAIN-SUFFIX,misakaf.org # misakaf
   - DOMAIN-SUFFIX,time.is # 中国时间
