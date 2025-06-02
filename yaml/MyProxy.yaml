@@ -26,6 +26,9 @@ payload:
     # 规则网址
   - DOMAIN-SUFFIX,adrules.top # AdRules
   - DOMAIN-SUFFIX,neodev.team # neodevhost
+    # 机场订阅
+  - DOMAIN-SUFFIX,372372.xyz #特价
+  - DOMAIN-SUFFIX,cjcloud.cc
     # DNS泄露
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,ip125.com
