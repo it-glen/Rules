@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,p3terx.com
   # - DOMAIN-SUFFIX,2019279.xyz
     # 软件源
-  - DOMAIN-SUFFIX,openwrt.ai
+  # - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,mirrors.vsean.net
   - DOMAIN-SUFFIX,openwrt.888913.gq
     # 油猴插件
