@@ -16,6 +16,7 @@ payload:
   - IP-CIDR,220.135.49.134/32,no-resolve
   - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
   - DOMAIN,myzox.embylife.xyz # Zox CF
+  - DOMAIN,myjellyfin.embylife.xyz # 水母 CF
   # - DOMAIN,ald.emby.moe # 阿拉丁 垃圾
     # Levilde Luminia
   - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
