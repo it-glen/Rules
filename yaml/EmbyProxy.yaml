@@ -10,6 +10,8 @@ payload:
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
+    # 飞跃地平线
+  - DOMAIN,emby.69yun69.com # 69云地平线
     # Peach
   # - DOMAIN,play.embymv.link # 推流 线路二 美国
   # - IP-CIDR,152.53.81.68/32,no-resolve
