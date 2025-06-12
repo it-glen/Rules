@@ -37,7 +37,7 @@ payload:
   - DOMAIN,qdz-de-rs.vfing.de # 电信秒播
   - DOMAIN-SUFFIX,28.al # 联通中转
     # 见手青
-  - DOMAIN,jsq.mooguu.xyz # 见手青
+  - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
     # SaturDay.Lite
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
