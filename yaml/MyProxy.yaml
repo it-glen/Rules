@@ -40,6 +40,8 @@ payload:
   - DOMAIN-SUFFIX,revved.com
   - DOMAIN-SUFFIX,misakaf.org # misakaf
   - DOMAIN-SUFFIX,time.is # 中国时间
+  - DOMAIN-SUFFIX,it-tools.tech
+  - IP-CIDR,76.76.21.21/32,no-resolve # 泛播 Vercel
   - DOMAIN-SUFFIX,tgx.rs # TorentGalaxy
   - DOMAIN-SUFFIX,te.sb # dashboard
   - DOMAIN-SUFFIX,liadm.com # Liveintent
