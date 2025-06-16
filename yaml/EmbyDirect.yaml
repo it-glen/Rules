@@ -11,6 +11,10 @@ payload:
     # 纸片人
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
+    # SYN ntRRR
+  - DOMAIN,clip.makima.online # 国内线路
+  - DOMAIN-SUFFIX,jiashule.com # 国内推流
+  - DOMAIN,stream.synn.cc # 国际线路
     # Aladdin
   - DOMAIN,vip3.jellyfin.asia # 水母
   - IP-CIDR,220.135.49.134/32,no-resolve
