@@ -1,8 +1,6 @@
 payload:
     # 机场
   # - DOMAIN-SUFFIX,niceduck.cc #好鸭
-  - DOMAIN,maikuaiyun.com #麦块
-  - DOMAIN,maikcloud.net
   - DOMAIN,portal.karleynetwork.xyz #卡荔
   - DOMAIN,sfcloud.dev #SFC
   - DOMAIN,eggtart.cloud #蛋挞
