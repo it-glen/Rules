@@ -43,7 +43,6 @@ payload:
   - DOMAIN-SUFFIX,niceduck.cloud
   - DOMAIN-SUFFIX,subsub123456789.com #便宜机场
   - DOMAIN,new.karleynetwork.xyz #Karley
-  - DOMAIN,watashi.synn.moe # SYN
     # 节点 
   - DOMAIN-SUFFIX,niceduck.me
     # 小说
