@@ -29,6 +29,8 @@ payload:
     # 机场订阅
   - DOMAIN-SUFFIX,372372.xyz #特价
   - DOMAIN-SUFFIX,cjcloud.cc
+  - DOMAIN,watashi.synn.moe # SYN
+  - DOMAIN,acl.syyn.pw # SYN订阅
     # DNS泄露
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,ip125.com
