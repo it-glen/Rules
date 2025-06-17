@@ -17,6 +17,9 @@ payload:
   # - IP-CIDR,152.53.81.68/32,no-resolve
     # ntRRR
   # - DOMAIN,stream.ntrrr.top # CF线路
+    # 起点站
+  - DOMAIN,free.28.al # CF线路
+  - DOMAIN-SUFFIX,28.al
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
