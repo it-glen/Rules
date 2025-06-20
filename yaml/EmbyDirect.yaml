@@ -35,6 +35,9 @@ payload:
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
   - DOMAIN,play.embymv.link # 推流 线路二 美国
   - IP-CIDR,152.53.81.68/32,no-resolve
+    # 起点站
+  - DOMAIN,free.28.al # CF线路
+  - DOMAIN-SUFFIX,28.al
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
