@@ -11,7 +11,8 @@ payload:
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
     # 69云地平线
-  - DOMAIN,emby.69yun69.com # 69云地平线
+  - DOMAIN,emby1.69yun69.com # 69云地平线
+  - DOMAIN-SUFFIX,69yun69.com
     # 好鸭
   - DOMAIN,jcf.niceduck.lol #卷毛鼠 x 好鸭 CF
   - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭 CF
