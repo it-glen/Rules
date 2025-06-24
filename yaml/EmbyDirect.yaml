@@ -35,6 +35,9 @@ payload:
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
   - DOMAIN,play.embymv.link # 推流 线路二 美国
   - IP-CIDR,152.53.81.68/32,no-resolve
+    # 起点站
+  - DOMAIN,free.28.al # CF线路
+  - DOMAIN-SUFFIX,28.al
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
@@ -60,11 +63,19 @@ payload:
   - IP-CIDR,89.251.26.153/32,no-resolve # 香港国际
   - DOMAIN,mr.chilledmelon.com
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
+    # 稳健
+  - DOMAIN,emby.wenjian.de # 稳健 CF
+  - DOMAIN,nc-list.wenjian.de
+  - DOMAIN,18nsqx-my.sharepoint.com # 推流
     # 月饼
   - DOMAIN,a.emby.my # 直连
   - DOMAIN-SUFFIX,emby.my 
   - DOMAIN-SUFFIX,637567.xyz # 推流
   - IP-CIDR,111.229.46.243/32,no-resolve # 推流
+    # 入机
+  - DOMAIN-SUFFIX,rjf37.com
+  - DOMAIN-SUFFIX,xytx.org
+  - DOMAIN-SUFFIX,010004.xyz
     # 飞了个喵
   - DOMAIN,gy.meowfly.de # 飞了个喵
   - IP-CIDR,152.53.164.63/32,no-resolve
