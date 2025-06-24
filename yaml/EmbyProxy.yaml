@@ -23,9 +23,6 @@ payload:
     # Peach
   # - DOMAIN,play.embymv.link # 推流 线路二 美国
   # - IP-CIDR,152.53.81.68/32,no-resolve
-    # 起点站
-  - DOMAIN,free.28.al # CF线路
-  - DOMAIN-SUFFIX,28.al
     # ntRRR
   # - DOMAIN,stream.ntrrr.top # CF线路
     # Misty/魔仙堡
@@ -53,10 +50,6 @@ payload:
     # 月饼
   # - DOMAIN,a.emby.my # CF
   # - DOMAIN,b.emby.my # CF
-    # 入机
-  - DOMAIN-SUFFIX,rjf37.com
-  - DOMAIN-SUFFIX,xytx.org
-  - DOMAIN-SUFFIX,010004.xyz
     # 起点站
   - DOMAIN,favoritewife.com # 主线路 芬兰
   - IP-CIDR,135.181.134.46/32,no-resolve
