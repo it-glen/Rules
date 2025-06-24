@@ -43,10 +43,6 @@ payload:
   - DOMAIN,cc.embycc.link # CF线路
     # 临境
   - DOMAIN,emby.liminalnet.com # 临境 CF
-    # 稳健
-  - DOMAIN,emby.wenjian.de # 稳健 CF
-  - DOMAIN,nc-list.wenjian.de
-  - DOMAIN,18nsqx-my.sharepoint.com # 推流
     # 月饼
   # - DOMAIN,a.emby.my # CF
   # - DOMAIN,b.emby.my # CF
