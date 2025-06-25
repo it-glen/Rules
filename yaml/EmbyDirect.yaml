@@ -43,6 +43,8 @@ payload:
   - IP-CIDR,152.53.38.126/32,no-resolve
     # 肥牛
   - DOMAIN,emby.feiniu.lol # 肥牛 CF
+    # MSKY
+  - DOMAIN,cf.5msky.com # MSKY CF
     # SaturDay.Lite
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
