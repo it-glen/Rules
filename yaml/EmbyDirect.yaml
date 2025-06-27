@@ -73,7 +73,7 @@ payload:
   - DOMAIN-SUFFIX,637567.xyz # 推流
   - IP-CIDR,111.229.46.243/32,no-resolve # 推流
     # 入机
-  - DOMAIN-SUFFIX,rjf37.com
+  - DOMAIN,rjhk.rjf37.com
   - DOMAIN-SUFFIX,xytx.org
   - DOMAIN-SUFFIX,010004.xyz
     # 飞了个喵
