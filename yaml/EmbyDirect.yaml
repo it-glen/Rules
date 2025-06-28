@@ -41,6 +41,8 @@ payload:
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
+    # 土匪
+  - DOMAIN-SUFFIX,tufei.de # 土匪 CF
     # 肥牛
   - DOMAIN,emby.feiniu.lol # 肥牛 CF
     # MSKY
