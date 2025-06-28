@@ -49,8 +49,6 @@ payload:
   - DOMAIN,18nsqx-my.sharepoint.com # 推流
     # 入机
   - DOMAIN,rjcf.rjf37.com # 入机 CF
-    # 土匪
-  - DOMAIN,tufei.de # 土匪 CF
     # 临境
   - DOMAIN,emby.liminalnet.com # 临境 CF
     # 月饼
