@@ -14,7 +14,7 @@ payload:
     # SYN ntRRR
   - DOMAIN,clip.makima.online # 国内线路
   - DOMAIN-SUFFIX,jiashule.com # 国内推流
-  - DOMAIN,stream.synn.cc # 国际线路
+  # - DOMAIN,stream.synn.cc # 国际线路
     # Aladdin
   - DOMAIN,vip3.jellyfin.asia # 水母
   - IP-CIDR,220.135.49.134/32,no-resolve
