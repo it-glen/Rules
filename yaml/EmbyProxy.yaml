@@ -14,7 +14,7 @@ payload:
   - DOMAIN,emby1.69yun69.com # 69云地平线
   - DOMAIN-SUFFIX,69yun69.com
     # SYN ntRRR
-  # - DOMAIN,stream.synn.cc # 国际线路
+  - DOMAIN,stream.synn.cc # 国际线路
     # 好鸭
   - DOMAIN,jcf.niceduck.lol #卷毛鼠 x 好鸭 CF
   - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭 CF
