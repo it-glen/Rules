@@ -16,13 +16,13 @@ payload:
   - DOMAIN-SUFFIX,jiashule.com # 国内推流
   # - DOMAIN,stream.synn.cc # 国际线路
     # Aladdin
-  - DOMAIN,vip3.jellyfin.asia # 水母
-  - IP-CIDR,220.135.49.134/32,no-resolve
   - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
+  # - DOMAIN,ald.emby.moe # 1111 CF
   - DOMAIN,myzox.embylife.xyz # Zox CF
   - DOMAIN,myjellyfin.embylife.xyz # 水母 CF
   - DOMAIN-SUFFIX,jellyfin.asia # 水母 推流
-  # - DOMAIN,ald.emby.moe # 阿拉丁 垃圾
+  - DOMAIN,s.outong-valve.com # 云上 直连
+  - DOMAIN,my.liminalnet.site # 临境 CF
     # Levilde Luminia
   - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
   - IP-CIDR,188.253.112.89/32,no-resolve
