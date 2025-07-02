@@ -19,9 +19,10 @@ payload:
   - DOMAIN,jcf.niceduck.lol #卷毛鼠 x 好鸭 CF
   - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭 CF
     # 阿拉丁
-  - DOMAIN,ald.emby.moe #垃圾 x 阿拉丁
-  - DOMAIN-SUFFIX,emby.moe #垃圾  推流
-  - DOMAIN-SUFFIX,xxlb.net #垃圾  推流
+  - DOMAIN,my.liminalnet.site # 临境 CF
+  - DOMAIN,ald.emby.moe # 1111 x 阿拉丁
+  - DOMAIN-SUFFIX,emby.moe # 1111 推流
+  - DOMAIN-SUFFIX,xxlb.net # 1111 推流
     # Peach
   # - DOMAIN,play.embymv.link # 推流 线路二 美国
   # - IP-CIDR,152.53.81.68/32,no-resolve
