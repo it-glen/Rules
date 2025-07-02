@@ -22,7 +22,7 @@ payload:
   - DOMAIN,myjellyfin.embylife.xyz # 水母 CF
   - DOMAIN-SUFFIX,jellyfin.asia # 水母 推流
   - DOMAIN,s.outong-valve.com # 云上 直连
-  - DOMAIN,my.liminalnet.site # 临境 CF
+  # - DOMAIN,my.liminalnet.site # 临境 CF
     # Levilde Luminia
   - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
   - IP-CIDR,188.253.112.89/32,no-resolve
