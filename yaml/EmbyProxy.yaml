@@ -10,9 +10,6 @@ payload:
     # 二刺螈
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
-    # 69云地平线
-  - DOMAIN,emby1.69yun69.com # 69云地平线
-  - DOMAIN-SUFFIX,69yun69.com
     # SYN ntRRR
   - DOMAIN,stream.synn.cc # 国际线路
     # 好鸭
