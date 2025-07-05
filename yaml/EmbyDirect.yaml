@@ -43,6 +43,7 @@ payload:
   - IP-CIDR,152.53.38.126/32,no-resolve
     # 土匪
   - DOMAIN-SUFFIX,tufei.de # 土匪 CF
+  - DOMAIN-SUFFIX,qiandu.de # 土匪
     # 肥牛
   - DOMAIN,emby.feiniu.lol # 肥牛 CF
     # MSKY
