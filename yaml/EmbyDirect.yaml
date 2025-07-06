@@ -70,6 +70,8 @@ payload:
   - IP-CIDR,89.251.26.153/32,no-resolve # 香港国际
   - DOMAIN,mr.chilledmelon.com
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
+    # ZoxFree
+  - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
     # 月饼
   - DOMAIN,a.emby.my # 直连
   - DOMAIN-SUFFIX,emby.my 
