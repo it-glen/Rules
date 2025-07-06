@@ -12,9 +12,6 @@ payload:
   - IP-CIDR,103.177.248.209/32,no-resolve
     # SYN ntRRR
   # - DOMAIN,stream.synn.cc # 国际线路
-    # 好鸭
-  - DOMAIN,jcf.niceduck.lol #卷毛鼠 x 好鸭 CF
-  - DOMAIN,cf.niceduck.lol #垃圾 x 好鸭 CF
     # 阿拉丁
   - DOMAIN,my.liminalnet.site # 临境 CF
   - DOMAIN,ald.emby.moe # 1111 x 阿拉丁
@@ -23,8 +20,6 @@ payload:
     # Peach
   # - DOMAIN,play.embymv.link # 推流 线路二 美国
   # - IP-CIDR,140.238.0.112/32,no-resolve
-    # ntRRR
-  # - DOMAIN,stream.ntrrr.top # CF线路
     # 起点站
   - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
@@ -70,8 +65,8 @@ payload:
     # 卡戎
   - DOMAIN,play.charontv.com # CF线路，禁止直连
     # 卷毛鼠
-  - DOMAIN,mini.jmsuper.com # 1服 CF线路
-  - DOMAIN,nano.jmsuper.com # 2服 CF线路
+  # - DOMAIN,mini.jmsuper.com # 1服 CF线路
+  # - DOMAIN,nano.jmsuper.com # 2服 CF线路
     # 飞跃银河
   - DOMAIN,yhemby.top # 飞跃银河
   - IP-CIDR,193.123.242.179/32,no-resolve
