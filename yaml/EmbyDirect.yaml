@@ -11,6 +11,8 @@ payload:
     # 纸片人
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
+    # 二刺螈
+  - DOMAIN-SUFFIX,cdn.bgp.yt
     # 69云地平线
   - DOMAIN,emby1.69yun69.com # 69云地平线
   - DOMAIN-SUFFIX,69yun69.com
