@@ -132,4 +132,4 @@ payload:
   - DOMAIN,axk.123456.buzz # 飞跃星空
   - IP-CIDR,193.123.227.226/32,no-resolve # 飞跃星空 首尔
   # 网盘
-  - DOMAIN-SUFFIX,drive.quark.cn # 夸克网盘
+  - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
