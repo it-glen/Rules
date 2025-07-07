@@ -12,7 +12,7 @@ payload:
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
     # SYN ntRRR
-  # - DOMAIN,stream.synn.cc # 国际线路
+  - DOMAIN,stream.synn.cc # 国际线路
     # 阿拉丁
   - DOMAIN,my.liminalnet.site # 临境 CF
   - DOMAIN,ald.emby.moe # 1111 x 阿拉丁
