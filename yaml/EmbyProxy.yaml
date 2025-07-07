@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org # 主域名
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
     # 二刺螈
+  - DOMAIN-SUFFIX,nijigem.by
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
     # SYN ntRRR
