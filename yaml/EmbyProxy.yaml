@@ -41,6 +41,7 @@ payload:
     # CC公益
   - DOMAIN,cc.embycc.link # CF线路
   - DOMAIN,lt1.carryz.net # 代理线路 推流
+  - DOMAIN-SUFFIX,carryz.net # 推流域名
     # 稳健
   - DOMAIN,emby.wenjian.de # 稳健 CF
   - DOMAIN,nc-list.wenjian.de
