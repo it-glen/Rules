@@ -78,9 +78,9 @@ payload:
     # 牢大科蜜直升机餐厅
   - DOMAIN-SUFFIX,bilibilili.uk
       # 终点站
-  - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
-  - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
-  - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
+  # - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
+  # - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
+  # - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
     # 游骑兵
   - DOMAIN,emby.heisi.org # 游骑兵 CF线路
     # 探花TV
