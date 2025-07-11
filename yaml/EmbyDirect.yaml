@@ -43,6 +43,9 @@ payload:
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
+    # 起点站
+  - DOMAIN,free.28.al # CF线路
+  - DOMAIN-SUFFIX,28.al
     # 土匪
   - DOMAIN-SUFFIX,tufei.de # 土匪 CF
   - DOMAIN-SUFFIX,qiandu.de # 土匪
