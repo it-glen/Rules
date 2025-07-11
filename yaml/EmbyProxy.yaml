@@ -22,8 +22,8 @@ payload:
   # - DOMAIN,play.embymv.link # 推流 线路二 美国
   # - IP-CIDR,140.238.0.112/32,no-resolve
     # 起点站
-  - DOMAIN,free.28.al # CF线路
-  - DOMAIN-SUFFIX,28.al
+  # - DOMAIN,free.28.al # CF线路
+  # - DOMAIN-SUFFIX,28.al
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
@@ -53,13 +53,6 @@ payload:
     # 月饼
   # - DOMAIN,a.emby.my # CF
   # - DOMAIN,b.emby.my # CF
-    # 起点站
-  - DOMAIN,favoritewife.com # 主线路 芬兰
-  - IP-CIDR,135.181.134.46/32,no-resolve
-  - DOMAIN,qdz-hk-0.vfing.de # 香港1
-  - IP-CIDR,185.241.40.123/32,no-resolve
-  - DOMAIN,qdz-hk-1.vfing.de # 香港2
-  - IP-CIDR,103.110.80.156/32,no-resolve
     # Paul
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
