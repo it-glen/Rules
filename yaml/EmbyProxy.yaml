@@ -42,8 +42,6 @@ payload:
   - DOMAIN,cc.embycc.link # CF线路
   - DOMAIN,lt1.carryz.net # 代理线路 推流
   - DOMAIN-SUFFIX,carryz.net # 推流域名
-    # 叶子
-  - DOMAIN,gm.yezi.my # 叶子网盘 CF
     # 稳健
   - DOMAIN,emby.wenjian.de # 稳健 CF
   - DOMAIN,nc-list.wenjian.de
