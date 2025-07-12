@@ -84,8 +84,14 @@ payload:
   # 音乐服
     # 南瓜
   - DOMAIN,vip.nangua.de # 南瓜 CF
+    # 稳健
+  - DOMAIN,music.wenjian.de # 稳健 CF
   
   # 电子书
     # libhsulife
-  - DOMAIN-SUFFIX,hsu.life # CF
+  - DOMAIN,book.hsu.life # CF 线路
+  - DOMAIN-SUFFIX,hsu.life
+  - DOMAIN,book.wenjian.de # CDN 线路
+  - DOMAIN-SUFFIX,wenjian.de
+  
   
