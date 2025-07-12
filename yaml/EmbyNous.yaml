@@ -3,6 +3,8 @@ payload:
     # 卷毛鼠
   - DOMAIN,mini.jmsuper.com # 1服 CF线路
   - DOMAIN,nano.jmsuper.com # 2服 CF线路
+    # 叶子
+  - DOMAIN,gm.yezi.my # 叶子网盘 CF
     # 终点站
   - DOMAIN,pub1.emby.wtf # 大妹
   - DOMAIN,pub2.emby.wtf # 二妹
