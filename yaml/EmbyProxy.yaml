@@ -48,8 +48,6 @@ payload:
   - DOMAIN,emby.wenjian.de # 稳健 CF
   - DOMAIN,nc-list.wenjian.de
   - DOMAIN,18nsqx-my.sharepoint.com # 推流
-    # 入机
-  - DOMAIN,rjcf.rjf37.com # 入机 CF
     # 临境
   - DOMAIN,emby.liminalnet.com # 临境 CF
     # 月饼
