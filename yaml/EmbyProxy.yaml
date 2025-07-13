@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,nijigem.by
   - DOMAIN,media.nijigem.by # 二刺螈
   - IP-CIDR,103.177.248.209/32,no-resolve
+    # 105
+  - DOMAIN,ciallo.party # 105 CF
     # SYN ntRRR
   - DOMAIN,stream.synn.cc # 国际线路
     # 阿拉丁
