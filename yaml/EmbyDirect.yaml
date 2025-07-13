@@ -13,6 +13,10 @@ payload:
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # 二刺螈
   - DOMAIN-SUFFIX,cdn.bgp.yt
+    # 入境
+  
+  - IP-CIDR,120.53.89.215/32,no-resolve
+  - IP-CIDR,211.159.153.75/32,no-resolve
     # 69云地平线
   - DOMAIN,emby1.69yun69.com # 69云地平线
   - DOMAIN-SUFFIX,69yun69.com
@@ -84,6 +88,7 @@ payload:
   - IP-CIDR,111.229.46.243/32,no-resolve # 推流
     # 入机
   - DOMAIN,rjhk.rjf37.com
+  - DOMAIN-SUFFIX,rjf37.com
   - DOMAIN-SUFFIX,xytx.org
   - DOMAIN-SUFFIX,010004.xyz
     # 飞了个喵
