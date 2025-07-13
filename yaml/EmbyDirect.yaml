@@ -79,6 +79,9 @@ payload:
   - IP-CIDR,89.251.26.153/32,no-resolve # 香港国际
   - DOMAIN,mr.chilledmelon.com
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
+    # 疯狂星期四
+  - DOMAIN,kfc.v50.su # 疯狂星期四
+  - IP-CIDR,144.24.39.236/32,no-resolve # 美国
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
     # 月饼
@@ -139,5 +142,10 @@ payload:
   - IP-CIDR,141.147.186.142/32,no-resolve # 飞跃星空 东京
   - DOMAIN,axk.123456.buzz # 飞跃星空
   - IP-CIDR,193.123.227.226/32,no-resolve # 飞跃星空 首尔
+    # 高清剧集
+  - DOMAIN,qqpyf.top
+  - IP-CIDR,107.174.52.91/32,no-resolve # 美国
   # 网盘
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
+  - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
+  
