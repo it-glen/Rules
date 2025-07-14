@@ -14,7 +14,6 @@ payload:
     # 二刺螈
   - DOMAIN-SUFFIX,cdn.bgp.yt
     # 入境
-  
   - IP-CIDR,120.53.89.215/32,no-resolve
   - IP-CIDR,211.159.153.75/32,no-resolve
     # 69云地平线
@@ -134,6 +133,8 @@ payload:
   - IP-CIDR,144.24.68.241/32,no-resolve
   - IP-CIDR,144.24.66.244/32,no-resolve
   - IP-CIDR,158.180.81.196/32,no-resolve
+    # 游骑兵
+  - DOMAIN,emby.heisi.org # 游骑兵 CF线路
   # 音乐服
     # 未响
   - DOMAIN,music.mefun.org # 未响 CF
