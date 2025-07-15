@@ -7,6 +7,8 @@ payload:
     # OneDrive网盘下载
   - DOMAIN-SUFFIX,kaifa520.sharepoint.com
   - DOMAIN-SUFFIX,sharepoint.com
+    # 流量消耗器
+  - DOMAIN-SUFFIX,jiyou.cloud
     # 测速网站
   - DOMAIN-SUFFIX,cachefly.net
   - DOMAIN-SUFFIX,speed.io
