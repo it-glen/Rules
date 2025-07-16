@@ -44,6 +44,9 @@ payload:
   - DOMAIN,cc.embycc.link # CF线路
   - DOMAIN,lt1.carryz.net # 代理线路 推流
   - DOMAIN-SUFFIX,carryz.net # 推流域名
+    # 疯狂星期四
+  - DOMAIN,kfc.v50.su # 疯狂星期四
+  - IP-CIDR,144.24.39.236/32,no-resolve # 美国
     # 叶子
   - DOMAIN,gm.yezi.my # 叶子网盘 CF
     # 稳健
