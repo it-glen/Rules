@@ -1,9 +1,9 @@
 payload:
   # 影视服 代理
     # PiliPili
-  - DOMAIN,emby-direct.pilipiliultra.com # 主线路
+  # - DOMAIN,emby-direct.pilipiliultra.com # 主线路
   - DOMAIN,emby.pilipiliultra.com # CF线路
-  # - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
+  - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
     # 纸片人
   - DOMAIN-SUFFIX,embyplus.org # 主域名
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
