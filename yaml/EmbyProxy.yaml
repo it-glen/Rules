@@ -25,7 +25,7 @@ payload:
   # - IP-CIDR,140.238.0.112/32,no-resolve
     # 起点站
   # - DOMAIN,free.28.al # CF线路
-  # - DOMAIN-SUFFIX,28.al
+  - DOMAIN-SUFFIX,28.al
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - DOMAIN,emby.kim # 魔仙堡
