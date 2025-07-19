@@ -101,6 +101,11 @@ payload:
   - IP-CIDR,152.53.54.201/32,no-resolve
     # NyaMedia
   - DOMAIN,emby.bangumi.ca # CF线路
+    # STAR
+  - DOMAIN,c1.staryuki.me
+  - DOMAIN,c2.staryuki.me
+  - DOMAIN,us3.staryuki.me
+  - DOMAIN,us4.staryuki.me
     # 墨云阁
   - DOMAIN,2pfdml.mobaiemby.site # 美国
   - IP-CIDR,152.53.38.126/32,no-resolve
