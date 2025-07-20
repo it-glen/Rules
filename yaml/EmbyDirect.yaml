@@ -98,6 +98,11 @@ payload:
     # 惊蛰
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
+    # 疯狂星期四
+  - DOMAIN,kfc.v50.su # 直连
+  - IP-CIDR,144.24.39.236/32,no-resolve # 美国
+  - DOMAIN,cloudflare.v50.su # CF
+  - DOMAIN,cdn.v50.su # CDN
     # Nanflix-US
   - DOMAIN,us.nanflix.net # Nanflix-US
   - IP-CIDR,152.53.54.201/32,no-resolve
