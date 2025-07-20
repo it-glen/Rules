@@ -73,9 +73,16 @@ payload:
     # 牢大科蜜直升机餐厅
   - DOMAIN-SUFFIX,bilibilili.uk
       # 终点站
-  # - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
-  # - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
-  # - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
+        # 终点站
+  - DOMAIN,pub1.emby.wtf # 大妹
+  - DOMAIN,pub2.emby.wtf # 二妹
+  - DOMAIN,pub3.emby.wtf # 三妹
+  - DOMAIN,pub1.term.wtf # 大妹
+  - DOMAIN,pub2.term.wtf # 二妹
+  - DOMAIN,pub3.term.wtf # 三妹
+  - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
+  - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
+  - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
     # 探花TV
   - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF线路
     # 青梅映画
