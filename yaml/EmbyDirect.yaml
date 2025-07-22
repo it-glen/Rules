@@ -24,7 +24,6 @@ payload:
   # - DOMAIN,stream.synn.cc # 国际线路
     # Aladdin
   - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
-  # - DOMAIN,ald.emby.moe # 1111 CF
   - DOMAIN,myzox.embylife.xyz # Zox CF
   - DOMAIN,myjellyfin.embylife.xyz # 水母 CF
   - DOMAIN-SUFFIX,jellyfin.asia # 水母 推流
@@ -122,21 +121,8 @@ payload:
   - IP-CIDR,147.78.247.80/32,no-resolve
   - DOMAIN,hka-emby2.aliz.work # Hka2
   - IP-CIDR,152.70.36.195/32,no-resolve
-    # 终点站
-  # - DOMAIN,pub1.emby.wtf # 大妹
-  # - DOMAIN,pub2.emby.wtf # 二妹
-  # - DOMAIN,pub3.emby.wtf # 三妹
-  # - DOMAIN,pub1.term.wtf # 大妹
-  # - DOMAIN,pub2.term.wtf # 二妹
-  # - DOMAIN,pub3.term.wtf # 三妹
-  # - IP-CIDR,138.2.119.18/32,no-resolve
-  # - IP-CIDR,158.180.73.62/32,no-resolve
-  # - IP-CIDR,158.180.90.31/32,no-resolve
-  # - IP-CIDR,152.67.200.112/32,no-resolve
-  # - IP-CIDR,144.24.89.207/32,no-resolve
-  # - IP-CIDR,144.24.68.241/32,no-resolve
-  # - IP-CIDR,144.24.66.244/32,no-resolve
-  # - IP-CIDR,158.180.81.196/32,no-resolve
+  
+  # 瑟瑟
     # 游骑兵
   - DOMAIN,emby.heisi.org # 游骑兵 CF线路
   # 音乐服
@@ -150,7 +136,7 @@ payload:
     # 高清剧集
   - DOMAIN,qqpyf.top
   - IP-CIDR,107.174.52.91/32,no-resolve # 美国
-  # 网盘
+   # 网盘
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
