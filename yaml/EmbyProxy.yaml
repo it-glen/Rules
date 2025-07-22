@@ -1,15 +1,14 @@
 payload:
   # 影视服 代理
     # PiliPili
-  # - DOMAIN,emby-direct.pilipiliultra.com # 主线路
   - DOMAIN,emby.pilipiliultra.com # CF线路
   - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
     # 纸片人
   - DOMAIN-SUFFIX,embyplus.org # 主域名
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
     # 二刺螈
-  - DOMAIN-SUFFIX,nijigem.by
   - DOMAIN,media.nijigem.by # 二刺螈
+  - DOMAIN-SUFFIX,nijigem.by
   - IP-CIDR,103.177.248.209/32,no-resolve
     # 105
   - DOMAIN,ciallo.party # 105 CF
@@ -20,9 +19,6 @@ payload:
   - DOMAIN,ald.emby.moe # 1111 x 阿拉丁
   - DOMAIN-SUFFIX,emby.moe # 1111 推流
   - DOMAIN-SUFFIX,xxlb.net # 1111 推流
-    # Peach
-  # - DOMAIN,play.embymv.link # 推流 线路二 美国
-  # - IP-CIDR,140.238.0.112/32,no-resolve
     # 起点站
   # - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
@@ -33,13 +29,6 @@ payload:
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
-    # Aurora
-  - DOMAIN,ad.auroramedia.vip # Aurora CF
-  - DOMAIN,auroramedia.me # 机器人
-  # CineTrail
-  - DOMAIN,emby1.123456789.lol
-  - IP-CIDR,46.38.242.147/32,no-resolve # 德国
-  - DOMAIN,emby2.9900990.buzz
     # CC公益
   - DOMAIN,cc.embycc.link # CF线路
   - DOMAIN,lt1.carryz.net # 代理线路 推流
@@ -52,9 +41,6 @@ payload:
   - DOMAIN,18nsqx-my.sharepoint.com # 推流
     # 临境
   - DOMAIN,emby.liminalnet.com # 临境 CF
-    # 月饼
-  # - DOMAIN,a.emby.my # CF
-  # - DOMAIN,b.emby.my # CF
     # Paul
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
@@ -64,9 +50,11 @@ payload:
   - DOMAIN,play.charontv.com # CF线路，禁止直连
     # ZN 存档服
   - DOMAIN,emby.zn.al # CF线路，禁止直连
-    # 卷毛鼠
-  # - DOMAIN,mini.jmsuper.com # 1服 CF线路
-  # - DOMAIN,nano.jmsuper.com # 2服 CF线路
+    # Aurora
+  - DOMAIN,ad.auroramedia.vip # Aurora CF
+  - DOMAIN,auroramedia.me # 机器人
+    # CineTrail
+  - DOMAIN,emby1.123456789.lol
     # 飞跃银河
   - DOMAIN,yhemby.top # 飞跃银河
   - IP-CIDR,193.123.242.179/32,no-resolve
