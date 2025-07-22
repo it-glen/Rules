@@ -6,5 +6,5 @@ payload:
     # Peach
   - DOMAIN,embymv.link # Peach
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
-  - DOMAIN,play.embymv.link # 推流 线路二 美国
-  - IP-CIDR,140.238.0.112/32,no-resolve
+  - DOMAIN,play.embymv.link # 推流 线路二
+  - IP-CIDR,152.53.81.68/32,no-resolve # 美国
