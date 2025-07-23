@@ -75,7 +75,6 @@ payload:
   - DOMAIN,mr.chilledmelon.com
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
     # 非越
-  - DOMAIN,z.sfcj.org
   - DOMAIN,cf.sfcj.org # CF线路
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
