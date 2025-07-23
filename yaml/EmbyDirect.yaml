@@ -1,8 +1,8 @@
 payload:
   # 影视服 直连
     # PiliPili
-  - DOMAIN,streamer.pilipiliultra.com # 主线路 推流域名
-  - IP-CIDR,51.75.171.183/32,no-resolve
+  - DOMAIN,emby.pilipiliultra.com # CF线路
+  - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
   - DOMAIN,pili.994959.xyz # 反代1
   - DOMAIN,caddy.pilipili.me # 反代2
   - DOMAIN,pili.im # 反代3
@@ -137,9 +137,6 @@ payload:
   - IP-CIDR,141.147.186.142/32,no-resolve # 飞跃星空 东京
   - DOMAIN,axk.123456.buzz # 飞跃星空
   - IP-CIDR,193.123.227.226/32,no-resolve # 飞跃星空 首尔
-    # 高清剧集
-  - DOMAIN,qqpyf.top
-  - IP-CIDR,107.174.52.91/32,no-resolve # 美国
    # 网盘
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
