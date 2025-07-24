@@ -1,8 +1,8 @@
 payload:
   # 影视服 直连
     # PiliPili
-  - DOMAIN,emby.pilipiliultra.com # CF线路
-  - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
+  # - DOMAIN,emby.pilipiliultra.com # CF线路
+  # - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
   - DOMAIN,pili.994959.xyz # 反代1
   - DOMAIN,caddy.pilipili.me # 反代2
   - DOMAIN,pili.im # 反代3
