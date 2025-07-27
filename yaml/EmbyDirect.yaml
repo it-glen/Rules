@@ -111,6 +111,8 @@ payload:
   - DOMAIN,onatoshi.114514.quest # CF线路
     # HOHAI
   - DOMAIN,emby.hohai.eu.org # CF线路
+    # Shrek
+  - DOMAIN,public.shrekmedia.org # CF线路
     # 墨云阁
   - DOMAIN,2pfdml.mobaiemby.site # 美国
   - IP-CIDR,152.53.38.126/32,no-resolve
