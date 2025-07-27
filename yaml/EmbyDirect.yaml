@@ -103,11 +103,15 @@ payload:
   - DOMAIN,us.nanflix.net # Nanflix-US
   - IP-CIDR,152.53.54.201/32,no-resolve
     # STAR
-  - DOMAIN-SUFFIX,staryuki.me
   - DOMAIN,c1.staryuki.me
   - DOMAIN,c2.staryuki.me
+  - DOMAIN,c3.staryuki.me
+  - DOMAIN,de1.staryuki.me
+  - DOMAIN,de2.staryuki.me
   - DOMAIN,us3.staryuki.me
   - DOMAIN,us4.staryuki.me
+  - DOMAIN-SUFFIX,staryuki.me
+  - DOMAIN-SUFFIX,staryuki.me.kiven.cc
     # Doubon
   - DOMAIN,onatoshi.114514.quest # CF线路
     # HOHAI
