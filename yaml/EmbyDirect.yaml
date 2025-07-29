@@ -32,6 +32,8 @@ payload:
   - DOMAIN-SUFFIX,892818.xyz
   - DOMAIN-SUFFIX,myhxgzw.fun
   - DOMAIN-SUFFIX,010004.xyz
+    # 起点站
+  - DOMAIN,free.28.al # CF线路
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
