@@ -15,9 +15,6 @@ payload:
     # 入境
   - IP-CIDR,120.53.89.215/32,no-resolve
   - IP-CIDR,211.159.153.75/32,no-resolve
-    # 69云地平线
-  - DOMAIN,emby1.69yun69.com # 69云地平线
-  - DOMAIN-SUFFIX,69yun69.com
     # SYN ntRRR
   - DOMAIN,clip.makima.online # 国内线路
   - DOMAIN-SUFFIX,jiashule.com # 国内推流
