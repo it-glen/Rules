@@ -21,8 +21,7 @@ payload:
   # - DOMAIN,stream.synn.cc # 国际线路
     # Aladdin
   - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
-  - DOMAIN,myzox.embylife.xyz # Zox CF
-  - DOMAIN,myjellyfin.embylife.xyz # 水母 CF
+  - DOMAIN,alatin.3767483.xyz # Zox CF
   - DOMAIN-SUFFIX,jellyfin.asia # 水母 推流
   - DOMAIN,s.outong-valve.com # 云上 直连
     # Levilde Luminia
