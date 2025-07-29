@@ -25,7 +25,6 @@ payload:
   - DOMAIN,myjellyfin.embylife.xyz # 水母 CF
   - DOMAIN-SUFFIX,jellyfin.asia # 水母 推流
   - DOMAIN,s.outong-valve.com # 云上 直连
-  # - DOMAIN,my.liminalnet.site # 临境 CF
     # Levilde Luminia
   - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
   - IP-CIDR,188.253.112.89/32,no-resolve
@@ -36,9 +35,6 @@ payload:
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
-    # 起点站
-  - DOMAIN,free.28.al # CF线路
-  - DOMAIN-SUFFIX,28.al
     # 土匪
   - DOMAIN-SUFFIX,tufei.de # 土匪 CF
   - DOMAIN-SUFFIX,qiandu.de # 土匪
