@@ -20,7 +20,7 @@ payload:
   - DOMAIN-SUFFIX,emby.moe # 1111 推流
   - DOMAIN-SUFFIX,xxlb.net # 1111 推流
     # 起点站
-  - DOMAIN,free.28.al # CF线路
+  # - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
