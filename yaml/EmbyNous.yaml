@@ -6,8 +6,6 @@ payload:
     # 69云
   - DOMAIN,emby1.69yun69.com # 69云卷毛鼠
   - DOMAIN-SUFFIX,69yun69.com
-    # 叶子
-  - DOMAIN,gm.yezi.my # 叶子网盘 CF
 
     # 非80/443端口
     # 非越
