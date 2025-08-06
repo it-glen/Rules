@@ -41,6 +41,8 @@ payload:
   - DOMAIN,18nsqx-my.sharepoint.com # 推流
     # 临境
   - DOMAIN,emby.liminalnet.com # 临境 CF
+    # SNTP Lite
+  - DOMAIN,lite.cn2gias.uk # SNTP CF
     # Paul
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
@@ -92,4 +94,5 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
