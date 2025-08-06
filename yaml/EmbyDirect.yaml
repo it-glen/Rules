@@ -8,7 +8,7 @@ payload:
   - DOMAIN,pili.im # 反代3
   - DOMAIN,cf.pili.im # 反代3 CF
     # 纸片人
-  - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
+  # - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # 二刺螈
   - DOMAIN-SUFFIX,cdn.bgp.yt
@@ -43,8 +43,6 @@ payload:
   - DOMAIN,emby.feiniu.lol # 肥牛 CF
     # MSKY
   - DOMAIN,cf.5msky.com # MSKY CF
-    # SNTP Lite
-  - DOMAIN,lite.cn2gias.uk # SNTP CF
     # SaturDay.Lite
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
@@ -142,3 +140,4 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
