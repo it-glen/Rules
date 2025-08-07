@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,xiaoyahelper.ddsrem.com
     # metacubex
   - DOMAIN-SUFFIX,metacubex.one
+    # zashboard
+  - DOMAIN-SUFFIX,board.zash.run.place
     # docs.plusai.me
   - DOMAIN-SUFFIX,plusai.me
   - DOMAIN-SUFFIX,plusai.io
