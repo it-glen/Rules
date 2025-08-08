@@ -51,7 +51,6 @@ payload:
   - DOMAIN,cc.coemn.com # 主域名
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN-SUFFIX,carryz.net # 推流域名
-  - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
     # 冰镇西瓜
   - DOMAIN-SUFFIX,chilledmelon.com # 冰镇西瓜
   - DOMAIN,rn.chilledmelon.com
@@ -140,4 +139,5 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
