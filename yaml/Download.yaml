@@ -1,6 +1,6 @@
 payload:
     # Github下载
-  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,release-assets.githubusercontent.com
   - DOMAIN-SUFFIX,objects.githubusercontent.com
   - DOMAIN-SUFFIX,blob.core.windows.net
     # wetransfer下载
@@ -35,4 +35,5 @@ payload:
   - DOMAIN-SUFFIX,speedtest.singnet.com.sg
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,wlvpn.com
+
 
