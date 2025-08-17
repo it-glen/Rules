@@ -53,6 +53,8 @@ payload:
   - DOMAIN,play.charontv.com # CF线路，禁止直连
     # ZN 存档服
   - DOMAIN,emby.zn.al # CF线路，禁止直连
+    # 琉璃服
+  - DOMAIN,emby.kongcheng666.dpdns.org # 琉璃 CF
     # Aurora
   - DOMAIN,ad.auroramedia.vip # Aurora CF
   - DOMAIN,auroramedia.me # 机器人
@@ -63,8 +65,7 @@ payload:
   - IP-CIDR,193.123.242.179/32,no-resolve
     # 牢大科蜜直升机餐厅
   - DOMAIN-SUFFIX,bilibilili.uk
-      # 终点站
-        # 终点站
+    # 终点站
   - DOMAIN,pub1.emby.wtf # 大妹
   - DOMAIN,pub2.emby.wtf # 二妹
   - DOMAIN,pub3.emby.wtf # 三妹
@@ -95,6 +96,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
