@@ -8,8 +8,6 @@ payload:
   - DOMAIN-SUFFIX,69yun69.com
 
     # 非80/443端口
-    # 非越
-  - DOMAIN,z.sfcj.org
     # 憨豆
   - DOMAIN-SUFFIX,handoumedia.top
     # Peach
