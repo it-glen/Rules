@@ -34,6 +34,8 @@ payload:
   - DOMAIN,lt1.carryz.net # 代理线路 推流
   - DOMAIN-SUFFIX,carryz.net # 推流域名
   - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
+    # 非越
+  - DOMAIN,cdn.sfcj.org # 主线路
     # 叶子
   - DOMAIN,gm.yezi.my # 叶子网盘 CF
     # 稳健
@@ -96,6 +98,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
