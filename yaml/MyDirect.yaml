@@ -17,8 +17,6 @@ payload:
   - DOMAIN-SUFFIX,follow.is
     # DeepLX 翻译
   - DOMAIN-SUFFIX,missuo.ru
-    # Gofile网盘
-  - DOMAIN-SUFFIX,gofile.io
     # Flexcil
   - DOMAIN-SUFFIX,flexcil.com
     # Github镜像
