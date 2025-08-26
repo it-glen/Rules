@@ -8,6 +8,8 @@ payload:
     # OneDrive网盘下载
   - DOMAIN-SUFFIX,kaifa520.sharepoint.com
   - DOMAIN-SUFFIX,sharepoint.com
+    # Gofile网盘
+  - DOMAIN-SUFFIX,gofile.io
     # 流量消耗器
   - DOMAIN-SUFFIX,jiyou.cloud
     # 测速网站
@@ -35,5 +37,6 @@ payload:
   - DOMAIN-SUFFIX,speedtest.singnet.com.sg
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,wlvpn.com
+
 
 
