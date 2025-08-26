@@ -44,7 +44,7 @@ payload:
     # MSKY
   - DOMAIN,cf.5msky.com # MSKY CF
     # ME
-  - DOMAIN,bava.mebimmer.de # BAVA CF
+  - DOMAIN,mperformance.mebimmer.de # BAVA CF
     # SaturDay.Lite
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
@@ -130,18 +130,15 @@ payload:
   # 瑟瑟
     # 游骑兵
   - DOMAIN,emby.heisi.org # 游骑兵 CF线路
+  
   # 音乐服
     # 未响
   - DOMAIN,music.mefun.org # 未响 CF
-    # 飞跃星空
-  - DOMAIN,xk.123456.buzz # 飞跃星空
-  - IP-CIDR,141.147.186.142/32,no-resolve # 飞跃星空 东京
-  - DOMAIN,axk.123456.buzz # 飞跃星空
-  - IP-CIDR,193.123.227.226/32,no-resolve # 飞跃星空 首尔
    # 网盘
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
