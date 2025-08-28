@@ -127,10 +127,6 @@ payload:
   - DOMAIN,hka-emby2.aliz.work # Hka2
   - IP-CIDR,152.70.36.195/32,no-resolve
   
-  # 瑟瑟
-    # 游骑兵
-  - DOMAIN,emby.heisi.org # 游骑兵 CF线路
-  
   # 音乐服
     # 未响
   - DOMAIN,music.mefun.org # 未响 CF
@@ -138,6 +134,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
