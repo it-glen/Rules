@@ -77,12 +77,13 @@ payload:
   - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
   - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
   - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
-    # 探花TV
-  - DOMAIN-SUFFIX,tanhuatv.site # 探花TV CF线路
+
+  # 瑟瑟
     # PlayZ
   - DOMAIN,playz.mjji.de # CF线路
-    # 青梅映画
-  - DOMAIN,qingmei.chuncheon241.top # 主线路
+    # 游骑兵
+  - DOMAIN,emby.heisi.org # 游骑兵 CF线路
+
 
   # 音乐服
     # 南瓜
@@ -98,6 +99,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
