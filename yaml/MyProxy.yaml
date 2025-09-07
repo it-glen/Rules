@@ -31,6 +31,7 @@ payload:
     # 机场订阅
   - DOMAIN-SUFFIX,372372.xyz #特价
   - DOMAIN-SUFFIX,cjcloud.cc
+  - DOMAIN-SUFFIX,0085.top # Aladdin
   - DOMAIN,watashi.synn.moe # SYN
   - DOMAIN,acl.syyn.pw # SYN订阅
     # DNS泄露
