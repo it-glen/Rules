@@ -1,12 +1,5 @@
 payload:
   # 影视服 直连
-    # PiliPili
-  # - DOMAIN,emby.pilipiliultra.com # CF线路
-  # - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
-  - DOMAIN,pili.994959.xyz # 反代1
-  - DOMAIN,caddy.pilipili.me # 反代2
-  - DOMAIN,pili.im # 反代3
-  - DOMAIN,cf.pili.im # 反代3 CF
     # 纸片人
   # - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
@@ -21,15 +14,22 @@ payload:
   - DOMAIN-SUFFIX,892818.xyz
   - DOMAIN-SUFFIX,myhxgzw.fun
   - DOMAIN-SUFFIX,010004.xyz
-    # 起点站
-  - DOMAIN,free.28.al # CF线路
+    # STAR
+  - DOMAIN,c1.staryuki.me
+  - DOMAIN,c2.staryuki.me
+  - DOMAIN,c3.staryuki.me
+  - DOMAIN,de1.staryuki.me
+  - DOMAIN,de2.staryuki.me
+  - DOMAIN,us3.staryuki.me
+  - DOMAIN,us4.staryuki.me
+  - DOMAIN-SUFFIX,staryuki.me
+  - DOMAIN-SUFFIX,staryuki.me.kiven.cc
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
-    # 肥牛
-  - DOMAIN,emby.feiniu.lol # 肥牛 CF
-    # MSKY
-  - DOMAIN,cf.5msky.com # MSKY CF
+    # Youno
+  - DOMAIN,jp.younoyes.com # 日本
+  - DOMAIN,us.younoyes.com # 美西
     # SaturDay.Lite
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
@@ -53,47 +53,28 @@ payload:
   - IP-CIDR,89.251.26.153/32,no-resolve # 香港国际
   - DOMAIN,mr.chilledmelon.com
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
+    # 肥牛
+  - DOMAIN,emby.feiniu.lol # 肥牛 CF
+    # MSKY
+  - DOMAIN,cf.5msky.com # MSKY CF
     # 非越
   - DOMAIN,cf.sfcj.org # CF线路
-    # Youno
-  - DOMAIN,jp.younoyes.com # 日本
-  - DOMAIN,us.younoyes.com # 美西
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
+    # Nanflix-US
+  - DOMAIN,us.nanflix.net # Nanflix-US
+  - IP-CIDR,152.53.54.201/32,no-resolve
     # 月饼
   - DOMAIN,a.emby.my # 直连
   - DOMAIN-SUFFIX,emby.my 
   - DOMAIN-SUFFIX,637567.xyz # 推流
   - IP-CIDR,111.229.46.243/32,no-resolve # 推流
-    # 入机
-  - DOMAIN,rjhk.rjf37.com
-  - DOMAIN-SUFFIX,rjf37.com
-  - DOMAIN-SUFFIX,xytx.org
-  - DOMAIN-SUFFIX,010004.xyz
     # 飞了个喵
   - DOMAIN,gy.meowfly.de # 飞了个喵
   - IP-CIDR,152.53.164.63/32,no-resolve
     # 惊蛰
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
-    # 疯狂星期四
-  - DOMAIN,kfc.v50.su # 直连
-  - IP-CIDR,144.24.39.236/32,no-resolve # 美国
-  - DOMAIN,cloudflare.v50.su # CF
-  - DOMAIN,cdn.v50.su # CDN
-    # Nanflix-US
-  - DOMAIN,us.nanflix.net # Nanflix-US
-  - IP-CIDR,152.53.54.201/32,no-resolve
-    # STAR
-  - DOMAIN,c1.staryuki.me
-  - DOMAIN,c2.staryuki.me
-  - DOMAIN,c3.staryuki.me
-  - DOMAIN,de1.staryuki.me
-  - DOMAIN,de2.staryuki.me
-  - DOMAIN,us3.staryuki.me
-  - DOMAIN,us4.staryuki.me
-  - DOMAIN-SUFFIX,staryuki.me
-  - DOMAIN-SUFFIX,staryuki.me.kiven.cc
     # Doubon
   - DOMAIN,onatoshi.114514.quest # CF线路
     # HOHAI
@@ -102,28 +83,16 @@ payload:
   - DOMAIN,public.shrekmedia.org # CF线路
     # ichinosekotomifan
   - DOMAIN,emby.191920.xyz # ichinosekotomifan
-    # 墨云阁
-  - DOMAIN,2pfdml.mobaiemby.site # 美国
-  - IP-CIDR,152.53.38.126/32,no-resolve
-  - DOMAIN,sfyzn2.mobaiemby.site # 广移
-  - IP-CIDR,120.233.171.174/32,no-resolve
-  - DOMAIN,fast.vfing.de # 广移
-  - IP-CIDR,120.232.217.219/32,no-resolve
-    # HkaEmby
-  - DOMAIN,hka-emby.aliz.work # 主域名
-  - IP-CIDR,148.135.111.212/32,no-resolve
-  - DOMAIN,hka-emby1.aliz.work # Hka1
-  - IP-CIDR,147.78.247.80/32,no-resolve
-  - DOMAIN,hka-emby2.aliz.work # Hka2
-  - IP-CIDR,152.70.36.195/32,no-resolve
   
   # 音乐服
     # 未响
   - DOMAIN,music.mefun.org # 未响 CF
-   # 网盘
+  
+  # 网盘
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
