@@ -1,4 +1,6 @@
 payload:
+    # docker
+  - DOMAIN,index.docker.io
     # 小雅
   - DOMAIN-SUFFIX,xiaoya.pro
   - DOMAIN-SUFFIX,xiaoyahelper.ddsrem.com
