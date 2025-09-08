@@ -70,6 +70,9 @@ payload:
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
     # 非越
   - DOMAIN,cf.sfcj.org # CF线路
+    # Youno
+  - DOMAIN,jp.younoyes.com # 日本
+  - DOMAIN,us.younoyes.com # 美西
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
     # 月饼
@@ -136,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
