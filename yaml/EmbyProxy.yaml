@@ -36,6 +36,8 @@ payload:
   - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
     # 非越
   - DOMAIN,cdn.sfcj.org # 主线路
+    # Youno
+  - DOMAIN,emby.younoyes.com # 主线路 CF
     # 叶子
   - DOMAIN,gm.yezi.my # 叶子网盘 CF
     # 稳健
@@ -101,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
