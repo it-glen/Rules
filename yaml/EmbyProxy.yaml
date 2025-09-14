@@ -37,6 +37,8 @@ payload:
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
+    # 肥牛
+  - DOMAIN,emby.feiniu.lol # 肥牛 CF
     # 非越
   - DOMAIN,cdn.sfcj.org # 主线路
     # 稳健
@@ -84,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
