@@ -23,6 +23,9 @@ payload:
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
+    # 琉璃门
+  - DOMAIN,emby.kongcheng666.dpdns.org # CF线路
+  - DOMAIN-SUFFIX,kongcheng666.dpdns.org
     # SNTP Lite
   - DOMAIN,lite.cn2gias.uk # SNTP CF
     # Youno
@@ -86,6 +89,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
