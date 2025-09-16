@@ -1,6 +1,8 @@
 payload:
     # docker
   - DOMAIN,index.docker.io
+    # AMD驱动
+  - DOMAIN-SUFFIX,amd.com
     # 小雅
   - DOMAIN-SUFFIX,xiaoya.pro
   - DOMAIN-SUFFIX,xiaoyahelper.ddsrem.com
