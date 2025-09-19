@@ -96,6 +96,13 @@ payload:
   - DOMAIN,public.shrekmedia.org # CF线路
     # ichinosekotomifan
   - DOMAIN,emby.191920.xyz # ichinosekotomifan
+    # 终点站
+  - DOMAIN,pub1.emby.wtf # 大妹
+  - DOMAIN,pub2.emby.wtf # 二妹
+  - DOMAIN,pub3.emby.wtf # 三妹
+  - DOMAIN,pub1.term.wtf # 大妹
+  - DOMAIN,pub2.term.wtf # 二妹
+  - DOMAIN,pub3.term.wtf # 三妹
   
   # 音乐服
     # 未响
@@ -105,6 +112,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
