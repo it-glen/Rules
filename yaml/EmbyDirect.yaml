@@ -14,6 +14,11 @@ payload:
   - DOMAIN-SUFFIX,892818.xyz
   - DOMAIN-SUFFIX,myhxgzw.fun
   - DOMAIN-SUFFIX,010004.xyz
+    # Peach
+  - DOMAIN,embymv.link # Peach
+  - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
+  - DOMAIN,play.embymv.link # 推流 线路二
+  - IP-CIDR,152.53.81.68/32,no-resolve # 美国
     # STAR
   - DOMAIN,c1.staryuki.me
   - DOMAIN,c2.staryuki.me
@@ -90,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
