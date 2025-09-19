@@ -9,7 +9,7 @@ payload:
 
     # 非80/443端口
     # 憨豆
-  - DOMAIN-SUFFIX,handoumedia.top
+  # - DOMAIN-SUFFIX,handoumedia.top
     # Peach
   # - DOMAIN,embymv.link # Peach
   # - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
