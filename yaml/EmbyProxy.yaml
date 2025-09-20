@@ -60,8 +60,9 @@ payload:
     # 游骑兵
   - DOMAIN,emby.heisi.org # 游骑兵 CF线路
 
-
   # 音乐服
+    # 未响
+  - DOMAIN,music.mefun.org # 未响 CF
     # 南瓜
   - DOMAIN,vip.nangua.de # 南瓜 CF
     # 稳健
@@ -75,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
