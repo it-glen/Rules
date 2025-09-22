@@ -1,6 +1,6 @@
 payload:
     # docker
-  - DOMAIN,index.docker.io
+  - DOMAIN-SUFFIX,index.docker.io
     # AMD驱动
   - DOMAIN-SUFFIX,amd.com
     # 小雅
@@ -21,7 +21,6 @@ payload:
   - DOMAIN-SUFFIX,imgtp.com
     # 小说网站
   - DOMAIN-KEYWORD,69shu
-  - DOMAIN-KEYWORD,69shuba
   - DOMAIN-KEYWORD,69book
     # 博客/论坛
   - DOMAIN-SUFFIX,bulianglin.com
