@@ -23,6 +23,9 @@ payload:
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
+    # FWorks
+  - DOMAIN,fworks-emby.webn.cc # CF线路
+  - DOMAIN,fworks-emby.sylu.net # CF线路
     # SNTP Lite
   - DOMAIN,lite.cn2gias.uk # SNTP CF
     # Youno
@@ -76,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
