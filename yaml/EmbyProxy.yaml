@@ -26,6 +26,9 @@ payload:
     # FWorks
   - DOMAIN,fworks-emby.webn.cc # CF线路
   - DOMAIN,fworks-emby.sylu.net # CF线路
+    # 小竹轩
+  - DOMAIN,xxxxx.xxxxx.com # CF线路
+  - DOMAIN,shouer.910427.xyz # 首尔线路
     # SNTP Lite
   - DOMAIN,lite.cn2gias.uk # SNTP CF
     # Youno
@@ -79,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
