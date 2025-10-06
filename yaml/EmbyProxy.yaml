@@ -35,6 +35,8 @@ payload:
   - DOMAIN,emby.younoyes.com # 主线路 CF
     # CC公益
   - DOMAIN,cc.embycc.link # CF线路
+    # ME公益
+  - DOMAIN,mperformance.mebimmer.de # ME CF
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
@@ -83,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
