@@ -38,8 +38,6 @@ payload:
     # Youno
   - DOMAIN,jp.younoyes.com # 日本
   - DOMAIN,us.younoyes.com # 美西
-    # ME公益
-  - DOMAIN,mperformance.mebimmer.de # ME CF
     # CC公益
   - DOMAIN-SUFFIX,carryz.net # 推流域名
   - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
@@ -108,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
