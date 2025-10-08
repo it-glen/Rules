@@ -35,12 +35,16 @@ payload:
     # 琉璃门
   - DOMAIN,emby.kongcheng666.dpdns.org # CF线路
   - DOMAIN-SUFFIX,kongcheng666.dpdns.org
-    # Youno
-  - DOMAIN,jp.younoyes.com # 日本
-  - DOMAIN,us.younoyes.com # 美西
     # CC公益
   - DOMAIN-SUFFIX,carryz.net # 推流域名
   - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
+    # Youno
+  - DOMAIN,jp.younoyes.com # 日本
+  - DOMAIN,us.younoyes.com # 美西
+    # Lyrebird
+  - DOMAIN,cdn.lyrebirdemby.com # 主线路
+  - DOMAIN,cdn.2580852.xyz # 优选线路
+  - IP-CIDR,188.172.228.65/32,no-resolve # 奥地利维也纳
     # SaturDay.Lite
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
@@ -106,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
