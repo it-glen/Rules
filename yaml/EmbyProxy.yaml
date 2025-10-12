@@ -45,6 +45,7 @@ payload:
   - DOMAIN,test.feiniu.lol # 测试线路
     # 非越
   - DOMAIN,cdn.sfcj.org # 主线路
+  - DOMAIN,cf.sfcj.org # CF线路
     # 稳健
   - DOMAIN,emby.wenjian.de # 稳健 CF
   - DOMAIN,nc-list.wenjian.de
@@ -85,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
