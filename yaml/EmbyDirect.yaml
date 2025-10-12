@@ -70,8 +70,6 @@ payload:
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
     # MSKY
   - DOMAIN,cf.5msky.com # MSKY CF
-    # 非越
-  - DOMAIN,cf.sfcj.org # CF线路
     # 憨豆
   - DOMAIN-SUFFIX,handoumedia.top
     # ZoxFree
@@ -110,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
