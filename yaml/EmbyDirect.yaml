@@ -51,6 +51,8 @@ payload:
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN-SUFFIX,carryz.net # 推流域名
   - DOMAIN,iplc.cokecloud.top # 广州 推流
+    # ME公益
+  - DOMAIN,mperformance.mebimmer.de # sDrive
     # 冰镇西瓜
   - DOMAIN-SUFFIX,chilledmelon.com # 冰镇西瓜
   - DOMAIN,rn.chilledmelon.com
@@ -105,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
