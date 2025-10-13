@@ -20,6 +20,9 @@ payload:
     # 起点站
   - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
+    # 琉璃门
+  - DOMAIN,emby.kongcheng666.dpdns.org # CF线路
+  - DOMAIN-SUFFIX,kongcheng666.dpdns.org
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
@@ -86,6 +89,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
