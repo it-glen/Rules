@@ -32,9 +32,6 @@ payload:
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
-    # 琉璃门
-  - DOMAIN,emby.kongcheng666.dpdns.org # CF线路
-  - DOMAIN-SUFFIX,kongcheng666.dpdns.org
     # CC公益
   - DOMAIN-SUFFIX,carryz.net # 推流域名
   - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
@@ -108,6 +105,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
