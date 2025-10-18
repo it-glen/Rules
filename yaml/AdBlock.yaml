@@ -1,3 +1,5 @@
 payload:
     # 广告拦截
   - DOMAIN,tj.arae.cc #matomo,谷歌数据监测分析网站
+  - DOMAIN,update.googleapis.com # chrome更新
+
