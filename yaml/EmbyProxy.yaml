@@ -39,7 +39,6 @@ payload:
     # CC公益
   - DOMAIN,cc.embycc.link # CF线路
     # ME公益
-  - DOMAIN,sport.mebimmer.de # xDrive
   - DOMAIN,danmu.mebimmer.de # 弹幕
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
@@ -90,6 +89,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
