@@ -104,14 +104,11 @@ payload:
   - DOMAIN,pub2.term.wtf # 二妹
   - DOMAIN,pub3.term.wtf # 三妹
 
-  # 音乐服
-    # 未响
-  - DOMAIN,music.mefun.org # 未响 CF
-
   # 网盘
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
