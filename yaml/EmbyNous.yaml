@@ -11,7 +11,7 @@ payload:
     # 憨豆
   # - DOMAIN-SUFFIX,handoumedia.top
     # Peach
-  - DOMAIN,embymv.link # Peach主线路
-  - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
+  # - DOMAIN,embymv.link # Peach主线路
+  # - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
   # - DOMAIN,play.embymv.link # 推流 线路二
   # - IP-CIDR,152.53.81.68/32,no-resolve # 美国
