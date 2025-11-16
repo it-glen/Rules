@@ -55,6 +55,7 @@ payload:
   - DOMAIN,18nsqx-my.sharepoint.com # 推流
     # 临境
   - DOMAIN,emby.liminalnet.com # 临境 CF
+  - DOMAIN,lite.liminalnet.com # 临小境 CF
     # 叶子
   - DOMAIN,gm.yezi.my # 叶子网盘 CF
     # Paul
@@ -89,6 +90,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
