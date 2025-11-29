@@ -19,19 +19,12 @@ payload:
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
   - DOMAIN,play.embymv.link # 推流 线路二
   - IP-CIDR,152.53.81.68/32,no-resolve # 美国
-    # STAR
-  - DOMAIN,c1.staryuki.me
-  - DOMAIN,c2.staryuki.me
-  - DOMAIN,c3.staryuki.me
-  - DOMAIN,de1.staryuki.me
-  - DOMAIN,de2.staryuki.me
-  - DOMAIN,us3.staryuki.me
-  - DOMAIN,us4.staryuki.me
-  - DOMAIN-SUFFIX,staryuki.me
-  - DOMAIN-SUFFIX,staryuki.me.kiven.cc
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
+    # FWorks
+  - DOMAIN,fworks-emby.webn.cc # CF线路
+  - DOMAIN,fworks-emby.sylu.net # CF线路
     # CC公益
   - DOMAIN-SUFFIX,carryz.net # 推流域名
   - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
@@ -108,6 +101,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   
+
 
 
 
