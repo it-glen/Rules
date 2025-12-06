@@ -83,6 +83,8 @@ payload:
   - IP-CIDR,129.154.193.8/32,no-resolve
     # Doubon
   - DOMAIN,onatoshi.114514.quest # CF线路
+    # Embydada
+  - DOMAIN-SUFFIX,10520.xyz # 香港线路
     # HOHAI
   - DOMAIN,emby.hohai.eu.org # CF线路
     # Shrek
@@ -100,7 +102,9 @@ payload:
   # 网盘
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
+  - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
   
+
 
 
 
