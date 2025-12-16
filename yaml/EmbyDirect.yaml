@@ -64,7 +64,7 @@ payload:
     # MSKY
   - DOMAIN,cf.5msky.com # MSKY CF
     # 憨豆
-  - DOMAIN-SUFFIX,handoumedia.top
+  # - DOMAIN-SUFFIX,handoumedia.top
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
     # Nanflix-US
@@ -104,6 +104,7 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
   
+
 
 
 
