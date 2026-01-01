@@ -26,27 +26,13 @@ payload:
   - DOMAIN,fworks-emby.webn.cc # CF线路
   - DOMAIN,fworks-emby.sylu.net # CF线路
     # CC公益
+  - DOMAIN,cc.coemn.com # 主域名
+  - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN-SUFFIX,carryz.net # 推流域名
   - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
     # Youno
   - DOMAIN,jp.younoyes.com # 日本
   - DOMAIN,us.younoyes.com # 美西
-    # Lyrebird
-  - DOMAIN,cdn.lyrebirdemby.com # 主线路
-  - DOMAIN,cdn.2580852.xyz # 优选线路
-  - IP-CIDR,188.172.228.65/32,no-resolve # 奥地利维也纳
-    # SaturDay.Lite
-  - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
-  - IP-CIDR,152.53.55.180/32,no-resolve # 美国
-  - IP-CIDR,221.228.32.13/32,no-resolve # 江苏电信
-    # CC公益
-  - DOMAIN,cc.coemn.com # 主域名
-  - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
-  - DOMAIN-SUFFIX,carryz.net # 推流域名
-  - DOMAIN,iplc.cokecloud.top # 广州 推流
-    # ME公益
-  - DOMAIN,mpcs.mebimmer.de # sDrive CF
-  - DOMAIN,spcs.mebimmer.de # xDrive
     # 冰镇西瓜
   - DOMAIN-SUFFIX,chilledmelon.com # 冰镇西瓜
   - DOMAIN,rn.chilledmelon.com
@@ -63,8 +49,6 @@ payload:
   - IP-CIDR,84.54.2.59/32,no-resolve # 香港
     # MSKY
   - DOMAIN,cf.5msky.com # MSKY CF
-    # 憨豆
-  # - DOMAIN-SUFFIX,handoumedia.top
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
     # Nanflix-US
@@ -104,6 +88,7 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
   
+
 
 
 
