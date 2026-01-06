@@ -15,10 +15,10 @@ payload:
   - DOMAIN-SUFFIX,myhxgzw.fun
   - DOMAIN-SUFFIX,010004.xyz
     # Peach
-  - DOMAIN,embymv.link # Peach
-  - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
-  - DOMAIN,play.embymv.link # 推流 线路二
-  - IP-CIDR,152.53.81.68/32,no-resolve # 美国
+  # - DOMAIN,embymv.link # Peach
+  # - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
+  # - DOMAIN,play.embymv.link # 推流 线路二
+  # - IP-CIDR,152.53.81.68/32,no-resolve # 美国
     # 见手青
   - DOMAIN,jsq.vban.xyz # 见手青
   - IP-CIDR,152.53.38.126/32,no-resolve
@@ -88,6 +88,7 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
   
+
 
 
 
