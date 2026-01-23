@@ -8,7 +8,7 @@ payload:
     # Aladdin
   - DOMAIN,my.embylife.xyz # 半岛铁盒 CF
     # Levilde Luminia
-  - DOMAIN,emby.levilde.bond
+  # - DOMAIN,emby.levilde.bond
   - DOMAIN,eggtartemby.itsmyduty.top # 澳大利亚
   - IP-CIDR,188.253.112.89/32,no-resolve
   - DOMAIN-SUFFIX,clun.top # CF线路
