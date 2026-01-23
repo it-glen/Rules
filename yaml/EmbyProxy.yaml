@@ -17,6 +17,8 @@ payload:
   - DOMAIN,ald.emby.moe # 1111 x 阿拉丁
   - DOMAIN-SUFFIX,emby.moe # 1111 推流
   - DOMAIN-SUFFIX,xxlb.net # 1111 推流
+    # Levilde Luminia
+  - DOMAIN,emby.levilde.bond
     # 起点站
   - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
