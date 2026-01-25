@@ -31,6 +31,8 @@ payload:
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN-SUFFIX,carryz.net # 推流域名
   - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
+    # 非越
+  - DOMAIN,media.emby.pro
     # Youno
   - DOMAIN,jp.younoyes.com # 日本
   - DOMAIN,us.younoyes.com # 美西
@@ -89,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
   
+
 
 
 
