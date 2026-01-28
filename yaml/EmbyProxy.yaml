@@ -28,17 +28,12 @@ payload:
     # SaturDay.Lite
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
-    # 小竹轩
-  - DOMAIN,xxxxx.xxxxx.com # CF线路
-  - DOMAIN,shouer.910427.xyz # 首尔线路
     # SNTP Lite
   - DOMAIN,lite.cn2gias.uk # SNTP CF
     # Youno
   - DOMAIN,emby.younoyes.com # 主线路 CF
     # CC公益
   - DOMAIN,cc.embycc.link # CF线路
-    # ME公益
-  - DOMAIN,danmu.mebimmer.de # 弹幕
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
