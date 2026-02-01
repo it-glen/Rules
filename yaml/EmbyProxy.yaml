@@ -12,13 +12,17 @@ payload:
   - IP-CIDR,103.177.248.209/32,no-resolve
     # 105
   - DOMAIN,ciallo.party # 105 CF
+    # 卷毛鼠
+  - DOMAIN,mini.jmsuper.com # 1服 CF线路
+  - DOMAIN,nano.jmsuper.com # 2服 CF线路
+    # 69云
+  - DOMAIN,emby1.69yun69.com # 69云卷毛鼠
+  - DOMAIN-SUFFIX,69yun69.com
     # 阿拉丁
   - DOMAIN,my.liminalnet.site # 临境 CF
   - DOMAIN,ald.emby.moe # 1111 x 阿拉丁
   - DOMAIN-SUFFIX,emby.moe # 1111 推流
   - DOMAIN-SUFFIX,xxlb.net # 1111 推流
-    # Levilde Luminia
-  - DOMAIN,emby.levilde.bond
     # 起点站
   - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
@@ -44,6 +48,8 @@ payload:
   - DOMAIN,cdn.sfcj.org # 主线路
   - DOMAIN,cf.sfcj.org # CF线路
   - DOMAIN,media.emby.pro # 推流线路
+    # Levilde Luminia
+  - DOMAIN,emby.levilde.bond
     # 稳健
   - DOMAIN,emby.wenjian.de # 稳健 CF
   - DOMAIN,nc-list.wenjian.de
@@ -85,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
