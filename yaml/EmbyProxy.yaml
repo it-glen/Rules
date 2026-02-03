@@ -62,6 +62,8 @@ payload:
     # Paul
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
+    # Embydada
+  - DOMAIN-SUFFIX,101514.xyz # 香港线路
     # emos.lol
   - DOMAIN,emos.lol # emos.lol CF
     # 终点站
@@ -74,6 +76,8 @@ payload:
   - DOMAIN,playz.mjji.de # CF线路
     # 游骑兵
   - DOMAIN,emby.heisi.org # 游骑兵 CF线路
+    # HG
+  - DOMAIN,emby.dnscf.dpdns.org # CF线路
 
   # 音乐服
     # 未响
@@ -91,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
