@@ -34,6 +34,7 @@ payload:
     # 惊蛰
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
+  - DOMAIN-SUFFIX,jingzhe.pro # 推流
     # 叶子
   - DOMAIN,wp.lyezi.cc # 叶子网盘 CF
     # Doubon
@@ -60,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
   
+
 
 
 
