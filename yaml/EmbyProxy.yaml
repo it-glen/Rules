@@ -26,6 +26,7 @@ payload:
     # 起点站
   - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
+  - DOMAIN,freestream.startspoint.com # 推流线路
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
@@ -95,6 +96,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
