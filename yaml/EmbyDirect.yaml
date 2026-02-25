@@ -21,6 +21,8 @@ payload:
   - DOMAIN,us.younoyes.com # 美西
     # MSKY
   - DOMAIN,cf.5msky.com # MSKY CF
+    # Youno
+  - DOMAIN-SUFFIX,younoyes.com # 直连
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
     # 月饼
@@ -61,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
   
+
 
 
 
