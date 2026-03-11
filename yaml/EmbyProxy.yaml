@@ -34,8 +34,6 @@ payload:
   - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
     # CC公益
-  - DOMAIN,cc.coemn.com # 主域名
-  - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN,cc.mnyvc.xyz # CF线路
     # SNTP Lite
   - DOMAIN,lite.cn2gias.uk # SNTP CF
@@ -100,6 +98,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
