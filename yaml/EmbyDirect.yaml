@@ -31,9 +31,6 @@ payload:
   - DOMAIN-SUFFIX,emby.my 
   - DOMAIN-SUFFIX,637567.xyz # 推流
   - IP-CIDR,111.229.46.243/32,no-resolve # 推流
-    # 飞了个喵
-  - DOMAIN,gy.meowfly.de # 飞了个喵
-  - IP-CIDR,152.53.164.63/32,no-resolve
     # 惊蛰
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
@@ -64,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
   
+
 
 
 
