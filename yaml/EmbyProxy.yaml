@@ -23,10 +23,6 @@ payload:
   - DOMAIN,ald.emby.moe # 1111 x 阿拉丁
   - DOMAIN-SUFFIX,emby.moe # 1111 推流
   - DOMAIN-SUFFIX,xxlb.net # 1111 推流
-    # 起点站
-  - DOMAIN,free.28.al # CF线路
-  - DOMAIN-SUFFIX,28.al
-  - DOMAIN,freestream.startspoint.com # 推流线路
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
@@ -35,31 +31,36 @@ payload:
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
     # CC公益
   - DOMAIN,cc.mnyvc.xyz # CF线路
+    # 起点站
+  - DOMAIN,free.28.al # CF线路
+  - DOMAIN-SUFFIX,28.al
+  - DOMAIN,freestream.startspoint.com # 推流线路
     # SNTP Lite
   - DOMAIN,lite.cn2gias.uk # SNTP CF
     # Youno
   - DOMAIN,emby.younoyes.com # 主线路 CF
-    # CC公益
-  - DOMAIN,cc.embycc.link # CF线路
     # Nebula 星云
   - DOMAIN,emby.nebula-media.org # CF线路，禁止直连
   - DOMAIN-SUFFIX,nebula-media.org # 推流
     # 肥牛
   - DOMAIN,emby.feiniu.lol # 肥牛 CF
   - DOMAIN,test.feiniu.lol # 测试线路
+    # 稳健
+  - DOMAIN,emby.wenjian.de # 稳健 CF
+  - DOMAIN,nc-list.wenjian.de
+  - DOMAIN,18nsqx-my.sharepoint.com # 推流
     # 非越
   - DOMAIN,cdn.sfcj.org # 主线路
   - DOMAIN,cf.sfcj.org # CF线路
   - DOMAIN,media.emby.pro # 推流线路
     # Levilde Luminia
   - DOMAIN,emby.levilde.bond
-    # 稳健
-  - DOMAIN,emby.wenjian.de # 稳健 CF
-  - DOMAIN,nc-list.wenjian.de
-  - DOMAIN,18nsqx-my.sharepoint.com # 推流
     # 临境
   - DOMAIN,emby.liminalnet.com # 临境 CF
   - DOMAIN,lite.liminalnet.com # 临小境 CF
+    # 飞了个喵
+  - DOMAIN,gy.meowfly.de # 飞了个喵
+  - IP-CIDR,152.53.164.63/32,no-resolve
     # 叶子
   - DOMAIN,gm.yezi.my # 叶子网盘 CF
     # Paul
@@ -98,6 +99,7 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   
   
+
 
 
 
