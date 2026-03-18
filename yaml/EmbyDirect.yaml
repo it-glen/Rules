@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
   - DOMAIN-SUFFIX,xunlei.com # 迅雷云盘
   - DOMAIN-SUFFIX,ctyunxs.cn # 天翼云盘
+  - DOMAIN-SUFFIX,cmecloud.cn # 移动云网盘
   
 
 
