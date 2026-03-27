@@ -5,9 +5,6 @@ payload:
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # 二刺螈
   - DOMAIN-SUFFIX,cdn.bgp.yt
-    # FWorks
-  - DOMAIN,fworks-emby.webn.cc # CF线路
-  - DOMAIN,fworks-emby.sylu.net # CF线路
     # CC公益
   - DOMAIN,cc.coemn.com # 主域名
   - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
@@ -17,9 +14,6 @@ payload:
     # Youno
   - DOMAIN,jp.younoyes.com # 日本
   - DOMAIN,us.younoyes.com # 美西
-    # MSKY
-  - DOMAIN,cf.5msky.com # MSKY CF
-    # Youno
   - DOMAIN-SUFFIX,younoyes.com # 直连
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
