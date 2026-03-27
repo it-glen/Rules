@@ -5,9 +5,6 @@ payload:
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # 二刺螈
   - DOMAIN-SUFFIX,cdn.bgp.yt
-    # 见手青
-  - DOMAIN,jsq.vban.xyz # 见手青
-  - IP-CIDR,152.53.38.126/32,no-resolve
     # FWorks
   - DOMAIN,fworks-emby.webn.cc # CF线路
   - DOMAIN,fworks-emby.sylu.net # CF线路
