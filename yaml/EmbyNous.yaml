@@ -8,10 +8,13 @@ payload:
   # - DOMAIN-SUFFIX,69yun69.com
 
     # 非80/443端口
-    # 憨豆
-  - DOMAIN-SUFFIX,handoumedia.top
     # Peach
   - DOMAIN,embymv.link # Peach主线路
   - IP-CIDR,193.123.232.141/32,no-resolve # 韩国首尔
   - DOMAIN,play.embymv.link # 推流 线路二
   - IP-CIDR,152.53.81.68/32,no-resolve # 美国
+    # 见手青
+  - DOMAIN,jsq.vban.xyz # 见手青
+  - IP-CIDR,152.53.38.126/32,no-resolve
+    # 憨豆
+  - DOMAIN-SUFFIX,handoumedia.top
