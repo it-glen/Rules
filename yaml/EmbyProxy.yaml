@@ -72,11 +72,7 @@ payload:
     # Embydada
   - DOMAIN-SUFFIX,101514.xyz # 香港线路
     # emos.lol
-  - DOMAIN,emos.lol # emos.lol CF
-    # 终点站
-  - DOMAIN,pub1cf.emby.wtf # 大妹 CF线路
-  - DOMAIN,pub2cf.emby.wtf # 二妹 CF线路
-  - DOMAIN,pub3cf.emby.wtf # 三妹 CF线路
+  - DOMAIN,emos.lol # emos.lol CF
 
   # 瑟瑟
     # PlayZ
