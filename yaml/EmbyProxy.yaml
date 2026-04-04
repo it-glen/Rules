@@ -33,7 +33,10 @@ payload:
   - DOMAIN,lite.saturdayent.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
     # CC公益
+  - DOMAIN,cc.coemn.com # 主域名
+  - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
   - DOMAIN,cc.mnyvc.xyz # CF线路
+  - DOMAIN-SUFFIX,carryz.net # 推流域名
     # 起点站
   - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
