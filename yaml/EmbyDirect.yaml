@@ -5,12 +5,6 @@ payload:
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # 二刺螈
   - DOMAIN-SUFFIX,cdn.bgp.yt
-    # CC公益
-  - DOMAIN,cc.coemn.com # 主域名
-  - IP-CIDR,129.150.48.48/32,no-resolve # 主域名IP
-  # - DOMAIN,cc.mnyvc.xyz # CF线路
-  - DOMAIN-SUFFIX,carryz.net # 推流域名
-  - IP-CIDR,46.3.101.53/32,no-resolve # 推流 日本东京
     # Youno
   - DOMAIN,jp.younoyes.com # 日本
   - DOMAIN,us.younoyes.com # 美西
