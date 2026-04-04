@@ -30,7 +30,7 @@ payload:
   - DOMAIN,misty.cx # Misty，禁止直连
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
     # SaturDay.Lite
-  - DOMAIN,lite.saturdayvideo.top # SaturDay.Lite
+  - DOMAIN,lite.saturdayent.top # SaturDay.Lite
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
     # CC公益
   - DOMAIN,cc.mnyvc.xyz # CF线路
@@ -72,7 +72,8 @@ payload:
     # Embydada
   - DOMAIN-SUFFIX,101514.xyz # 香港线路
     # emos.lol
-  - DOMAIN,emos.lol # emos.lol CF
+  - DOMAIN,emos.lol # emos.lol CF
+
 
   # 瑟瑟
     # PlayZ
