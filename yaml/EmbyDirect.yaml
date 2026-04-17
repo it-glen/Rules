@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
     # 二刺螈
   - DOMAIN-SUFFIX,cdn.bgp.yt
+    # 冰镇西瓜
+  - DOMAIN-SUFFIX,playlt.chilledmelon.com # 香港
+  - DOMAIN-SUFFIX,play.chilledmelon.com # 香港
     # Youno
   - DOMAIN,jp.younoyes.com # 日本
   - DOMAIN,us.younoyes.com # 美西
