@@ -31,6 +31,7 @@ payload:
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
     # SaturDay.Lite
   - DOMAIN,lite.saturdayent.top # SaturDay.Lite
+  - DOMAIN,lite.saturdayvideo.top
   - IP-CIDR,152.53.55.180/32,no-resolve # 美国
     # CC公益
   - DOMAIN,cc.coemn.com # 主域名
