@@ -36,8 +36,6 @@ payload:
   - DOMAIN,public.shrekmedia.org # CF线路
     # ichinosekotomifan
   - DOMAIN,emby.191920.xyz # ichinosekotomifan
-    # 终点站
-  - DOMAIN,c.emby.wtf # 韩国
   
   # 网盘
   - DOMAIN-SUFFIX,pds.quark.cn # 夸克网盘
