@@ -39,6 +39,8 @@ payload:
   - DOMAIN,free.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
   - DOMAIN,freestream.startspoint.com # 推流线路
+    # CineTrail
+  - DOMAIN,cf.cinetrail.live # CF线路
     # SNTP Lite
   - DOMAIN,lite.cn2gias.uk # SNTP CF
     # Youno
