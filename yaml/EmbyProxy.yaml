@@ -36,9 +36,10 @@ payload:
   - DOMAIN,cc.mnyvc.xyz # CF线路
   - DOMAIN-SUFFIX,carryz.net # 推流域名
     # 起点站
-  - DOMAIN,free.28.al # CF线路
+  - DOMAIN,test.28.al # CF线路
   - DOMAIN-SUFFIX,28.al
-  - DOMAIN,freestream.startspoint.com # 推流线路
+  - DOMAIN,test.startspoint.com # 推流线路
+  - DOMAIN-SUFFIX,startspoint.com
     # CineTrail
   - DOMAIN,cf.cinetrail.live # CF线路
     # SNTP Lite
