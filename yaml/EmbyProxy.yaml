@@ -75,8 +75,10 @@ payload:
   - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
     # Embydada
   - DOMAIN-SUFFIX,101514.xyz # 香港线路
-    # 灵车
-  - DOMAIN,emby.n150.asia # 灵车 CF
+    # 瞬影
+  - DOMAIN,emby.n150.asia # 灵瞬影 CF
+    # 这只猫
+  - DOMAIN,eb.zzm.li # 这只猫 CF
     # emos.lol
   - DOMAIN,emos.lol # emos.lol CF
 
