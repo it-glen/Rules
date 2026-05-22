@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,startspoint.com
     # CineTrail
   - DOMAIN,cf.cinetrail.live # CF线路
+  - DOMAIN,cf.aixj.de # CF线路
     # SNTP Lite
   - DOMAIN,lite.cn2gias.uk # SNTP CF
     # Youno
