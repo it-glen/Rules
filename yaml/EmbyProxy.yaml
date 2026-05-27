@@ -22,7 +22,7 @@ payload:
   - DOMAIN-SUFFIX,xxlb.net # 1111 推流
     # FWorks
   - DOMAIN,fworks-emby.webn.cc # CF线路
-  - DOMAIN,fworks-emby.sylu.net # CF线路
+  - DOMAIN,fworks-emby.sylu.cc # CF线路
     # Misty/魔仙堡
   - DOMAIN,misty.cx # Misty，禁止直连
   - IP-CIDR,82.152.162.202/32,no-resolve # 香港
