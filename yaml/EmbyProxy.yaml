@@ -80,6 +80,7 @@ payload:
   - DOMAIN,emby.n150.asia # 灵瞬影 CF
     # 这只猫
   - DOMAIN,eb.zzm.li # 这只猫 CF
+  - DOMAIN,caop.zzm.li # 这只猫 CF
     # emos.lol
   - DOMAIN,emos.lol # emos.lol CF
 
