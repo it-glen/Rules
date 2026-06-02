@@ -92,6 +92,8 @@ payload:
   - DOMAIN,emby.heisi.org # 游骑兵 CF线路
     # HG
   - DOMAIN,hgemby.qzz.io # CF线路
+    # 步兵营地
+  - DOMAIN,bb.111848.xyz # CF线路
 
   # 音乐服
     # 未响
