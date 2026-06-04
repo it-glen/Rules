@@ -37,7 +37,9 @@ payload:
   - DOMAIN-SUFFIX,carryz.net # 推流域名
     # 起点站
   - DOMAIN,test.28.al # CF线路
+  - DOMAIN,us.aemby.de
   - DOMAIN-SUFFIX,28.al
+  - DOMAIN-SUFFIX,aemby.de
   - DOMAIN,test.startspoint.com # 推流线路
   - DOMAIN-SUFFIX,startspoint.com
     # CineTrail
