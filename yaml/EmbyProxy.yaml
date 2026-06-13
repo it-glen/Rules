@@ -4,7 +4,7 @@ payload:
   - DOMAIN,emby.pilipiliultra.com # CF线路
   - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
     # PiliPili X 結束バンド
-  - DOMAIN-SUFFIX,biliblili.uk
+  - DOMAIN-SUFFIX,biliblili.uk # CF线路
     # 纸片人
   - DOMAIN-SUFFIX,embyplus.org # 主域名
   - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
@@ -81,7 +81,8 @@ payload:
     # Embydada
   - DOMAIN-SUFFIX,101514.xyz # 香港线路
     # 瞬影
-  - DOMAIN,emby.n150.asia # 灵瞬影 CF
+  - DOMAIN,emby.n150.asia # 瞬影 CF
+  - DOMAIN,emby.syemby.com # 瞬影 CF
     # 这只猫
   - DOMAIN,eb.zzm.li # 这只猫 CF
   - DOMAIN,caop.zzm.li # 这只猫 CF
