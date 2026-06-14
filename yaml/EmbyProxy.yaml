@@ -1,5 +1,9 @@
 payload:
   # 影视服 代理
+    # 反代
+  - DOMAIN,fd.dirige.de5.net
+  - DOMAIN,emby-proxy.2019279.xyz
+  - DOMAIN,emby-proxy.itglen.cloudns.biz
     # PiliPili
   - DOMAIN,emby.pilipiliultra.com # CF线路
   - DOMAIN,streamer-cf.pilipiliultra.com # CF 推流域名
