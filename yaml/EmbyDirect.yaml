@@ -1,9 +1,5 @@
 payload:
-  # 影视服 直连
-    # 反代
-  - DOMAIN,fd.dirige.de5.net
-  - DOMAIN,emby-proxy.2019279.xyz
-  - DOMAIN,emby-proxy.itglen.cloudns.biz
+  # 影视服 直连
     # 纸片人
   # - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
