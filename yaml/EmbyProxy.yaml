@@ -90,7 +90,9 @@ payload:
     # 这只猫
   - DOMAIN,eb.zzm.li # 这只猫 CF
   - DOMAIN,caop.zzm.li # 这只猫 CF
-    # 公益
+    # Nayovo
+  - DOMAIN,nay.007.us.kg # Nayovo CF
+    # YXMM公益
   - DOMAIN,emby.yxmm.xyz # HK
     # emos.lol
   - DOMAIN,emos.lol # emos.lol CF
