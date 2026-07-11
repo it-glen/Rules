@@ -83,21 +83,13 @@ payload:
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
     # Embydada
-  - DOMAIN-SUFFIX,101514.xyz # 香港线路
-  - DOMAIN-SUFFIX,707909.xyz
-  - DOMAIN,ccyu.ccwu.cc
-    # 瞬影
-  - DOMAIN,emby.n150.asia # 瞬影 CF
-  - DOMAIN,emby.syemby.com # 瞬影 CF
+  - DOMAIN,ccdv.cc.cd
+  - DOMAIN,chi.us.ci
     # 这只猫
   - DOMAIN,eb.zzm.li # 这只猫 CF
   - DOMAIN,caop.zzm.li # 这只猫 CF
     # Nayovo
   - DOMAIN,nay.007.us.kg # Nayovo CF
-    # YXMM公益
-  - DOMAIN,emby.yxmm.xyz # HK
-    # emos.lol
-  - DOMAIN,emos.lol # emos.lol CF
 
 
   # 瑟瑟
