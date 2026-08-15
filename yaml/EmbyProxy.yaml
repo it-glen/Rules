@@ -92,6 +92,8 @@ payload:
   - DOMAIN,caop.zzm.li # 这只猫 CF
     # Nayovo
   - DOMAIN,nay.007.us.kg # Nayovo CF
+    # 茶百道
+  - DOMAIN,emby.teawaya.com # 茶百道 CF
 
 
   # 瑟瑟
