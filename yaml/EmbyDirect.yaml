@@ -4,6 +4,9 @@ payload:
     # 纸片人
   # - DOMAIN-SUFFIX,9521732.xyz # CF推流域名
   - DOMAIN-SUFFIX,029902.xyz # 直连推流域名
+    # PiliPili X 結束バンド
+  - DOMAIN,l5okyats-2lruf01f.biliblili.uk # 国内
+  - DOMAIN-SUFFIX,bliibili.top # 推流
     # 二刺螈
   - DOMAIN-SUFFIX,cdn.bgp.yt
     # 冰镇西瓜
