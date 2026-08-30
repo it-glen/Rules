@@ -50,6 +50,9 @@ payload:
   - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,itdog.cn
   - DOMAIN-SUFFIX,ipip.net
+    # 植物大战僵尸
+  - DOMAIN-SUFFIX,pvzhe.wiki
+  - DOMAIN-SUFFIX,pvzhe.com
     # 漏网之鱼
   - IP-CIDR,5.5.5.5/32,no-resolve #finalshell
   - DOMAIN-SUFFIX,kjeek.com # Flash Copliot 插件
