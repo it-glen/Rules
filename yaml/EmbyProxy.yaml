@@ -93,6 +93,8 @@ payload:
   - DOMAIN,nay.007.us.kg # Nayovo CF
     # 茶百道
   - DOMAIN,emby.teawaya.com # 茶百道 CF
+    # 茶包影视
+  - DOMAIN,tbagemby.tbag.dpdns.org # 茶包影视
 
 
   # 瑟瑟
