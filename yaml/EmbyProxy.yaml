@@ -83,6 +83,10 @@ payload:
     # 飞了个喵
   - DOMAIN,gy.meowfly.de # 飞了个喵
   - IP-CIDR,152.53.164.63/32,no-resolve
+    # 月饼
+  - DOMAIN,a.emby.my # 直连
+  - DOMAIN-SUFFIX,emby.my 
+  - DOMAIN-SUFFIX,apple-cdn.net # 推流
     # 叶子
   - DOMAIN,gm.yezi.my # 叶子网盘 CF
     # Paul
