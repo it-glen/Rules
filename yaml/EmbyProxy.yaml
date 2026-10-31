@@ -89,6 +89,9 @@ payload:
   - DOMAIN-SUFFIX,apple-cdn.net # 推流
     # 叶子
   - DOMAIN,gm.yezi.my # 叶子网盘 CF
+  - DOMAIN,wp.lyezi.cc # 叶子网盘 CF
+    # Doubon
+  - DOMAIN,onatoshi.114514.quest # CF线路
     # Paul
   - DOMAIN-SUFFIX,imetyou.top
   - DOMAIN-SUFFIX,sgsd.xyz # 短剧 追光影视 CF线路
