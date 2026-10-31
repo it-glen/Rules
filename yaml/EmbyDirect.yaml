@@ -18,10 +18,6 @@ payload:
   - DOMAIN-SUFFIX,younoyes.com # 直连
     # ZoxFree
   - DOMAIN,zoxfree.3767483.xyz # ZoxFree CF
-    # 月饼
-  - DOMAIN,a.emby.my # 直连
-  - DOMAIN-SUFFIX,emby.my 
-  - DOMAIN-SUFFIX,apple-cdn.net # 推流
     # 惊蛰
   - DOMAIN,emby.jingzhe.pro # 惊蛰 韩国首尔
   - IP-CIDR,129.154.193.8/32,no-resolve
